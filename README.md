@@ -5,6 +5,7 @@
 ![CI](https://github.com/abpandey-dev/telecom-india/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Claude](https://img.shields.io/badge/LLM-Claude-D97757)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
@@ -51,7 +52,7 @@ From the December 2025 report on, TRAI counts **wireless (mobile) = consumer SIM
 
 ![Consumer SIM share](docs/images/consumer_share.png)
 
-August 2026: **Jio 41.8%, Airtel 35.2%, Vi 15.4%, BSNL 7.7%**. Jio's lead over Airtel grew from **70M to 76M** consumer SIMs; Jio adds 1.55M a month, Airtel 1.11M. Vi loses about 0.8M a month.
+August 2026: **Jio 41.8%, Airtel 35.2%, Vi 15.4%, BSNL 7.7%**. Jio's lead over Airtel grew from **70M to 76M** consumer SIMs; Jio adds 1.35M a month, Airtel 0.97M (Apr 2025 to Aug 2026). Vi loses about 0.7M a month.
 
 ### 2. The July 2024 tariff shock
 
@@ -77,17 +78,56 @@ About **97%** of Jio's and Airtel's SIMs are active on the peak day, Vi **85%**,
 
 **Rural reach:** 49% of Airtel's base is rural, Vi 47%, Jio 44%, BSNL 33% (Nov 2025).
 
+## Ask the data (Claude assistant)
+
+`telecom-ask` answers plain-English questions with Claude and seven read-only tools over the verified tables: `market_share`, `trend`, `circle`, `rank_circles`, `active_sims`, `tariff_shock` and `data_notes`. It works straight after cloning, from `data/processed/`.
+
+**Guardrail:** every number in the answer is checked against the numbers the tools actually returned. Anything that can't be found is reported as unverified, so a made-up statistic can't pass silently.
+
+Real run, Claude Haiku 5.5, $0.0017:
+
+```text
+$ telecom-ask "Is Airtel catching up with Jio?" --model claude-haiku-5-5 --trace
+  turn 1: trend({"operator": "Jio", "view": "consumer", "start": "2024-02", "end": "latest"})  [error]
+  turn 1: market_share({"view": "consumer", "month": "latest"})
+  turn 2: trend({"operator": "Jio", "view": "consumer", "start": "2025-04", "end": "latest"})
+  turn 2: trend({"operator": "Airtel", "view": "consumer", "start": "2025-04", "end": "latest"})
+
+No. On the consumer view (M2M SIMs excluded), Airtel is not catching up with Jio. Between April 2025 and
+August 2026, Jio's share rose from 40.8% to 41.8% while Airtel's rose from 34.7% to 35.2%. Jio added about
+1.35M subscribers a month against Airtel's 0.97M, and the subscriber gap grew from 69.7M to 75.8M.
+  (caveat) The reported view, which counts M2M SIMs from December 2025, would show a ~68.5M one-month jump
+           for Airtel that is not organic growth.
+
+Number check: every number found in the tool outputs ✓
+```
+
+The tool error in turn 1 is deliberate: there's no consumer view before April 2025. Claude reads the error and retries with a valid start month.
+
+| Question | What happened |
+|---|---|
+| *Who leads in Bihar and how has that changed since 2024?* | Jio 44.5% vs Airtel 42.0% (Nov 2025); Airtel led in Feb 2024. Every number verified. $0.0010 |
+| *Which operator has the fastest 5G speeds in Delhi?* | "The data I can access does not cover network speeds…", with no guessing and 0 tool calls. $0.0004 |
+
+**What the number check caught while building this:**
+
+- **A first draft computed the Jio-Airtel gap itself** from rounded shares (6.1 points) and was flagged. The tools now return the exact gap (6.2 points), so it can be cited.
+- **The assistant found a mistake in this README.** Jio's average monthly net additions were 1.35M, not the 1.55M first published. The original calculation skipped the two months missing from the consumer view.
+
 ## Quick start
 
 ```bash
 git clone https://github.com/abpandey-dev/telecom-india.git && cd telecom-india
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
-pytest -q                                      # parser and analysis tests, no downloads
+pytest -q                                      # 14 tests: parser, analysis, assistant (fake Claude, no API calls)
 
 python scripts/download_reports.py             # ~90 MB of TRAI PDFs into data/raw/ (needs data/raw/report_index.json)
 PYTHONPATH=src python scripts/make_report.py   # parse + verify all reports, findings, charts
 python scripts/make_diagrams.py
+
+export ANTHROPIC_API_KEY=...                   # Claude assistant: about $0.001-0.002 a question on Haiku 5.5
+telecom-ask "Who is winning in Tamil Nadu?" --model claude-haiku-5-5 --trace
 ```
 
 ## Project layout
@@ -97,10 +137,11 @@ src/telecom/
   parse.py       # position-based table reader, Total-row self-checks, previous-month recovery, M2M from text
   analysis.py    # reported vs consumer views, tariff shock, circle shifts, active-adjusted share, rural share
   charts.py      # matplotlib charts (fixed colour per operator)
+  assistant.py   # Claude "ask the data" assistant: 7 read-only tools, structured answer, number check
 scripts/         # download_reports.py, make_report.py, make_diagrams.py, diagram_kit.py
 data/processed/  # cleaned tables: mobile, active, rural, m2m (CSV)
 docs/            # diagrams and charts
-tests/           # number/name cleaning, glued headers, row rebuilding, M2M parsing, consumer correction
+tests/           # PDF cleaning, glued headers, row rebuilding, M2M, consumer correction, assistant tools + loop
 ```
 
 ## Limits

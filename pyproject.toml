@@ -10,10 +10,13 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Abhishek Pandey" }]
-dependencies = ["pandas>=2.1", "matplotlib>=3.8", "pdfplumber>=0.11", "certifi"]
+dependencies = ["pandas>=2.1", "matplotlib>=3.8", "pdfplumber>=0.11", "certifi", "anthropic>=1.0"]
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
+
+[project.scripts]
+telecom-ask = "telecom.assistant:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
