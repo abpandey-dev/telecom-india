@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "telecom-india"
+version = "0.1.0"
+description = "Jio vs Airtel vs Vi vs BSNL from TRAI's official monthly reports: 31 months, 22 circles, verified."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Abhishek Pandey" }]
+dependencies = ["pandas>=2.1", "matplotlib>=3.8", "pdfplumber>=0.11", "certifi"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

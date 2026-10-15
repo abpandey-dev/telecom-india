@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+# Raw TRAI PDFs and intermediate files stay local; cleaned tables live in data/processed/.
+data/*
+!data/processed/
+!data/raw/
+data/raw/*
+!data/raw/report_index.json
