@@ -70,7 +70,9 @@ findings = {
                        "start": csh.loc[first].round(2).to_dict(), "end": csh.loc[last].round(2).to_dict()},
     "consumer_gap_jio_airtel_m": {"start": round((cons.loc[first, "Jio"] - cons.loc[first, "Airtel"]) / 1e6, 1),
                                   "end": round((cons.loc[last, "Jio"] - cons.loc[last, "Airtel"]) / 1e6, 1)},
-    "consumer_net_adds_per_month_m": (cons.diff().mean() / 1e6).round(2).to_dict(),
+    # total change / months elapsed (not the mean of diffs, which would skip the missing Nov-Dec 2025 months)
+    "consumer_net_adds_per_month_m": ((cons.loc[last] - cons.loc[first]) / 1e6
+                                      / ((last.year - first.year) * 12 + last.month - first.month)).round(2).to_dict(),
     "consumer_millions_end": (cons.loc[last] / 1e6).round(1).to_dict(),
     "reported_millions_end": (nat.loc[nat.index.max()] / 1e6).round(1).to_dict(),
     "airtel_break_jump_m": round(jump, 1),

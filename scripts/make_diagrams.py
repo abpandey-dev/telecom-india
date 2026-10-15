@@ -24,15 +24,12 @@ b.append(box(942, 144, 214, 160, "amber", "Definition fix",
              ["Dec 2025: M2M SIMs", "added to 'mobile'", f"Airtel +{F['airtel_break_jump_m']:.1f}M overnight",
               "-> consumer-SIM series"]))
 b += [arrow(294, 224, 326, 224), arrow(620, 224, 652, 224), arrow(906, 224, 938, 224)]
-b.append(lane(24, 360, 1152, 280, "violet", "ANALYSE · pandas"))
-b.append(box(44, 400, 260, 210, "violet", "Consumer race", ["Jio vs Airtel vs Vi vs BSNL", "consumer SIMs only",
-                                                           "(mobile minus M2M)", "Apr 2025 - Aug 2026"]))
-b.append(box(324, 400, 260, 210, "violet", "Tariff shock", ["July 2024 price hikes:", "who lost, who gained,",
-                                                            "who won them back"]))
-b.append(box(604, 400, 260, 210, "violet", "Circle battle", ["share shift per circle,", "Feb 2024 - Nov 2025",
-                                                             "leaders and close races"]))
-b.append(box(884, 400, 272, 210, "blue", "Real vs paper SIMs", ["VLR: share of SIMs active", "on the peak day",
-                                                                "active-adjusted market share", "rural share of each base"]))
+b.append(lane(24, 360, 1152, 280, "violet", "ANALYSE · pandas, plus a Claude assistant over the same tables"))
+b.append(box(44, 400, 205, 210, "violet", "Consumer race", ["Jio vs Airtel vs Vi", "vs BSNL, consumer", "SIMs only (mobile", "minus M2M)"]))
+b.append(box(266, 400, 205, 210, "violet", "Tariff shock", ["July 2024 price", "hikes: who lost,", "who gained, who", "won them back"]))
+b.append(box(488, 400, 205, 210, "violet", "Circle battle", ["share shift per", "circle, leaders", "and close races"]))
+b.append(box(710, 400, 205, 210, "violet", "Real vs paper SIMs", ["share of SIMs active", "(VLR), active-", "adjusted share,", "rural share"]))
+b.append(box(932, 400, 224, 210, "blue", "Ask the data", ["Claude + 7 read-only", "tools over the tables", "every number in the", "answer is checked", "against tool outputs"]))
 Path("docs/how-it-works.svg").write_text(svg(1200, 660, "Jio vs Airtel: how it works",
     "India's mobile market from TRAI's own monthly reports, extracted, verified and corrected", "\n".join(b)))
 
