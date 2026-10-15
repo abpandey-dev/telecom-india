@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<rect width="1200" height="660" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" fill="#0F172A" font-weight="700">Jio vs Airtel: what we get from it</text>
+<text x="40" y="80" font-size="15" fill="#475569">31 months · 22 circles · 30 TRAI reports · every month checked against TRAI&#x27;s totals</text>
+<rect x="24" y="104" width="560" height="330" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="44" y="136" font-size="16" fill="#0F172A" font-weight="700">Consumer SIM share</text>
+<text x="44" y="158" font-size="12" fill="#64748B">2025-04 to 2026-08 (mobile minus M2M)</text>
+<text x="132" y="189" font-size="13" fill="#0F172A" font-weight="700" text-anchor="end">Jio</text>
+<rect x="144" y="170" width="300" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="144" y="170" width="250.5" height="28" rx="4" fill="#2563EB"/>
+<text x="384.5" y="189" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="end">41.8%</text>
+<text x="132" y="233" font-size="13" fill="#0F172A" font-weight="700" text-anchor="end">Airtel</text>
+<rect x="144" y="214" width="300" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="144" y="214" width="211.1" height="28" rx="4" fill="#EA580C"/>
+<text x="345.08000000000004" y="233" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="end">35.2%</text>
+<text x="132" y="277" font-size="13" fill="#334155" text-anchor="end">Vi</text>
+<rect x="144" y="258" width="300" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="144" y="258" width="92.1" height="28" rx="4" fill="#0F766E"/>
+<text x="226.1" y="277" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="end">15.3%</text>
+<text x="132" y="321" font-size="13" fill="#334155" text-anchor="end">BSNL</text>
+<rect x="144" y="302" width="300" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="144" y="302" width="46.3" height="28" rx="4" fill="#D97706"/>
+<text x="198.26" y="321" font-size="13" fill="#334155" font-weight="700">7.7%</text>
+<text x="44" y="372" font-size="13" fill="#334155">Jio&#x27;s lead over Airtel grew from 70M to 76M consumer SIMs.</text>
+<text x="44" y="394" font-size="13" fill="#334155">Airtel&#x27;s 2026 &#x27;surge&#x27; in headlines is mostly M2M SIMs.</text>
+<rect x="608" y="104" width="568" height="330" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="628" y="136" font-size="16" fill="#0F172A" font-weight="700">The July 2024 tariff shock</text>
+<text x="628" y="158" font-size="12" fill="#64748B">net additions, millions</text>
+<text x="628" y="214" font-size="14" fill="#0F172A" font-weight="600">Jio</text>
+<text x="800" y="214" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">-16.5M</text>
+<text x="960" y="214" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">+17.0M</text>
+<text x="628" y="244" font-size="14" fill="#0F172A" font-weight="600">Vi</text>
+<text x="800" y="244" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">-6.8M</text>
+<text x="960" y="244" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">-6.3M</text>
+<text x="628" y="274" font-size="14" fill="#0F172A" font-weight="600">Airtel</text>
+<text x="800" y="274" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">-3.6M</text>
+<text x="960" y="274" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">+5.6M</text>
+<text x="628" y="304" font-size="14" fill="#0F172A" font-weight="600">BSNL</text>
+<text x="800" y="304" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">+6.8M</text>
+<text x="960" y="304" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">-2.1M</text>
+<text x="800" y="184" font-size="11" fill="#475569" text-anchor="end">Jul-Oct 2024</text>
+<text x="960" y="184" font-size="11" fill="#475569" text-anchor="end">next 8 months</text>
+<text x="628" y="356" font-size="13" fill="#334155">BSNL picked up 6.8M switchers, then gave back a third.</text>
+<text x="628" y="378" font-size="13" fill="#334155">Jio lost 16.5M and won all of them back.</text>
+<rect x="24" y="458" width="276" height="182" rx="14" fill="#EFF6FF" stroke="#BFDBFE"/>
+<text x="44" y="504" font-size="30" fill="#1D4ED8" font-weight="800">13 vs 8</text>
+<text x="44" y="534" font-size="14" fill="#0F172A" font-weight="700">circles led by Jio vs Airtel</text>
+<text x="44" y="558" font-size="12" fill="#475569">Bihar flipped to Jio; Delhi is</text>
+<text x="44" y="576" font-size="12" fill="#475569">the closest race (1.9 points)</text>
+<text x="44" y="594" font-size="12" fill="#475569">(Nov 2025, 22 circles)</text>
+<rect x="316" y="458" width="276" height="182" rx="14" fill="#FFFBEB" stroke="#FDE68A"/>
+<text x="336" y="504" font-size="34" fill="#B45309" font-weight="800">57%</text>
+<text x="336" y="534" font-size="14" fill="#0F172A" font-weight="700">of BSNL SIMs are active</text>
+<text x="336" y="558" font-size="12" fill="#475569">vs 97% for Jio and Airtel: count</text>
+<text x="336" y="576" font-size="12" fill="#475569">active SIMs and BSNL&#x27;s share</text>
+<text x="336" y="594" font-size="12" fill="#475569">drops from 7.9% to 4.9%</text>
+<rect x="608" y="458" width="276" height="182" rx="14" fill="#F0FDF4" stroke="#BBF7D0"/>
+<text x="628" y="504" font-size="30" fill="#15803D" font-weight="800">21/22</text>
+<text x="628" y="534" font-size="14" fill="#0F172A" font-weight="700">circles where Vi lost share</text>
+<text x="628" y="558" font-size="12" fill="#475569">Vi loses ~0.8M consumer SIMs</text>
+<text x="628" y="576" font-size="12" fill="#475569">a month</text>
+<text x="628" y="594" font-size="12" fill="#475569">(Apr 2025 - Aug 2026)</text>
+<rect x="900" y="458" width="276" height="182" rx="14" fill="#FAF5FF" stroke="#E9D5FF"/>
+<text x="920" y="504" font-size="34" fill="#6E56CF" font-weight="800">49%</text>
+<text x="920" y="534" font-size="14" fill="#0F172A" font-weight="700">of Airtel&#x27;s base is rural</text>
+<text x="920" y="558" font-size="12" fill="#475569">Jio 44%, Vi 47%, BSNL 33%</text>
+<text x="920" y="576" font-size="12" fill="#475569">(Nov 2025)</text>
+</svg>

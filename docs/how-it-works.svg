@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<rect width="1200" height="660" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" fill="#0F172A" font-weight="700">Jio vs Airtel: how it works</text>
+<text x="40" y="80" font-size="15" fill="#475569">India&#x27;s mobile market from TRAI&#x27;s own monthly reports, extracted, verified and corrected</text>
+<rect x="24" y="104" width="1152" height="236" rx="14" fill="#EFF6FF" stroke="#BFDBFE"/>
+<text x="44" y="132" font-size="13" fill="#1D4ED8" font-weight="700" letter-spacing="1">EXTRACT · 30 official TRAI reports, every month verified</text>
+<rect x="44" y="144" width="250" height="160" rx="10" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1"/>
+<text x="62" y="174" font-size="15" fill="#0F172A" font-weight="700">TRAI monthly PDFs</text>
+<text x="62" y="200" font-size="12" fill="#334155">Telecom Subscription Data</text>
+<text x="62" y="220" font-size="12" fill="#334155">2024-02 to 2026-08</text>
+<text x="62" y="240" font-size="12" fill="#334155">operator x 22 circles</text>
+<text x="62" y="260" font-size="12" fill="#334155">downloaded politely</text>
+<rect x="330" y="144" width="290" height="160" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="348" y="174" font-size="15" fill="#1D4ED8" font-weight="700">Position-based table reader</text>
+<text x="348" y="200" font-size="12" fill="#334155">rebuilds rows from characters:</text>
+<text x="348" y="220" font-size="12" fill="#334155">ruled, unruled and sideways</text>
+<text x="348" y="240" font-size="12" fill="#334155">tables; glued month headers;</text>
+<text x="348" y="260" font-size="12" fill="#334155">each report also gives the</text>
+<text x="348" y="280" font-size="12" fill="#334155">previous month, filling gaps</text>
+<rect x="656" y="144" width="250" height="160" rx="10" fill="#FFFFFF" stroke="#16A34A" stroke-width="2"/>
+<text x="674" y="174" font-size="15" fill="#15803D" font-weight="700">Self-checks</text>
+<text x="674" y="200" font-size="12" fill="#334155">circles must add up to</text>
+<text x="674" y="220" font-size="12" fill="#334155">TRAI&#x27;s Total row, per</text>
+<text x="674" y="240" font-size="12" fill="#334155">operator and month</text>
+<text x="674" y="260" font-size="12" fill="#334155">1,693 overlapping cells:</text>
+<text x="674" y="280" font-size="12" fill="#334155">99.94% identical</text>
+<rect x="942" y="144" width="214" height="160" rx="10" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+<text x="960" y="174" font-size="15" fill="#B45309" font-weight="700">Definition fix</text>
+<text x="960" y="200" font-size="12" fill="#334155">Dec 2025: M2M SIMs</text>
+<text x="960" y="220" font-size="12" fill="#334155">added to &#x27;mobile&#x27;</text>
+<text x="960" y="240" font-size="12" fill="#334155">Airtel +68.5M overnight</text>
+<text x="960" y="260" font-size="12" fill="#334155">-&gt; consumer-SIM series</text>
+<line x1="294" y1="224" x2="326" y2="224" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="620" y1="224" x2="652" y2="224" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="906" y1="224" x2="938" y2="224" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="360" width="1152" height="280" rx="14" fill="#F5F3FF" stroke="#DDD6FE"/>
+<text x="44" y="388" font-size="13" fill="#6D28D9" font-weight="700" letter-spacing="1">ANALYSE · pandas</text>
+<rect x="44" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="62" y="430" font-size="15" fill="#6D28D9" font-weight="700">Consumer race</text>
+<text x="62" y="456" font-size="12" fill="#334155">Jio vs Airtel vs Vi vs BSNL</text>
+<text x="62" y="476" font-size="12" fill="#334155">consumer SIMs only</text>
+<text x="62" y="496" font-size="12" fill="#334155">(mobile minus M2M)</text>
+<text x="62" y="516" font-size="12" fill="#334155">Apr 2025 - Aug 2026</text>
+<rect x="324" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="342" y="430" font-size="15" fill="#6D28D9" font-weight="700">Tariff shock</text>
+<text x="342" y="456" font-size="12" fill="#334155">July 2024 price hikes:</text>
+<text x="342" y="476" font-size="12" fill="#334155">who lost, who gained,</text>
+<text x="342" y="496" font-size="12" fill="#334155">who won them back</text>
+<rect x="604" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="622" y="430" font-size="15" fill="#6D28D9" font-weight="700">Circle battle</text>
+<text x="622" y="456" font-size="12" fill="#334155">share shift per circle,</text>
+<text x="622" y="476" font-size="12" fill="#334155">Feb 2024 - Nov 2025</text>
+<text x="622" y="496" font-size="12" fill="#334155">leaders and close races</text>
+<rect x="884" y="400" width="272" height="210" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="902" y="430" font-size="15" fill="#1D4ED8" font-weight="700">Real vs paper SIMs</text>
+<text x="902" y="456" font-size="12" fill="#334155">VLR: share of SIMs active</text>
+<text x="902" y="476" font-size="12" fill="#334155">on the peak day</text>
+<text x="902" y="496" font-size="12" fill="#334155">active-adjusted market share</text>
+<text x="902" y="516" font-size="12" fill="#334155">rural share of each base</text>
+</svg>
