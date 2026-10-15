@@ -35,27 +35,35 @@
 <line x1="620" y1="224" x2="652" y2="224" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
 <line x1="906" y1="224" x2="938" y2="224" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
 <rect x="24" y="360" width="1152" height="280" rx="14" fill="#F5F3FF" stroke="#DDD6FE"/>
-<text x="44" y="388" font-size="13" fill="#6D28D9" font-weight="700" letter-spacing="1">ANALYSE · pandas</text>
-<rect x="44" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="44" y="388" font-size="13" fill="#6D28D9" font-weight="700" letter-spacing="1">ANALYSE · pandas, plus a Claude assistant over the same tables</text>
+<rect x="44" y="400" width="205" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
 <text x="62" y="430" font-size="15" fill="#6D28D9" font-weight="700">Consumer race</text>
-<text x="62" y="456" font-size="12" fill="#334155">Jio vs Airtel vs Vi vs BSNL</text>
-<text x="62" y="476" font-size="12" fill="#334155">consumer SIMs only</text>
-<text x="62" y="496" font-size="12" fill="#334155">(mobile minus M2M)</text>
-<text x="62" y="516" font-size="12" fill="#334155">Apr 2025 - Aug 2026</text>
-<rect x="324" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
-<text x="342" y="430" font-size="15" fill="#6D28D9" font-weight="700">Tariff shock</text>
-<text x="342" y="456" font-size="12" fill="#334155">July 2024 price hikes:</text>
-<text x="342" y="476" font-size="12" fill="#334155">who lost, who gained,</text>
-<text x="342" y="496" font-size="12" fill="#334155">who won them back</text>
-<rect x="604" y="400" width="260" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
-<text x="622" y="430" font-size="15" fill="#6D28D9" font-weight="700">Circle battle</text>
-<text x="622" y="456" font-size="12" fill="#334155">share shift per circle,</text>
-<text x="622" y="476" font-size="12" fill="#334155">Feb 2024 - Nov 2025</text>
-<text x="622" y="496" font-size="12" fill="#334155">leaders and close races</text>
-<rect x="884" y="400" width="272" height="210" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
-<text x="902" y="430" font-size="15" fill="#1D4ED8" font-weight="700">Real vs paper SIMs</text>
-<text x="902" y="456" font-size="12" fill="#334155">VLR: share of SIMs active</text>
-<text x="902" y="476" font-size="12" fill="#334155">on the peak day</text>
-<text x="902" y="496" font-size="12" fill="#334155">active-adjusted market share</text>
-<text x="902" y="516" font-size="12" fill="#334155">rural share of each base</text>
+<text x="62" y="456" font-size="12" fill="#334155">Jio vs Airtel vs Vi</text>
+<text x="62" y="476" font-size="12" fill="#334155">vs BSNL, consumer</text>
+<text x="62" y="496" font-size="12" fill="#334155">SIMs only (mobile</text>
+<text x="62" y="516" font-size="12" fill="#334155">minus M2M)</text>
+<rect x="266" y="400" width="205" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="284" y="430" font-size="15" fill="#6D28D9" font-weight="700">Tariff shock</text>
+<text x="284" y="456" font-size="12" fill="#334155">July 2024 price</text>
+<text x="284" y="476" font-size="12" fill="#334155">hikes: who lost,</text>
+<text x="284" y="496" font-size="12" fill="#334155">who gained, who</text>
+<text x="284" y="516" font-size="12" fill="#334155">won them back</text>
+<rect x="488" y="400" width="205" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="506" y="430" font-size="15" fill="#6D28D9" font-weight="700">Circle battle</text>
+<text x="506" y="456" font-size="12" fill="#334155">share shift per</text>
+<text x="506" y="476" font-size="12" fill="#334155">circle, leaders</text>
+<text x="506" y="496" font-size="12" fill="#334155">and close races</text>
+<rect x="710" y="400" width="205" height="210" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="728" y="430" font-size="15" fill="#6D28D9" font-weight="700">Real vs paper SIMs</text>
+<text x="728" y="456" font-size="12" fill="#334155">share of SIMs active</text>
+<text x="728" y="476" font-size="12" fill="#334155">(VLR), active-</text>
+<text x="728" y="496" font-size="12" fill="#334155">adjusted share,</text>
+<text x="728" y="516" font-size="12" fill="#334155">rural share</text>
+<rect x="932" y="400" width="224" height="210" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="950" y="430" font-size="15" fill="#1D4ED8" font-weight="700">Ask the data</text>
+<text x="950" y="456" font-size="12" fill="#334155">Claude + 7 read-only</text>
+<text x="950" y="476" font-size="12" fill="#334155">tools over the tables</text>
+<text x="950" y="496" font-size="12" fill="#334155">every number in the</text>
+<text x="950" y="516" font-size="12" fill="#334155">answer is checked</text>
+<text x="950" y="536" font-size="12" fill="#334155">against tool outputs</text>
 </svg>
