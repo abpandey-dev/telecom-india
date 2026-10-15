@@ -1,0 +1,2034 @@
+month,lsa,operator,active_pct
+2024-04-01,Andhra Pradesh,Airtel,98.19
+2024-04-01,Andhra Pradesh,BSNL,63.87
+2024-04-01,Andhra Pradesh,Vi,91.11
+2024-04-01,Andhra Pradesh,Jio,88.99
+2024-04-01,Assam,Airtel,101.64
+2024-04-01,Assam,BSNL,33.81
+2024-04-01,Assam,Vi,95.61
+2024-04-01,Assam,Jio,98.64
+2024-04-01,Bihar,Airtel,94.24
+2024-04-01,Bihar,BSNL,35.82
+2024-04-01,Bihar,Vi,90.23
+2024-04-01,Bihar,Jio,89.19
+2024-04-01,Delhi,Airtel,86.56
+2024-04-01,Delhi,Vi,59.37
+2024-04-01,Delhi,MTNL,15.86
+2024-04-01,Delhi,Jio,89.39
+2024-04-01,Gujarat,Airtel,100.93
+2024-04-01,Gujarat,BSNL,68.92
+2024-04-01,Gujarat,Vi,93.52
+2024-04-01,Gujarat,Jio,93.22
+2024-04-01,Haryana,Airtel,102.21
+2024-04-01,Haryana,BSNL,27.84
+2024-04-01,Haryana,Vi,91.54
+2024-04-01,Haryana,Jio,95.48
+2024-04-01,Himachal Pradesh,Airtel,99.59
+2024-04-01,Himachal Pradesh,BSNL,55.14
+2024-04-01,Himachal Pradesh,Vi,105.32
+2024-04-01,Himachal Pradesh,Jio,95.63
+2024-04-01,Jammu & Kashmir,Airtel,93.05
+2024-04-01,Jammu & Kashmir,BSNL,64.73
+2024-04-01,Jammu & Kashmir,Vi,85.0
+2024-04-01,Jammu & Kashmir,Jio,83.67
+2024-04-01,Karnataka,Airtel,96.56
+2024-04-01,Karnataka,BSNL,60.08
+2024-04-01,Karnataka,Vi,80.07
+2024-04-01,Karnataka,RCom,100.0
+2024-04-01,Karnataka,Jio,90.08
+2024-04-01,Kerala,Airtel,102.63
+2024-04-01,Kerala,BSNL,93.87
+2024-04-01,Kerala,Vi,95.24
+2024-04-01,Kerala,Jio,89.78
+2024-04-01,Kolkata,Airtel,95.18
+2024-04-01,Kolkata,BSNL,52.34
+2024-04-01,Kolkata,Vi,93.13
+2024-04-01,Kolkata,Jio,90.82
+2024-04-01,Madhya Pradesh,Airtel,104.3
+2024-04-01,Madhya Pradesh,BSNL,44.42
+2024-04-01,Madhya Pradesh,Vi,85.35
+2024-04-01,Madhya Pradesh,Jio,93.25
+2024-04-01,Maharashtra,Airtel,106.72
+2024-04-01,Maharashtra,BSNL,66.44
+2024-04-01,Maharashtra,Vi,91.94
+2024-04-01,Maharashtra,Jio,98.64
+2024-04-01,Mumbai,Airtel,78.14
+2024-04-01,Mumbai,Vi,71.15
+2024-04-01,Mumbai,MTNL,75.76
+2024-04-01,Mumbai,Jio,80.44
+2024-04-01,North East,Airtel,104.58
+2024-04-01,North East,BSNL,52.65
+2024-04-01,North East,Vi,94.56
+2024-04-01,North East,Jio,105.47
+2024-04-01,Odisha,Airtel,104.36
+2024-04-01,Odisha,BSNL,50.15
+2024-04-01,Odisha,Vi,98.15
+2024-04-01,Odisha,Jio,98.57
+2024-04-01,Punjab,Airtel,101.96
+2024-04-01,Punjab,BSNL,44.51
+2024-04-01,Punjab,Vi,92.94
+2024-04-01,Punjab,Jio,90.16
+2024-04-01,Rajasthan,Airtel,103.04
+2024-04-01,Rajasthan,BSNL,42.38
+2024-04-01,Rajasthan,Vi,92.47
+2024-04-01,Rajasthan,Jio,92.7
+2024-04-01,Tamil Nadu,Airtel,98.46
+2024-04-01,Tamil Nadu,BSNL,75.52
+2024-04-01,Tamil Nadu,Vi,90.82
+2024-04-01,Tamil Nadu,Jio,80.69
+2024-04-01,U.P. (East),Airtel,100.25
+2024-04-01,U.P. (East),BSNL,34.83
+2024-04-01,U.P. (East),Vi,91.28
+2024-04-01,U.P. (East),Jio,93.04
+2024-04-01,U.P. (West),Airtel,104.44
+2024-04-01,U.P. (West),BSNL,35.57
+2024-04-01,U.P. (West),Vi,93.39
+2024-04-01,U.P. (West),Jio,90.28
+2024-04-01,West Bengal,Airtel,106.5
+2024-04-01,West Bengal,BSNL,65.16
+2024-04-01,West Bengal,Vi,90.24
+2024-04-01,West Bengal,Jio,95.03
+2024-03-01,Andhra Pradesh,Airtel,99.51
+2024-03-01,Andhra Pradesh,BSNL,62.21
+2024-03-01,Andhra Pradesh,Vi,92.05
+2024-03-01,Andhra Pradesh,Jio,89.5
+2024-03-01,Assam,Airtel,100.47
+2024-03-01,Assam,BSNL,34.64
+2024-03-01,Assam,Vi,96.72
+2024-03-01,Assam,Jio,95.81
+2024-03-01,Bihar,Airtel,92.53
+2024-03-01,Bihar,BSNL,35.86
+2024-03-01,Bihar,Vi,87.93
+2024-03-01,Bihar,Jio,88.44
+2024-03-01,Delhi,Airtel,89.97
+2024-03-01,Delhi,Vi,59.96
+2024-03-01,Delhi,MTNL,17.94
+2024-03-01,Delhi,Jio,89.54
+2024-03-01,Gujarat,Airtel,105.96
+2024-03-01,Gujarat,BSNL,58.04
+2024-03-01,Gujarat,Vi,93.9
+2024-03-01,Gujarat,Jio,94.52
+2024-03-01,Haryana,Airtel,103.72
+2024-03-01,Haryana,BSNL,28.71
+2024-03-01,Haryana,Vi,91.8
+2024-03-01,Haryana,Jio,97.9
+2024-03-01,Himachal Pradesh,Airtel,100.32
+2024-03-01,Himachal Pradesh,BSNL,54.87
+2024-03-01,Himachal Pradesh,Vi,112.37
+2024-03-01,Himachal Pradesh,Jio,97.37
+2024-03-01,Jammu & Kashmir,Airtel,92.74
+2024-03-01,Jammu & Kashmir,BSNL,65.11
+2024-03-01,Jammu & Kashmir,Vi,85.19
+2024-03-01,Jammu & Kashmir,Jio,81.77
+2024-03-01,Karnataka,Airtel,97.89
+2024-03-01,Karnataka,BSNL,60.97
+2024-03-01,Karnataka,Vi,82.69
+2024-03-01,Karnataka,RCom,100.0
+2024-03-01,Karnataka,Jio,91.83
+2024-03-01,Kerala,Airtel,102.85
+2024-03-01,Kerala,BSNL,92.68
+2024-03-01,Kerala,Vi,92.27
+2024-03-01,Kerala,RCom,100.0
+2024-03-01,Kerala,Jio,89.4
+2024-03-01,Kolkata,Airtel,96.51
+2024-03-01,Kolkata,BSNL,49.99
+2024-03-01,Kolkata,Vi,93.66
+2024-03-01,Kolkata,Jio,90.6
+2024-03-01,Madhya Pradesh,Airtel,103.05
+2024-03-01,Madhya Pradesh,BSNL,45.17
+2024-03-01,Madhya Pradesh,Vi,85.81
+2024-03-01,Madhya Pradesh,Jio,93.09
+2024-03-01,Maharashtra,Airtel,108.92
+2024-03-01,Maharashtra,BSNL,64.85
+2024-03-01,Maharashtra,Vi,92.69
+2024-03-01,Maharashtra,Jio,98.21
+2024-03-01,Mumbai,Airtel,84.1
+2024-03-01,Mumbai,Vi,71.28
+2024-03-01,Mumbai,MTNL,80.0
+2024-03-01,Mumbai,RCom,100.0
+2024-03-01,Mumbai,Jio,82.19
+2024-03-01,North East,Airtel,105.71
+2024-03-01,North East,BSNL,52.99
+2024-03-01,North East,Vi,97.03
+2024-03-01,North East,Jio,102.92
+2024-03-01,Odisha,Airtel,106.37
+2024-03-01,Odisha,BSNL,49.78
+2024-03-01,Odisha,Vi,98.43
+2024-03-01,Odisha,Jio,98.41
+2024-03-01,Punjab,Airtel,104.35
+2024-03-01,Punjab,BSNL,46.49
+2024-03-01,Punjab,Vi,93.49
+2024-03-01,Punjab,Jio,91.99
+2024-03-01,Rajasthan,Airtel,102.21
+2024-03-01,Rajasthan,BSNL,42.53
+2024-03-01,Rajasthan,Vi,93.94
+2024-03-01,Rajasthan,Jio,92.2
+2024-03-01,Tamil Nadu,Airtel,99.15
+2024-03-01,Tamil Nadu,BSNL,74.37
+2024-03-01,Tamil Nadu,Vi,91.22
+2024-03-01,Tamil Nadu,RCom,100.0
+2024-03-01,Tamil Nadu,Jio,82.96
+2024-03-01,U.P. (East),Airtel,100.51
+2024-03-01,U.P. (East),BSNL,35.34
+2024-03-01,U.P. (East),Vi,88.73
+2024-03-01,U.P. (East),Jio,91.16
+2024-03-01,U.P. (West),Airtel,106.06
+2024-03-01,U.P. (West),BSNL,36.09
+2024-03-01,U.P. (West),Vi,92.73
+2024-03-01,U.P. (West),Jio,88.94
+2024-03-01,West Bengal,Airtel,103.81
+2024-03-01,West Bengal,BSNL,65.4
+2024-03-01,West Bengal,Vi,90.7
+2024-03-01,West Bengal,Jio,92.71
+2025-11-01,Andhra Pradesh,Airtel,97.13
+2025-11-01,Andhra Pradesh,BSNL,64.14
+2025-11-01,Andhra Pradesh,Vi,93.89
+2025-11-01,Andhra Pradesh,Jio,89.01
+2025-11-01,Assam,Airtel,97.57
+2025-11-01,Assam,BSNL,24.14
+2025-11-01,Assam,Vi,88.44
+2025-11-01,Assam,Jio,97.32
+2025-11-01,Bihar,Airtel,90.01
+2025-11-01,Bihar,BSNL,35.9
+2025-11-01,Bihar,Vi,86.41
+2025-11-01,Bihar,Jio,99.8
+2025-11-01,Delhi,Airtel,94.41
+2025-11-01,Delhi,Vi,51.47
+2025-11-01,Delhi,MTNL,192.31
+2025-11-01,Delhi,RCom,100.0
+2025-11-01,Delhi,Jio,95.92
+2025-11-01,Gujarat,Airtel,113.51
+2025-11-01,Gujarat,BSNL,48.25
+2025-11-01,Gujarat,Vi,90.92
+2025-11-01,Gujarat,RCom,0.0
+2025-11-01,Gujarat,Jio,101.18
+2025-11-01,Haryana,Airtel,103.74
+2025-11-01,Haryana,BSNL,27.44
+2025-11-01,Haryana,Vi,92.78
+2025-11-01,Haryana,Jio,105.68
+2025-11-01,Himachal Pradesh,Airtel,95.51
+2025-11-01,Himachal Pradesh,BSNL,49.67
+2025-11-01,Himachal Pradesh,Vi,93.56
+2025-11-01,Himachal Pradesh,Jio,95.54
+2025-11-01,Jammu & Kashmir,Airtel,84.88
+2025-11-01,Jammu & Kashmir,BSNL,58.9
+2025-11-01,Jammu & Kashmir,Vi,82.48
+2025-11-01,Jammu & Kashmir,Jio,79.84
+2025-11-01,Karnataka,Airtel,97.4
+2025-11-01,Karnataka,BSNL,66.86
+2025-11-01,Karnataka,Vi,68.9
+2025-11-01,Karnataka,RCom,100.0
+2025-11-01,Karnataka,Jio,94.93
+2025-11-01,Kerala,Airtel,102.8
+2025-11-01,Kerala,BSNL,114.9
+2025-11-01,Kerala,Vi,93.03
+2025-11-01,Kerala,Jio,94.39
+2025-11-01,Kolkata,Airtel,101.69
+2025-11-01,Kolkata,BSNL,92.21
+2025-11-01,Kolkata,Vi,85.67
+2025-11-01,Kolkata,Jio,99.47
+2025-11-01,Madhya Pradesh,Airtel,98.01
+2025-11-01,Madhya Pradesh,BSNL,43.54
+2025-11-01,Madhya Pradesh,Vi,86.48
+2025-11-01,Madhya Pradesh,Jio,96.14
+2025-11-01,Maharashtra,Airtel,107.69
+2025-11-01,Maharashtra,BSNL,87.88
+2025-11-01,Maharashtra,Vi,92.94
+2025-11-01,Maharashtra,Jio,110.08
+2025-11-01,Mumbai,Airtel,95.62
+2025-11-01,Mumbai,Vi,69.17
+2025-11-01,Mumbai,MTNL,77.88
+2025-11-01,Mumbai,RCom,100.0
+2025-11-01,Mumbai,Jio,89.29
+2025-11-01,North East,Airtel,101.0
+2025-11-01,North East,BSNL,50.17
+2025-11-01,North East,Vi,95.36
+2025-11-01,North East,Jio,102.67
+2025-11-01,Odisha,Airtel,101.26
+2025-11-01,Odisha,BSNL,44.11
+2025-11-01,Odisha,Vi,86.22
+2025-11-01,Odisha,Jio,93.76
+2025-11-01,Punjab,Airtel,111.56
+2025-11-01,Punjab,BSNL,41.88
+2025-11-01,Punjab,Vi,91.46
+2025-11-01,Punjab,RCom,100.0
+2025-11-01,Punjab,Jio,101.66
+2025-11-01,Rajasthan,Airtel,100.35
+2025-11-01,Rajasthan,BSNL,40.5
+2025-11-01,Rajasthan,Vi,92.92
+2025-11-01,Rajasthan,RCom,100.0
+2025-11-01,Rajasthan,Jio,102.02
+2025-11-01,Tamil Nadu,Airtel,96.6
+2025-11-01,Tamil Nadu,BSNL,87.44
+2025-11-01,Tamil Nadu,Vi,79.48
+2025-11-01,Tamil Nadu,Jio,98.3
+2025-11-01,U.P. (East),Airtel,100.22
+2025-11-01,U.P. (East),BSNL,33.92
+2025-11-01,U.P. (East),Vi,89.27
+2025-11-01,U.P. (East),Jio,99.5
+2025-11-01,U.P. (West),Airtel,103.49
+2025-11-01,U.P. (West),BSNL,37.59
+2025-11-01,U.P. (West),Vi,90.92
+2025-11-01,U.P. (West),Jio,98.17
+2025-11-01,West Bengal,Airtel,94.23
+2025-11-01,West Bengal,BSNL,76.43
+2025-11-01,West Bengal,Vi,88.33
+2025-11-01,West Bengal,RCom,100.0
+2025-11-01,West Bengal,Jio,93.23
+2024-11-01,Andhra Pradesh,Airtel,98.6
+2024-11-01,Andhra Pradesh,BSNL,72.26
+2024-11-01,Andhra Pradesh,Vi,88.92
+2024-11-01,Andhra Pradesh,Jio,92.47
+2024-11-01,Assam,Airtel,98.06
+2024-11-01,Assam,BSNL,28.01
+2024-11-01,Assam,Vi,91.59
+2024-11-01,Assam,Jio,96.09
+2024-11-01,Bihar,Airtel,91.36
+2024-11-01,Bihar,BSNL,39.51
+2024-11-01,Bihar,Vi,85.98
+2024-11-01,Bihar,Jio,98.75
+2024-11-01,Delhi,Airtel,94.17
+2024-11-01,Delhi,Vi,53.47
+2024-11-01,Delhi,MTNL,19.33
+2024-11-01,Delhi,RCom,100.0
+2024-11-01,Delhi,Jio,92.34
+2024-11-01,Gujarat,Airtel,107.17
+2024-11-01,Gujarat,BSNL,96.81
+2024-11-01,Gujarat,Vi,89.87
+2024-11-01,Gujarat,RCom,100.0
+2024-11-01,Gujarat,Jio,98.31
+2024-11-01,Haryana,Airtel,101.67
+2024-11-01,Haryana,BSNL,34.31
+2024-11-01,Haryana,Vi,91.32
+2024-11-01,Haryana,Jio,102.31
+2024-11-01,Himachal Pradesh,Airtel,96.69
+2024-11-01,Himachal Pradesh,BSNL,54.65
+2024-11-01,Himachal Pradesh,Vi,100.85
+2024-11-01,Himachal Pradesh,Jio,103.25
+2024-11-01,Karnataka,Airtel,98.6
+2024-11-01,Karnataka,BSNL,62.58
+2024-11-01,Karnataka,Vi,73.56
+2024-11-01,Karnataka,RCom,100.0
+2024-11-01,Karnataka,Jio,96.93
+2024-11-01,Kerala,Airtel,100.03
+2024-11-01,Kerala,BSNL,105.86
+2024-11-01,Kerala,Vi,93.21
+2024-11-01,Kerala,Jio,93.34
+2024-11-01,Kolkata,Airtel,97.71
+2024-11-01,Kolkata,BSNL,93.26
+2024-11-01,Kolkata,Vi,86.48
+2024-11-01,Kolkata,Jio,102.12
+2024-11-01,Madhya Pradesh,Airtel,98.43
+2024-11-01,Madhya Pradesh,BSNL,44.54
+2024-11-01,Madhya Pradesh,Vi,83.37
+2024-11-01,Madhya Pradesh,Jio,95.01
+2024-11-01,Maharashtra,Airtel,105.33
+2024-11-01,Maharashtra,BSNL,82.27
+2024-11-01,Maharashtra,Vi,91.07
+2024-11-01,Maharashtra,Jio,105.24
+2024-11-01,Mumbai,Airtel,93.29
+2024-11-01,Mumbai,Vi,69.48
+2024-11-01,Mumbai,MTNL,73.36
+2024-11-01,Mumbai,RCom,100.0
+2024-11-01,Mumbai,Jio,89.07
+2024-11-01,North East,Airtel,106.18
+2024-11-01,North East,BSNL,593.22
+2024-11-01,North East,Vi,94.53
+2024-11-01,North East,Jio,106.1
+2024-11-01,Odisha,Airtel,103.47
+2024-11-01,Odisha,BSNL,48.62
+2024-11-01,Odisha,Vi,90.7
+2024-11-01,Odisha,Jio,97.57
+2024-11-01,Punjab,Airtel,105.88
+2024-11-01,Punjab,BSNL,55.68
+2024-11-01,Punjab,Vi,89.45
+2024-11-01,Punjab,RCom,100.0
+2024-11-01,Punjab,Jio,100.23
+2024-11-01,Rajasthan,Airtel,101.31
+2024-11-01,Rajasthan,BSNL,46.34
+2024-11-01,Rajasthan,Vi,90.36
+2024-11-01,Rajasthan,RCom,100.0
+2024-11-01,Rajasthan,Jio,99.38
+2024-11-01,Tamil Nadu,Airtel,98.49
+2024-11-01,Tamil Nadu,BSNL,77.84
+2024-11-01,Tamil Nadu,Vi,87.67
+2024-11-01,Tamil Nadu,Jio,86.06
+2024-11-01,U.P. (East),Airtel,97.76
+2024-11-01,U.P. (East),BSNL,40.22
+2024-11-01,U.P. (East),Vi,88.47
+2024-11-01,U.P. (East),Jio,97.13
+2024-11-01,U.P. (West),Airtel,105.83
+2024-11-01,U.P. (West),BSNL,48.03
+2024-11-01,U.P. (West),Vi,88.64
+2024-11-01,U.P. (West),Jio,97.01
+2024-11-01,West Bengal,Airtel,99.6
+2024-11-01,West Bengal,BSNL,72.24
+2024-11-01,West Bengal,Vi,86.97
+2024-11-01,West Bengal,RCom,100.0
+2024-11-01,West Bengal,Jio,98.33
+2025-08-01,Andhra Pradesh,Airtel,98.53
+2025-08-01,Andhra Pradesh,BSNL,65.94
+2025-08-01,Andhra Pradesh,Vi,92.89
+2025-08-01,Andhra Pradesh,Jio,95.76
+2025-08-01,Assam,Airtel,98.68
+2025-08-01,Assam,BSNL,24.57
+2025-08-01,Assam,Vi,88.94
+2025-08-01,Assam,Jio,98.11
+2025-08-01,Bihar,Airtel,87.83
+2025-08-01,Bihar,BSNL,35.94
+2025-08-01,Bihar,Vi,81.83
+2025-08-01,Bihar,Jio,94.52
+2025-08-01,Delhi,Airtel,95.69
+2025-08-01,Delhi,Vi,52.72
+2025-08-01,Delhi,MTNL,166.04
+2025-08-01,Delhi,RCom,100.0
+2025-08-01,Delhi,Jio,100.89
+2025-08-01,Gujarat,Airtel,115.2
+2025-08-01,Gujarat,BSNL,49.3
+2025-08-01,Gujarat,Vi,90.2
+2025-08-01,Gujarat,RCom,0.0
+2025-08-01,Gujarat,Jio,102.27
+2025-08-01,Haryana,Airtel,102.21
+2025-08-01,Haryana,BSNL,34.16
+2025-08-01,Haryana,Vi,91.68
+2025-08-01,Haryana,Jio,102.01
+2025-08-01,Himachal Pradesh,Airtel,95.96
+2025-08-01,Himachal Pradesh,BSNL,51.87
+2025-08-01,Himachal Pradesh,Vi,92.79
+2025-08-01,Himachal Pradesh,Jio,102.62
+2025-08-01,Jammu & Kashmir,Airtel,99.92
+2025-08-01,Jammu & Kashmir,BSNL,61.39
+2025-08-01,Jammu & Kashmir,Vi,79.45
+2025-08-01,Jammu & Kashmir,Jio,78.0
+2025-08-01,Karnataka,Airtel,98.95
+2025-08-01,Karnataka,BSNL,70.03
+2025-08-01,Karnataka,Vi,71.21
+2025-08-01,Karnataka,RCom,100.0
+2025-08-01,Karnataka,Jio,96.45
+2025-08-01,Kerala,Airtel,101.32
+2025-08-01,Kerala,BSNL,114.12
+2025-08-01,Kerala,Vi,93.56
+2025-08-01,Kerala,Jio,93.45
+2025-08-01,Kolkata,Airtel,101.12
+2025-08-01,Kolkata,BSNL,95.95
+2025-08-01,Kolkata,Vi,86.49
+2025-08-01,Kolkata,Jio,100.01
+2025-08-01,Madhya Pradesh,Airtel,98.93
+2025-08-01,Madhya Pradesh,BSNL,44.78
+2025-08-01,Madhya Pradesh,Vi,85.11
+2025-08-01,Madhya Pradesh,Jio,96.74
+2025-08-01,Maharashtra,Airtel,109.32
+2025-08-01,Maharashtra,BSNL,89.76
+2025-08-01,Maharashtra,Vi,93.93
+2025-08-01,Maharashtra,Jio,107.89
+2025-08-01,Mumbai,Airtel,98.29
+2025-08-01,Mumbai,Vi,71.13
+2025-08-01,Mumbai,MTNL,68.16
+2025-08-01,Mumbai,RCom,100.0
+2025-08-01,Mumbai,Jio,89.16
+2025-08-01,North East,Airtel,101.07
+2025-08-01,North East,BSNL,54.53
+2025-08-01,North East,Vi,94.88
+2025-08-01,North East,Jio,106.04
+2025-08-01,Odisha,Airtel,101.37
+2025-08-01,Odisha,BSNL,44.45
+2025-08-01,Odisha,Vi,87.53
+2025-08-01,Odisha,Jio,95.98
+2025-08-01,Punjab,Airtel,111.97
+2025-08-01,Punjab,BSNL,50.93
+2025-08-01,Punjab,Vi,91.7
+2025-08-01,Punjab,RCom,100.0
+2025-08-01,Punjab,Jio,101.36
+2025-08-01,Rajasthan,Airtel,100.49
+2025-08-01,Rajasthan,BSNL,41.08
+2025-08-01,Rajasthan,Vi,91.28
+2025-08-01,Rajasthan,RCom,100.0
+2025-08-01,Rajasthan,Jio,100.42
+2025-08-01,Tamil Nadu,Airtel,98.47
+2025-08-01,Tamil Nadu,BSNL,90.86
+2025-08-01,Tamil Nadu,Vi,80.54
+2025-08-01,Tamil Nadu,Jio,99.53
+2025-08-01,U.P. (East),Airtel,99.88
+2025-08-01,U.P. (East),BSNL,34.69
+2025-08-01,U.P. (East),Vi,86.16
+2025-08-01,U.P. (East),Jio,94.73
+2025-08-01,U.P. (West),Airtel,104.5
+2025-08-01,U.P. (West),BSNL,39.7
+2025-08-01,U.P. (West),Vi,89.19
+2025-08-01,U.P. (West),Jio,94.59
+2025-08-01,West Bengal,Airtel,93.71
+2025-08-01,West Bengal,BSNL,77.2
+2025-08-01,West Bengal,Vi,86.53
+2025-08-01,West Bengal,RCom,100.0
+2025-08-01,West Bengal,Jio,93.17
+2025-09-01,Andhra Pradesh,Airtel,97.65
+2025-09-01,Andhra Pradesh,BSNL,65.89
+2025-09-01,Andhra Pradesh,Vi,93.05
+2025-09-01,Andhra Pradesh,Jio,94.72
+2025-09-01,Assam,Airtel,99.01
+2025-09-01,Assam,BSNL,25.19
+2025-09-01,Assam,Vi,89.96
+2025-09-01,Assam,Jio,97.43
+2025-09-01,Bihar,Airtel,87.03
+2025-09-01,Bihar,BSNL,35.31
+2025-09-01,Bihar,Vi,82.08
+2025-09-01,Bihar,Jio,95.25
+2025-09-01,Delhi,Airtel,95.87
+2025-09-01,Delhi,Vi,51.68
+2025-09-01,Delhi,MTNL,208.53
+2025-09-01,Delhi,RCom,100.0
+2025-09-01,Delhi,Jio,100.55
+2025-09-01,Gujarat,Airtel,115.21
+2025-09-01,Gujarat,BSNL,57.76
+2025-09-01,Gujarat,Vi,92.02
+2025-09-01,Gujarat,RCom,0.0
+2025-09-01,Gujarat,Jio,102.59
+2025-09-01,Haryana,Airtel,103.37
+2025-09-01,Haryana,BSNL,30.47
+2025-09-01,Haryana,Vi,92.28
+2025-09-01,Haryana,Jio,100.25
+2025-09-01,Himachal Pradesh,Airtel,94.77
+2025-09-01,Himachal Pradesh,BSNL,51.5
+2025-09-01,Himachal Pradesh,Vi,98.6
+2025-09-01,Himachal Pradesh,Jio,101.38
+2025-09-01,Jammu & Kashmir,Airtel,93.0
+2025-09-01,Jammu & Kashmir,BSNL,60.53
+2025-09-01,Jammu & Kashmir,Vi,85.4
+2025-09-01,Jammu & Kashmir,Jio,76.73
+2025-09-01,Karnataka,Airtel,98.79
+2025-09-01,Karnataka,BSNL,69.06
+2025-09-01,Karnataka,Vi,73.3
+2025-09-01,Karnataka,RCom,100.0
+2025-09-01,Karnataka,Jio,93.03
+2025-09-01,Kerala,Airtel,101.73
+2025-09-01,Kerala,BSNL,114.22
+2025-09-01,Kerala,Vi,94.46
+2025-09-01,Kerala,Jio,93.87
+2025-09-01,Kolkata,Airtel,102.98
+2025-09-01,Kolkata,BSNL,96.75
+2025-09-01,Kolkata,Vi,87.28
+2025-09-01,Kolkata,Jio,100.39
+2025-09-01,Madhya Pradesh,Airtel,98.27
+2025-09-01,Madhya Pradesh,BSNL,45.08
+2025-09-01,Madhya Pradesh,Vi,86.47
+2025-09-01,Madhya Pradesh,Jio,97.37
+2025-09-01,Maharashtra,Airtel,108.83
+2025-09-01,Maharashtra,BSNL,89.18
+2025-09-01,Maharashtra,Vi,93.75
+2025-09-01,Maharashtra,Jio,110.03
+2025-09-01,Mumbai,Airtel,96.2
+2025-09-01,Mumbai,Vi,71.04
+2025-09-01,Mumbai,MTNL,78.49
+2025-09-01,Mumbai,RCom,100.0
+2025-09-01,Mumbai,Jio,92.25
+2025-09-01,North East,Airtel,102.2
+2025-09-01,North East,BSNL,51.51
+2025-09-01,North East,Vi,96.87
+2025-09-01,North East,Jio,105.18
+2025-09-01,Odisha,Airtel,101.29
+2025-09-01,Odisha,BSNL,44.54
+2025-09-01,Odisha,Vi,87.31
+2025-09-01,Odisha,Jio,94.68
+2025-09-01,Punjab,Airtel,113.35
+2025-09-01,Punjab,BSNL,51.08
+2025-09-01,Punjab,Vi,92.25
+2025-09-01,Punjab,RCom,100.0
+2025-09-01,Punjab,Jio,99.17
+2025-09-01,Rajasthan,Airtel,99.47
+2025-09-01,Rajasthan,BSNL,41.44
+2025-09-01,Rajasthan,Vi,90.27
+2025-09-01,Rajasthan,RCom,100.0
+2025-09-01,Rajasthan,Jio,98.99
+2025-09-01,Tamil Nadu,Airtel,99.19
+2025-09-01,Tamil Nadu,BSNL,90.19
+2025-09-01,Tamil Nadu,Vi,81.1
+2025-09-01,Tamil Nadu,Jio,98.19
+2025-09-01,U.P. (East),Airtel,98.25
+2025-09-01,U.P. (East),BSNL,34.95
+2025-09-01,U.P. (East),Vi,86.06
+2025-09-01,U.P. (East),Jio,94.45
+2025-09-01,U.P. (West),Airtel,104.43
+2025-09-01,U.P. (West),BSNL,37.41
+2025-09-01,U.P. (West),Vi,88.42
+2025-09-01,U.P. (West),Jio,94.85
+2025-09-01,West Bengal,Airtel,95.51
+2025-09-01,West Bengal,BSNL,78.26
+2025-09-01,West Bengal,Vi,87.97
+2025-09-01,West Bengal,RCom,100.0
+2025-09-01,West Bengal,Jio,95.96
+2024-12-01,Andhra Pradesh,Airtel,99.14
+2024-12-01,Andhra Pradesh,BSNL,71.71
+2024-12-01,Andhra Pradesh,Vi,90.38
+2024-12-01,Andhra Pradesh,Jio,92.93
+2024-12-01,Assam,Airtel,98.56
+2024-12-01,Assam,BSNL,27.68
+2024-12-01,Assam,Vi,91.96
+2024-12-01,Assam,Jio,96.62
+2024-12-01,Bihar,Airtel,88.32
+2024-12-01,Bihar,BSNL,39.49
+2024-12-01,Bihar,Vi,83.99
+2024-12-01,Bihar,Jio,94.05
+2024-12-01,Delhi,Airtel,96.48
+2024-12-01,Delhi,Vi,54.93
+2024-12-01,Delhi,MTNL,42.4
+2024-12-01,Delhi,RCom,5.0
+2024-12-01,Delhi,Jio,95.62
+2024-12-01,Gujarat,Airtel,112.89
+2024-12-01,Gujarat,BSNL,56.29
+2024-12-01,Gujarat,Vi,91.83
+2024-12-01,Gujarat,RCom,0.0
+2024-12-01,Gujarat,Jio,100.8
+2024-12-01,Haryana,Airtel,100.95
+2024-12-01,Haryana,BSNL,35.07
+2024-12-01,Haryana,Vi,91.96
+2024-12-01,Haryana,Jio,101.06
+2024-12-01,Himachal Pradesh,Airtel,97.94
+2024-12-01,Himachal Pradesh,BSNL,53.95
+2024-12-01,Himachal Pradesh,Vi,104.68
+2024-12-01,Himachal Pradesh,Jio,103.54
+2024-12-01,Jammu & Kashmir,Airtel,86.88
+2024-12-01,Jammu & Kashmir,BSNL,64.94
+2024-12-01,Jammu & Kashmir,Vi,83.53
+2024-12-01,Jammu & Kashmir,Jio,84.7
+2024-12-01,Karnataka,Airtel,99.23
+2024-12-01,Karnataka,BSNL,70.43
+2024-12-01,Karnataka,Vi,74.98
+2024-12-01,Karnataka,RCom,100.0
+2024-12-01,Karnataka,Jio,96.23
+2024-12-01,Kerala,Airtel,104.19
+2024-12-01,Kerala,BSNL,107.29
+2024-12-01,Kerala,Vi,94.19
+2024-12-01,Kerala,Jio,94.67
+2024-12-01,Kolkata,Airtel,98.02
+2024-12-01,Kolkata,BSNL,92.15
+2024-12-01,Kolkata,Vi,87.45
+2024-12-01,Kolkata,Jio,101.17
+2024-12-01,Madhya Pradesh,Airtel,99.54
+2024-12-01,Madhya Pradesh,BSNL,44.51
+2024-12-01,Madhya Pradesh,Vi,83.93
+2024-12-01,Madhya Pradesh,Jio,91.24
+2024-12-01,Maharashtra,Airtel,108.35
+2024-12-01,Maharashtra,BSNL,81.8
+2024-12-01,Maharashtra,Vi,92.38
+2024-12-01,Maharashtra,Jio,104.84
+2024-12-01,Mumbai,Airtel,93.14
+2024-12-01,Mumbai,Vi,71.31
+2024-12-01,Mumbai,MTNL,57.85
+2024-12-01,Mumbai,RCom,100.0
+2024-12-01,Mumbai,Jio,87.99
+2024-12-01,North East,Airtel,105.02
+2024-12-01,North East,BSNL,54.82
+2024-12-01,North East,Vi,95.76
+2024-12-01,North East,Jio,103.73
+2024-12-01,Odisha,Airtel,104.49
+2024-12-01,Odisha,BSNL,48.37
+2024-12-01,Odisha,Vi,92.02
+2024-12-01,Odisha,Jio,97.67
+2024-12-01,Punjab,Airtel,105.75
+2024-12-01,Punjab,BSNL,56.82
+2024-12-01,Punjab,Vi,90.47
+2024-12-01,Punjab,RCom,100.0
+2024-12-01,Punjab,Jio,100.41
+2024-12-01,Rajasthan,Airtel,101.8
+2024-12-01,Rajasthan,BSNL,45.35
+2024-12-01,Rajasthan,Vi,89.59
+2024-12-01,Rajasthan,RCom,100.0
+2024-12-01,Rajasthan,Jio,97.23
+2024-12-01,Tamil Nadu,Airtel,99.19
+2024-12-01,Tamil Nadu,BSNL,77.45
+2024-12-01,Tamil Nadu,Vi,88.12
+2024-12-01,Tamil Nadu,Jio,89.33
+2024-12-01,U.P. (East),Airtel,97.69
+2024-12-01,U.P. (East),BSNL,40.01
+2024-12-01,U.P. (East),Vi,88.86
+2024-12-01,U.P. (East),Jio,94.44
+2024-12-01,U.P. (West),Airtel,101.14
+2024-12-01,U.P. (West),BSNL,46.67
+2024-12-01,U.P. (West),Vi,85.74
+2024-12-01,U.P. (West),Jio,91.74
+2024-12-01,West Bengal,Airtel,97.91
+2024-12-01,West Bengal,BSNL,71.66
+2024-12-01,West Bengal,Vi,87.14
+2024-12-01,West Bengal,RCom,100.0
+2024-12-01,West Bengal,Jio,96.62
+2025-03-01,Andhra Pradesh,Airtel,99.85
+2025-03-01,Andhra Pradesh,BSNL,69.43
+2025-03-01,Andhra Pradesh,Vi,92.04
+2025-03-01,Andhra Pradesh,Jio,93.37
+2025-03-01,Assam,Airtel,99.05
+2025-03-01,Assam,BSNL,26.65
+2025-03-01,Assam,Vi,92.68
+2025-03-01,Assam,Jio,97.71
+2025-03-01,Bihar,Airtel,90.81
+2025-03-01,Bihar,BSNL,37.68
+2025-03-01,Bihar,Vi,84.6
+2025-03-01,Bihar,Jio,94.63
+2025-03-01,Delhi,Airtel,95.01
+2025-03-01,Delhi,Vi,54.68
+2025-03-01,Delhi,MTNL,41.49
+2025-03-01,Delhi,RCom,100.0
+2025-03-01,Delhi,Jio,97.58
+2025-03-01,Gujarat,Airtel,107.2
+2025-03-01,Gujarat,BSNL,54.39
+2025-03-01,Gujarat,Vi,91.92
+2025-03-01,Gujarat,RCom,0.0
+2025-03-01,Gujarat,Jio,99.68
+2025-03-01,Haryana,Airtel,101.73
+2025-03-01,Haryana,BSNL,40.32
+2025-03-01,Haryana,Vi,92.79
+2025-03-01,Haryana,Jio,99.72
+2025-03-01,Himachal Pradesh,Airtel,95.23
+2025-03-01,Himachal Pradesh,BSNL,52.67
+2025-03-01,Himachal Pradesh,Vi,103.75
+2025-03-01,Himachal Pradesh,Jio,100.01
+2025-03-01,Jammu & Kashmir,Airtel,88.55
+2025-03-01,Jammu & Kashmir,BSNL,63.0
+2025-03-01,Jammu & Kashmir,Vi,84.82
+2025-03-01,Jammu & Kashmir,Jio,80.73
+2025-03-01,Karnataka,Airtel,99.65
+2025-03-01,Karnataka,BSNL,75.87
+2025-03-01,Karnataka,Vi,75.41
+2025-03-01,Karnataka,RCom,100.0
+2025-03-01,Karnataka,Jio,95.06
+2025-03-01,Kerala,Airtel,100.39
+2025-03-01,Kerala,BSNL,119.31
+2025-03-01,Kerala,Vi,94.16
+2025-03-01,Kerala,Jio,93.14
+2025-03-01,Kolkata,Airtel,99.1
+2025-03-01,Kolkata,BSNL,97.3
+2025-03-01,Kolkata,Vi,88.17
+2025-03-01,Kolkata,Jio,98.23
+2025-03-01,Madhya Pradesh,Airtel,99.33
+2025-03-01,Madhya Pradesh,BSNL,41.58
+2025-03-01,Madhya Pradesh,Vi,86.08
+2025-03-01,Madhya Pradesh,Jio,97.43
+2025-03-01,Maharashtra,Airtel,107.43
+2025-03-01,Maharashtra,BSNL,101.66
+2025-03-01,Maharashtra,Vi,93.22
+2025-03-01,Maharashtra,Jio,103.27
+2025-03-01,Mumbai,Airtel,88.55
+2025-03-01,Mumbai,Vi,71.5
+2025-03-01,Mumbai,MTNL,72.93
+2025-03-01,Mumbai,RCom,100.0
+2025-03-01,Mumbai,Jio,86.28
+2025-03-01,North East,Airtel,103.14
+2025-03-01,North East,BSNL,55.35
+2025-03-01,North East,Vi,96.83
+2025-03-01,North East,Jio,104.14
+2025-03-01,Odisha,Airtel,104.27
+2025-03-01,Odisha,BSNL,48.02
+2025-03-01,Odisha,Vi,91.81
+2025-03-01,Odisha,Jio,97.47
+2025-03-01,Punjab,Airtel,108.18
+2025-03-01,Punjab,BSNL,54.24
+2025-03-01,Punjab,Vi,90.98
+2025-03-01,Punjab,RCom,100.0
+2025-03-01,Punjab,Jio,99.57
+2025-03-01,Rajasthan,Airtel,102.78
+2025-03-01,Rajasthan,BSNL,45.13
+2025-03-01,Rajasthan,Vi,91.2
+2025-03-01,Rajasthan,RCom,100.0
+2025-03-01,Rajasthan,Jio,97.05
+2025-03-01,Tamil Nadu,Airtel,101.35
+2025-03-01,Tamil Nadu,BSNL,77.84
+2025-03-01,Tamil Nadu,Vi,80.89
+2025-03-01,Tamil Nadu,Jio,85.65
+2025-03-01,U.P. (East),Airtel,100.4
+2025-03-01,U.P. (East),BSNL,39.67
+2025-03-01,U.P. (East),Vi,88.75
+2025-03-01,U.P. (East),Jio,94.76
+2025-03-01,U.P. (West),Airtel,108.71
+2025-03-01,U.P. (West),BSNL,49.87
+2025-03-01,U.P. (West),Vi,88.28
+2025-03-01,U.P. (West),Jio,96.82
+2025-03-01,West Bengal,Airtel,98.64
+2025-03-01,West Bengal,BSNL,83.82
+2025-03-01,West Bengal,Vi,89.67
+2025-03-01,West Bengal,RCom,100.0
+2025-03-01,West Bengal,Jio,94.31
+2026-01-01,Andhra Pradesh,Airtel,97.41
+2026-01-01,Andhra Pradesh,BSNL,62.13
+2026-01-01,Andhra Pradesh,Vi,95.61
+2026-01-01,Andhra Pradesh,Jio,92.05
+2026-01-01,Assam,Airtel,99.58
+2026-01-01,Assam,BSNL,23.28
+2026-01-01,Assam,Vi,90.27
+2026-01-01,Assam,Jio,99.91
+2026-01-01,Bihar,Airtel,88.27
+2026-01-01,Bihar,BSNL,33.68
+2026-01-01,Bihar,Vi,84.89
+2026-01-01,Bihar,Jio,96.64
+2026-01-01,Delhi,Airtel,96.84
+2026-01-01,Delhi,Vi,51.46
+2026-01-01,Delhi,MTNL,190.51
+2026-01-01,Delhi,RCom,100.0
+2026-01-01,Delhi,Jio,97.71
+2026-01-01,Gujarat,Airtel,114.04
+2026-01-01,Gujarat,BSNL,46.87
+2026-01-01,Gujarat,Vi,91.73
+2026-01-01,Gujarat,RCom,0.0
+2026-01-01,Gujarat,Jio,102.1
+2026-01-01,Haryana,Airtel,104.55
+2026-01-01,Haryana,BSNL,23.59
+2026-01-01,Haryana,Vi,92.49
+2026-01-01,Haryana,Jio,103.04
+2026-01-01,Himachal Pradesh,Airtel,94.7
+2026-01-01,Himachal Pradesh,BSNL,48.24
+2026-01-01,Himachal Pradesh,Vi,98.5
+2026-01-01,Himachal Pradesh,Jio,105.21
+2026-01-01,Jammu & Kashmir,Airtel,84.95
+2026-01-01,Jammu & Kashmir,BSNL,57.12
+2026-01-01,Jammu & Kashmir,Vi,79.21
+2026-01-01,Jammu & Kashmir,Jio,90.79
+2026-01-01,Karnataka,Airtel,98.28
+2026-01-01,Karnataka,BSNL,66.47
+2026-01-01,Karnataka,Vi,68.4
+2026-01-01,Karnataka,RCom,100.0
+2026-01-01,Karnataka,Jio,93.94
+2026-01-01,Kerala,Airtel,101.82
+2026-01-01,Kerala,BSNL,115.03
+2026-01-01,Kerala,Vi,94.23
+2026-01-01,Kerala,Jio,95.05
+2026-01-01,Kolkata,Airtel,101.16
+2026-01-01,Kolkata,BSNL,93.7
+2026-01-01,Kolkata,Vi,86.69
+2026-01-01,Kolkata,Jio,99.9
+2026-01-01,Madhya Pradesh,Airtel,98.64
+2026-01-01,Madhya Pradesh,BSNL,42.98
+2026-01-01,Madhya Pradesh,Vi,87.41
+2026-01-01,Madhya Pradesh,Jio,95.08
+2026-01-01,Maharashtra,Airtel,110.8
+2026-01-01,Maharashtra,BSNL,90.01
+2026-01-01,Maharashtra,Vi,94.7
+2026-01-01,Maharashtra,Jio,108.52
+2026-01-01,Mumbai,Airtel,101.03
+2026-01-01,Mumbai,Vi,71.45
+2026-01-01,Mumbai,MTNL,76.74
+2026-01-01,Mumbai,RCom,100.0
+2026-01-01,Mumbai,Jio,92.93
+2026-01-01,North East,Airtel,99.57
+2026-01-01,North East,BSNL,45.79
+2026-01-01,North East,Vi,95.84
+2026-01-01,North East,Jio,103.1
+2026-01-01,Odisha,Airtel,101.41
+2026-01-01,Odisha,BSNL,43.37
+2026-01-01,Odisha,Vi,87.81
+2026-01-01,Odisha,Jio,98.89
+2026-01-01,Punjab,Airtel,113.0
+2026-01-01,Punjab,BSNL,35.83
+2026-01-01,Punjab,Vi,93.35
+2026-01-01,Punjab,RCom,100.0
+2026-01-01,Punjab,Jio,101.45
+2026-01-01,Rajasthan,Airtel,99.64
+2026-01-01,Rajasthan,BSNL,39.56
+2026-01-01,Rajasthan,Vi,92.94
+2026-01-01,Rajasthan,RCom,100.0
+2026-01-01,Rajasthan,Jio,100.2
+2026-01-01,Tamil Nadu,Airtel,97.3
+2026-01-01,Tamil Nadu,BSNL,89.19
+2026-01-01,Tamil Nadu,Vi,79.73
+2026-01-01,Tamil Nadu,Jio,99.36
+2026-01-01,U.P. (East),Airtel,100.94
+2026-01-01,U.P. (East),BSNL,32.57
+2026-01-01,U.P. (East),Vi,87.05
+2026-01-01,U.P. (East),Jio,95.06
+2026-01-01,U.P. (West),Airtel,107.06
+2026-01-01,U.P. (West),BSNL,34.58
+2026-01-01,U.P. (West),Vi,92.62
+2026-01-01,U.P. (West),Jio,99.45
+2026-01-01,West Bengal,Airtel,95.69
+2026-01-01,West Bengal,BSNL,77.99
+2026-01-01,West Bengal,Vi,91.53
+2026-01-01,West Bengal,RCom,100.0
+2026-01-01,West Bengal,Jio,98.12
+2024-05-01,Andhra Pradesh,Airtel,97.81
+2024-05-01,Andhra Pradesh,BSNL,63.01
+2024-05-01,Andhra Pradesh,Vi,90.15
+2024-05-01,Andhra Pradesh,Jio,89.62
+2024-05-01,Assam,Airtel,102.04
+2024-05-01,Assam,BSNL,29.72
+2024-05-01,Assam,Vi,95.22
+2024-05-01,Assam,Jio,101.37
+2024-05-01,Bihar,Airtel,91.59
+2024-05-01,Bihar,BSNL,35.26
+2024-05-01,Bihar,Vi,88.0
+2024-05-01,Bihar,Jio,89.38
+2024-05-01,Delhi,Airtel,93.24
+2024-05-01,Delhi,Vi,58.33
+2024-05-01,Delhi,MTNL,15.37
+2024-05-01,Delhi,Jio,89.16
+2024-05-01,Gujarat,Airtel,106.09
+2024-05-01,Gujarat,BSNL,67.57
+2024-05-01,Gujarat,Vi,94.44
+2024-05-01,Gujarat,Jio,93.64
+2024-05-01,Haryana,Airtel,105.07
+2024-05-01,Haryana,BSNL,29.52
+2024-05-01,Haryana,Vi,91.73
+2024-05-01,Haryana,Jio,97.51
+2024-05-01,Himachal Pradesh,Airtel,104.71
+2024-05-01,Himachal Pradesh,BSNL,54.82
+2024-05-01,Himachal Pradesh,Vi,111.09
+2024-05-01,Himachal Pradesh,Jio,97.68
+2024-05-01,Jammu & Kashmir,Airtel,93.8
+2024-05-01,Jammu & Kashmir,BSNL,64.78
+2024-05-01,Jammu & Kashmir,Vi,85.31
+2024-05-01,Jammu & Kashmir,Jio,84.31
+2024-05-01,Karnataka,Airtel,97.78
+2024-05-01,Karnataka,BSNL,59.82
+2024-05-01,Karnataka,Vi,81.39
+2024-05-01,Karnataka,RCom,100.0
+2024-05-01,Karnataka,Jio,90.61
+2024-05-01,Kerala,Airtel,102.29
+2024-05-01,Kerala,BSNL,95.56
+2024-05-01,Kerala,Vi,93.05
+2024-05-01,Kerala,Jio,89.58
+2024-05-01,Kolkata,Airtel,94.49
+2024-05-01,Kolkata,BSNL,56.52
+2024-05-01,Kolkata,Vi,90.98
+2024-05-01,Kolkata,Jio,90.82
+2024-05-01,Madhya Pradesh,Airtel,103.49
+2024-05-01,Madhya Pradesh,BSNL,44.31
+2024-05-01,Madhya Pradesh,Vi,84.84
+2024-05-01,Madhya Pradesh,Jio,92.62
+2024-05-01,Maharashtra,Airtel,108.04
+2024-05-01,Maharashtra,BSNL,63.88
+2024-05-01,Maharashtra,Vi,91.35
+2024-05-01,Maharashtra,Jio,99.59
+2024-05-01,Mumbai,Airtel,77.61
+2024-05-01,Mumbai,Vi,67.53
+2024-05-01,Mumbai,MTNL,72.72
+2024-05-01,Mumbai,Jio,78.86
+2024-05-01,North East,Airtel,105.64
+2024-05-01,North East,BSNL,51.89
+2024-05-01,North East,Vi,94.45
+2024-05-01,North East,Jio,108.55
+2024-05-01,Odisha,Airtel,104.78
+2024-05-01,Odisha,BSNL,48.74
+2024-05-01,Odisha,Vi,96.71
+2024-05-01,Odisha,Jio,99.04
+2024-05-01,Punjab,Airtel,104.44
+2024-05-01,Punjab,BSNL,47.0
+2024-05-01,Punjab,Vi,92.45
+2024-05-01,Punjab,Jio,91.55
+2024-05-01,Rajasthan,Airtel,100.37
+2024-05-01,Rajasthan,BSNL,41.47
+2024-05-01,Rajasthan,Vi,92.1
+2024-05-01,Rajasthan,Jio,93.04
+2024-05-01,Tamil Nadu,Airtel,97.37
+2024-05-01,Tamil Nadu,BSNL,73.22
+2024-05-01,Tamil Nadu,Vi,89.58
+2024-05-01,Tamil Nadu,Jio,81.61
+2024-05-01,U.P. (East),Airtel,98.12
+2024-05-01,U.P. (East),BSNL,34.33
+2024-05-01,U.P. (East),Vi,90.74
+2024-05-01,U.P. (East),Jio,93.16
+2024-05-01,U.P. (West),Airtel,102.96
+2024-05-01,U.P. (West),BSNL,36.28
+2024-05-01,U.P. (West),Vi,98.74
+2024-05-01,U.P. (West),Jio,88.86
+2024-05-01,West Bengal,Airtel,104.8
+2024-05-01,West Bengal,BSNL,66.14
+2024-05-01,West Bengal,Vi,89.09
+2024-05-01,West Bengal,Jio,95.6
+2025-04-01,Andhra Pradesh,Airtel,97.32
+2025-04-01,Andhra Pradesh,BSNL,68.5
+2025-04-01,Andhra Pradesh,Vi,91.51
+2025-04-01,Andhra Pradesh,Jio,92.7
+2025-04-01,Assam,Airtel,98.59
+2025-04-01,Assam,BSNL,26.72
+2025-04-01,Assam,Vi,92.51
+2025-04-01,Assam,Jio,99.76
+2025-04-01,Bihar,Airtel,92.01
+2025-04-01,Bihar,BSNL,39.1
+2025-04-01,Bihar,Vi,85.99
+2025-04-01,Bihar,Jio,97.83
+2025-04-01,Delhi,Airtel,92.08
+2025-04-01,Delhi,Vi,52.82
+2025-04-01,Delhi,MTNL,39.48
+2025-04-01,Delhi,RCom,100.0
+2025-04-01,Delhi,Jio,95.84
+2025-04-01,Gujarat,Airtel,107.38
+2025-04-01,Gujarat,BSNL,55.35
+2025-04-01,Gujarat,Vi,90.23
+2025-04-01,Gujarat,RCom,0.0
+2025-04-01,Gujarat,Jio,98.25
+2025-04-01,Haryana,Airtel,100.37
+2025-04-01,Haryana,BSNL,37.06
+2025-04-01,Haryana,Vi,92.48
+2025-04-01,Haryana,Jio,102.77
+2025-04-01,Himachal Pradesh,Airtel,96.63
+2025-04-01,Himachal Pradesh,BSNL,53.01
+2025-04-01,Himachal Pradesh,Vi,107.47
+2025-04-01,Himachal Pradesh,Jio,100.99
+2025-04-01,Jammu & Kashmir,Airtel,89.75
+2025-04-01,Jammu & Kashmir,BSNL,62.83
+2025-04-01,Jammu & Kashmir,Vi,84.68
+2025-04-01,Jammu & Kashmir,Jio,80.99
+2025-04-01,Karnataka,Airtel,96.32
+2025-04-01,Karnataka,BSNL,69.84
+2025-04-01,Karnataka,Vi,72.92
+2025-04-01,Karnataka,RCom,100.0
+2025-04-01,Karnataka,Jio,94.91
+2025-04-01,Kerala,Airtel,100.96
+2025-04-01,Kerala,BSNL,114.39
+2025-04-01,Kerala,Vi,93.68
+2025-04-01,Kerala,Jio,93.14
+2025-04-01,Kolkata,Airtel,99.11
+2025-04-01,Kolkata,BSNL,98.16
+2025-04-01,Kolkata,Vi,87.01
+2025-04-01,Kolkata,Jio,98.11
+2025-04-01,Madhya Pradesh,Airtel,99.54
+2025-04-01,Madhya Pradesh,BSNL,40.53
+2025-04-01,Madhya Pradesh,Vi,86.83
+2025-04-01,Madhya Pradesh,Jio,97.78
+2025-04-01,Maharashtra,Airtel,106.57
+2025-04-01,Maharashtra,BSNL,95.71
+2025-04-01,Maharashtra,Vi,93.42
+2025-04-01,Maharashtra,Jio,104.74
+2025-04-01,Mumbai,Airtel,87.39
+2025-04-01,Mumbai,Vi,70.82
+2025-04-01,Mumbai,MTNL,90.68
+2025-04-01,Mumbai,RCom,100.0
+2025-04-01,Mumbai,Jio,87.33
+2025-04-01,North East,Airtel,102.46
+2025-04-01,North East,BSNL,53.44
+2025-04-01,North East,Vi,96.4
+2025-04-01,North East,Jio,111.01
+2025-04-01,Odisha,Airtel,103.59
+2025-04-01,Odisha,BSNL,47.15
+2025-04-01,Odisha,Vi,91.55
+2025-04-01,Odisha,Jio,99.27
+2025-04-01,Punjab,Airtel,102.54
+2025-04-01,Punjab,BSNL,53.95
+2025-04-01,Punjab,Vi,90.6
+2025-04-01,Punjab,RCom,100.0
+2025-04-01,Punjab,Jio,98.68
+2025-04-01,Rajasthan,Airtel,101.3
+2025-04-01,Rajasthan,BSNL,43.93
+2025-04-01,Rajasthan,Vi,90.8
+2025-04-01,Rajasthan,RCom,100.0
+2025-04-01,Rajasthan,Jio,97.81
+2025-04-01,Tamil Nadu,Airtel,100.05
+2025-04-01,Tamil Nadu,BSNL,76.92
+2025-04-01,Tamil Nadu,Vi,79.81
+2025-04-01,Tamil Nadu,Jio,85.26
+2025-04-01,U.P. (East),Airtel,100.5
+2025-04-01,U.P. (East),BSNL,38.05
+2025-04-01,U.P. (East),Vi,90.1
+2025-04-01,U.P. (East),Jio,96.48
+2025-04-01,U.P. (West),Airtel,105.97
+2025-04-01,U.P. (West),BSNL,46.37
+2025-04-01,U.P. (West),Vi,90.46
+2025-04-01,U.P. (West),Jio,95.9
+2025-04-01,West Bengal,Airtel,98.66
+2025-04-01,West Bengal,BSNL,83.87
+2025-04-01,West Bengal,Vi,89.47
+2025-04-01,West Bengal,RCom,100.0
+2025-04-01,West Bengal,Jio,95.02
+2025-05-01,Andhra Pradesh,Airtel,97.13
+2025-05-01,Andhra Pradesh,BSNL,67.74
+2025-05-01,Andhra Pradesh,Vi,91.3
+2025-05-01,Andhra Pradesh,Jio,93.02
+2025-05-01,Assam,Airtel,99.85
+2025-05-01,Assam,BSNL,26.84
+2025-05-01,Assam,Vi,91.61
+2025-05-01,Assam,Jio,102.71
+2025-05-01,Bihar,Airtel,92.95
+2025-05-01,Bihar,BSNL,38.86
+2025-05-01,Bihar,Vi,86.66
+2025-05-01,Bihar,Jio,95.21
+2025-05-01,Delhi,Airtel,92.02
+2025-05-01,Delhi,Vi,52.37
+2025-05-01,Delhi,MTNL,93.46
+2025-05-01,Delhi,RCom,100.0
+2025-05-01,Delhi,Jio,95.36
+2025-05-01,Gujarat,Airtel,107.96
+2025-05-01,Gujarat,BSNL,56.43
+2025-05-01,Gujarat,Vi,88.45
+2025-05-01,Gujarat,RCom,0.0
+2025-05-01,Gujarat,Jio,97.22
+2025-05-01,Haryana,Airtel,99.81
+2025-05-01,Haryana,BSNL,37.99
+2025-05-01,Haryana,Vi,93.75
+2025-05-01,Haryana,Jio,101.02
+2025-05-01,Himachal Pradesh,Airtel,97.18
+2025-05-01,Himachal Pradesh,BSNL,53.3
+2025-05-01,Himachal Pradesh,Vi,103.79
+2025-05-01,Himachal Pradesh,Jio,102.58
+2025-05-01,Jammu & Kashmir,Airtel,89.79
+2025-05-01,Jammu & Kashmir,BSNL,62.66
+2025-05-01,Jammu & Kashmir,Vi,81.52
+2025-05-01,Jammu & Kashmir,Jio,79.72
+2025-05-01,Karnataka,Airtel,97.33
+2025-05-01,Karnataka,BSNL,68.38
+2025-05-01,Karnataka,Vi,74.12
+2025-05-01,Karnataka,RCom,100.0
+2025-05-01,Karnataka,Jio,95.65
+2025-05-01,Kerala,Airtel,102.93
+2025-05-01,Kerala,BSNL,115.41
+2025-05-01,Kerala,Vi,92.48
+2025-05-01,Kerala,Jio,94.1
+2025-05-01,Kolkata,Airtel,97.12
+2025-05-01,Kolkata,BSNL,92.52
+2025-05-01,Kolkata,Vi,87.63
+2025-05-01,Kolkata,Jio,97.75
+2025-05-01,Madhya Pradesh,Airtel,99.14
+2025-05-01,Madhya Pradesh,BSNL,51.59
+2025-05-01,Madhya Pradesh,Vi,87.08
+2025-05-01,Madhya Pradesh,Jio,98.91
+2025-05-01,Maharashtra,Airtel,105.77
+2025-05-01,Maharashtra,BSNL,97.33
+2025-05-01,Maharashtra,Vi,93.06
+2025-05-01,Maharashtra,Jio,107.22
+2025-05-01,Mumbai,Airtel,84.35
+2025-05-01,Mumbai,Vi,65.83
+2025-05-01,Mumbai,MTNL,104.59
+2025-05-01,Mumbai,RCom,100.0
+2025-05-01,Mumbai,Jio,81.88
+2025-05-01,North East,Airtel,102.1
+2025-05-01,North East,BSNL,52.14
+2025-05-01,North East,Vi,96.74
+2025-05-01,North East,Jio,111.77
+2025-05-01,Odisha,Airtel,103.06
+2025-05-01,Odisha,BSNL,46.77
+2025-05-01,Odisha,Vi,90.22
+2025-05-01,Odisha,Jio,98.57
+2025-05-01,Punjab,Airtel,102.32
+2025-05-01,Punjab,BSNL,53.1
+2025-05-01,Punjab,Vi,90.22
+2025-05-01,Punjab,RCom,100.0
+2025-05-01,Punjab,Jio,98.68
+2025-05-01,Rajasthan,Airtel,100.84
+2025-05-01,Rajasthan,BSNL,43.92
+2025-05-01,Rajasthan,Vi,89.33
+2025-05-01,Rajasthan,RCom,100.0
+2025-05-01,Rajasthan,Jio,98.33
+2025-05-01,Tamil Nadu,Airtel,100.37
+2025-05-01,Tamil Nadu,BSNL,96.4
+2025-05-01,Tamil Nadu,Vi,79.64
+2025-05-01,Tamil Nadu,Jio,95.73
+2025-05-01,U.P. (East),Airtel,102.83
+2025-05-01,U.P. (East),BSNL,38.43
+2025-05-01,U.P. (East),Vi,91.51
+2025-05-01,U.P. (East),Jio,98.07
+2025-05-01,U.P. (West),Airtel,107.29
+2025-05-01,U.P. (West),BSNL,46.16
+2025-05-01,U.P. (West),Vi,89.9
+2025-05-01,U.P. (West),Jio,95.51
+2025-05-01,West Bengal,Airtel,96.89
+2025-05-01,West Bengal,BSNL,80.86
+2025-05-01,West Bengal,Vi,88.37
+2025-05-01,West Bengal,RCom,100.0
+2025-05-01,West Bengal,Jio,94.2
+2024-06-01,Andhra Pradesh,Airtel,98.17
+2024-06-01,Andhra Pradesh,BSNL,62.41
+2024-06-01,Andhra Pradesh,Vi,89.28
+2024-06-01,Andhra Pradesh,Jio,89.94
+2024-06-01,Assam,Airtel,102.54
+2024-06-01,Assam,BSNL,26.93
+2024-06-01,Assam,Vi,93.98
+2024-06-01,Assam,Jio,98.74
+2024-06-01,Bihar,Airtel,90.86
+2024-06-01,Bihar,BSNL,34.43
+2024-06-01,Bihar,Vi,85.31
+2024-06-01,Bihar,Jio,89.73
+2024-06-01,Delhi,Airtel,90.49
+2024-06-01,Delhi,Vi,56.94
+2024-06-01,Delhi,MTNL,15.05
+2024-06-01,Delhi,Jio,88.97
+2024-06-01,Gujarat,Airtel,105.67
+2024-06-01,Gujarat,BSNL,67.51
+2024-06-01,Gujarat,Vi,93.11
+2024-06-01,Gujarat,Jio,95.81
+2024-06-01,Haryana,Airtel,103.98
+2024-06-01,Haryana,BSNL,28.6
+2024-06-01,Haryana,Vi,91.13
+2024-06-01,Haryana,Jio,95.7
+2024-06-01,Himachal Pradesh,Airtel,104.67
+2024-06-01,Himachal Pradesh,BSNL,53.64
+2024-06-01,Himachal Pradesh,Vi,114.97
+2024-06-01,Himachal Pradesh,Jio,103.32
+2024-06-01,Jammu & Kashmir,Airtel,93.9
+2024-06-01,Jammu & Kashmir,BSNL,64.39
+2024-06-01,Jammu & Kashmir,Vi,85.11
+2024-06-01,Jammu & Kashmir,Jio,84.26
+2024-06-01,Karnataka,Airtel,98.53
+2024-06-01,Karnataka,BSNL,60.59
+2024-06-01,Karnataka,Vi,79.76
+2024-06-01,Karnataka,Jio,92.59
+2024-06-01,Kerala,Airtel,103.11
+2024-06-01,Kerala,BSNL,98.28
+2024-06-01,Kerala,Vi,93.47
+2024-06-01,Kerala,Jio,88.55
+2024-06-01,Kolkata,Airtel,92.53
+2024-06-01,Kolkata,BSNL,63.45
+2024-06-01,Kolkata,Vi,88.23
+2024-06-01,Kolkata,Jio,91.73
+2024-06-01,Madhya Pradesh,Airtel,103.35
+2024-06-01,Madhya Pradesh,BSNL,41.92
+2024-06-01,Madhya Pradesh,Vi,83.4
+2024-06-01,Madhya Pradesh,Jio,92.43
+2024-06-01,Maharashtra,Airtel,107.85
+2024-06-01,Maharashtra,BSNL,62.9
+2024-06-01,Maharashtra,Vi,90.71
+2024-06-01,Maharashtra,Jio,98.75
+2024-06-01,Mumbai,Airtel,80.64
+2024-06-01,Mumbai,Vi,70.21
+2024-06-01,Mumbai,MTNL,72.46
+2024-06-01,Mumbai,Jio,84.31
+2024-06-01,North East,Airtel,104.17
+2024-06-01,North East,BSNL,51.55
+2024-06-01,North East,Vi,93.67
+2024-06-01,North East,Jio,111.27
+2024-06-01,Odisha,Airtel,103.43
+2024-06-01,Odisha,BSNL,47.55
+2024-06-01,Odisha,Vi,96.7
+2024-06-01,Odisha,Jio,99.29
+2024-06-01,Punjab,Airtel,105.83
+2024-06-01,Punjab,BSNL,45.81
+2024-06-01,Punjab,Vi,92.14
+2024-06-01,Punjab,Jio,91.82
+2024-06-01,Rajasthan,Airtel,99.93
+2024-06-01,Rajasthan,BSNL,40.23
+2024-06-01,Rajasthan,Vi,89.08
+2024-06-01,Rajasthan,Jio,91.96
+2024-06-01,Tamil Nadu,Airtel,98.29
+2024-06-01,Tamil Nadu,BSNL,73.92
+2024-06-01,Tamil Nadu,Vi,89.7
+2024-06-01,Tamil Nadu,Jio,82.12
+2024-06-01,U.P. (East),Airtel,96.4
+2024-06-01,U.P. (East),BSNL,33.66
+2024-06-01,U.P. (East),Vi,89.36
+2024-06-01,U.P. (East),Jio,92.39
+2024-06-01,U.P. (West),Airtel,104.18
+2024-06-01,U.P. (West),BSNL,36.94
+2024-06-01,U.P. (West),Vi,95.16
+2024-06-01,U.P. (West),Jio,90.87
+2024-06-01,West Bengal,Airtel,104.92
+2024-06-01,West Bengal,BSNL,66.22
+2024-06-01,West Bengal,Vi,91.78
+2024-06-01,West Bengal,Jio,98.15
+2025-06-01,Andhra Pradesh,Airtel,97.24
+2025-06-01,Andhra Pradesh,BSNL,66.89
+2025-06-01,Andhra Pradesh,Vi,91.49
+2025-06-01,Andhra Pradesh,Jio,93.92
+2025-06-01,Assam,Airtel,99.53
+2025-06-01,Assam,BSNL,25.36
+2025-06-01,Assam,Vi,91.32
+2025-06-01,Assam,Jio,99.02
+2025-06-01,Bihar,Airtel,92.08
+2025-06-01,Bihar,BSNL,37.81
+2025-06-01,Bihar,Vi,86.03
+2025-06-01,Bihar,Jio,94.78
+2025-06-01,Delhi,Airtel,92.19
+2025-06-01,Delhi,Vi,51.49
+2025-06-01,Delhi,MTNL,163.43
+2025-06-01,Delhi,RCom,100.0
+2025-06-01,Delhi,Jio,96.11
+2025-06-01,Gujarat,Airtel,111.66
+2025-06-01,Gujarat,BSNL,51.55
+2025-06-01,Gujarat,Vi,89.87
+2025-06-01,Gujarat,RCom,0.0
+2025-06-01,Gujarat,Jio,99.8
+2025-06-01,Haryana,Airtel,100.42
+2025-06-01,Haryana,BSNL,40.26
+2025-06-01,Haryana,Vi,91.65
+2025-06-01,Haryana,Jio,100.99
+2025-06-01,Himachal Pradesh,Airtel,99.37
+2025-06-01,Himachal Pradesh,BSNL,53.99
+2025-06-01,Himachal Pradesh,Vi,110.32
+2025-06-01,Himachal Pradesh,Jio,104.82
+2025-06-01,Jammu & Kashmir,Airtel,91.08
+2025-06-01,Jammu & Kashmir,BSNL,62.07
+2025-06-01,Jammu & Kashmir,Vi,80.29
+2025-06-01,Jammu & Kashmir,Jio,80.91
+2025-06-01,Karnataka,Airtel,97.58
+2025-06-01,Karnataka,BSNL,66.68
+2025-06-01,Karnataka,Vi,73.09
+2025-06-01,Karnataka,RCom,100.0
+2025-06-01,Karnataka,Jio,95.52
+2025-06-01,Kerala,Airtel,99.62
+2025-06-01,Kerala,BSNL,116.51
+2025-06-01,Kerala,Vi,93.16
+2025-06-01,Kerala,Jio,94.1
+2025-06-01,Kolkata,Airtel,98.03
+2025-06-01,Kolkata,BSNL,96.54
+2025-06-01,Kolkata,Vi,87.02
+2025-06-01,Kolkata,Jio,98.57
+2025-06-01,Madhya Pradesh,Airtel,98.81
+2025-06-01,Madhya Pradesh,BSNL,52.43
+2025-06-01,Madhya Pradesh,Vi,86.27
+2025-06-01,Madhya Pradesh,Jio,97.18
+2025-06-01,Maharashtra,Airtel,107.07
+2025-06-01,Maharashtra,BSNL,96.93
+2025-06-01,Maharashtra,Vi,91.89
+2025-06-01,Maharashtra,Jio,107.13
+2025-06-01,Mumbai,Airtel,87.55
+2025-06-01,Mumbai,Vi,69.33
+2025-06-01,Mumbai,MTNL,101.23
+2025-06-01,Mumbai,RCom,100.0
+2025-06-01,Mumbai,Jio,87.37
+2025-06-01,North East,Airtel,102.64
+2025-06-01,North East,BSNL,50.96
+2025-06-01,North East,Vi,96.46
+2025-06-01,North East,Jio,111.82
+2025-06-01,Odisha,Airtel,103.26
+2025-06-01,Odisha,BSNL,45.77
+2025-06-01,Odisha,Vi,89.11
+2025-06-01,Odisha,Jio,95.72
+2025-06-01,Punjab,Airtel,103.67
+2025-06-01,Punjab,BSNL,51.15
+2025-06-01,Punjab,Vi,90.33
+2025-06-01,Punjab,RCom,100.0
+2025-06-01,Punjab,Jio,98.19
+2025-06-01,Rajasthan,Airtel,99.17
+2025-06-01,Rajasthan,BSNL,42.43
+2025-06-01,Rajasthan,Vi,88.46
+2025-06-01,Rajasthan,RCom,100.0
+2025-06-01,Rajasthan,Jio,95.52
+2025-06-01,Tamil Nadu,Airtel,99.76
+2025-06-01,Tamil Nadu,BSNL,93.97
+2025-06-01,Tamil Nadu,Vi,79.98
+2025-06-01,Tamil Nadu,Jio,96.79
+2025-06-01,U.P. (East),Airtel,101.34
+2025-06-01,U.P. (East),BSNL,36.36
+2025-06-01,U.P. (East),Vi,91.27
+2025-06-01,U.P. (East),Jio,97.61
+2025-06-01,U.P. (West),Airtel,108.08
+2025-06-01,U.P. (West),BSNL,46.02
+2025-06-01,U.P. (West),Vi,89.79
+2025-06-01,U.P. (West),Jio,97.12
+2025-06-01,West Bengal,Airtel,99.37
+2025-06-01,West Bengal,BSNL,87.95
+2025-06-01,West Bengal,Vi,89.25
+2025-06-01,West Bengal,RCom,100.0
+2025-06-01,West Bengal,Jio,96.67
+2024-07-01,Andhra Pradesh,Airtel,99.27
+2024-07-01,Andhra Pradesh,BSNL,63.65
+2024-07-01,Andhra Pradesh,Vi,89.88
+2024-07-01,Andhra Pradesh,Jio,90.31
+2024-07-01,Assam,Airtel,100.06
+2024-07-01,Assam,BSNL,24.98
+2024-07-01,Assam,Vi,91.34
+2024-07-01,Assam,Jio,94.96
+2024-07-01,Bihar,Airtel,92.27
+2024-07-01,Bihar,BSNL,38.11
+2024-07-01,Bihar,Vi,86.33
+2024-07-01,Bihar,Jio,89.35
+2024-07-01,Delhi,Airtel,94.39
+2024-07-01,Delhi,Vi,55.61
+2024-07-01,Delhi,MTNL,16.45
+2024-07-01,Delhi,Jio,90.45
+2024-07-01,Gujarat,Airtel,108.77
+2024-07-01,Gujarat,BSNL,65.01
+2024-07-01,Gujarat,Vi,91.57
+2024-07-01,Gujarat,Jio,97.07
+2024-07-01,Haryana,Airtel,100.66
+2024-07-01,Haryana,BSNL,29.72
+2024-07-01,Haryana,Vi,90.88
+2024-07-01,Haryana,Jio,97.21
+2024-07-01,Himachal Pradesh,Airtel,101.47
+2024-07-01,Himachal Pradesh,BSNL,52.98
+2024-07-01,Himachal Pradesh,Vi,103.58
+2024-07-01,Himachal Pradesh,Jio,99.78
+2024-07-01,Jammu & Kashmir,Airtel,91.35
+2024-07-01,Jammu & Kashmir,BSNL,62.8
+2024-07-01,Jammu & Kashmir,Vi,85.11
+2024-07-01,Jammu & Kashmir,Jio,83.18
+2024-07-01,Karnataka,Airtel,98.92
+2024-07-01,Karnataka,BSNL,60.69
+2024-07-01,Karnataka,Vi,80.11
+2024-07-01,Karnataka,Jio,93.22
+2024-07-01,Kerala,Airtel,101.54
+2024-07-01,Kerala,BSNL,98.91
+2024-07-01,Kerala,Vi,93.77
+2024-07-01,Kerala,Jio,89.57
+2024-07-01,Kolkata,Airtel,95.61
+2024-07-01,Kolkata,BSNL,65.72
+2024-07-01,Kolkata,Vi,88.18
+2024-07-01,Kolkata,Jio,94.97
+2024-07-01,Madhya Pradesh,Airtel,101.09
+2024-07-01,Madhya Pradesh,BSNL,43.11
+2024-07-01,Madhya Pradesh,Vi,83.19
+2024-07-01,Madhya Pradesh,Jio,92.63
+2024-07-01,Maharashtra,Airtel,105.49
+2024-07-01,Maharashtra,BSNL,71.15
+2024-07-01,Maharashtra,Vi,90.43
+2024-07-01,Maharashtra,Jio,100.93
+2024-07-01,Mumbai,Airtel,85.46
+2024-07-01,Mumbai,Vi,71.33
+2024-07-01,Mumbai,MTNL,73.67
+2024-07-01,Mumbai,Jio,85.9
+2024-07-01,North East,Airtel,105.14
+2024-07-01,North East,BSNL,52.72
+2024-07-01,North East,Vi,93.19
+2024-07-01,North East,Jio,104.76
+2024-07-01,Odisha,Airtel,103.15
+2024-07-01,Odisha,BSNL,47.88
+2024-07-01,Odisha,Vi,96.72
+2024-07-01,Odisha,Jio,94.18
+2024-07-01,Punjab,Airtel,104.74
+2024-07-01,Punjab,BSNL,46.1
+2024-07-01,Punjab,Vi,92.64
+2024-07-01,Punjab,Jio,93.34
+2024-07-01,Rajasthan,Airtel,99.12
+2024-07-01,Rajasthan,BSNL,43.18
+2024-07-01,Rajasthan,Vi,88.22
+2024-07-01,Rajasthan,Jio,91.83
+2024-07-01,Tamil Nadu,Airtel,98.69
+2024-07-01,Tamil Nadu,BSNL,71.94
+2024-07-01,Tamil Nadu,Vi,90.47
+2024-07-01,Tamil Nadu,Jio,85.0
+2024-07-01,U.P. (East),Airtel,97.71
+2024-07-01,U.P. (East),BSNL,36.65
+2024-07-01,U.P. (East),Vi,87.48
+2024-07-01,U.P. (East),Jio,92.67
+2024-07-01,U.P. (West),Airtel,103.82
+2024-07-01,U.P. (West),BSNL,44.09
+2024-07-01,U.P. (West),Vi,91.14
+2024-07-01,U.P. (West),Jio,87.76
+2024-07-01,West Bengal,Airtel,100.76
+2024-07-01,West Bengal,BSNL,66.22
+2024-07-01,West Bengal,Vi,88.42
+2024-07-01,West Bengal,Jio,95.07
+2024-08-01,Andhra Pradesh,Airtel,99.52
+2024-08-01,Andhra Pradesh,BSNL,67.28
+2024-08-01,Andhra Pradesh,Vi,91.7
+2024-08-01,Andhra Pradesh,Jio,91.55
+2024-08-01,Assam,Airtel,99.53
+2024-08-01,Assam,BSNL,25.91
+2024-08-01,Assam,Vi,92.43
+2024-08-01,Assam,Jio,96.17
+2024-08-01,Bihar,Airtel,91.18
+2024-08-01,Bihar,BSNL,38.96
+2024-08-01,Bihar,Vi,82.94
+2024-08-01,Bihar,Jio,91.51
+2024-08-01,Delhi,Airtel,95.64
+2024-08-01,Delhi,Vi,55.98
+2024-08-01,Delhi,MTNL,18.92
+2024-08-01,Delhi,Jio,93.03
+2024-08-01,Gujarat,Airtel,108.98
+2024-08-01,Gujarat,BSNL,61.83
+2024-08-01,Gujarat,Vi,91.35
+2024-08-01,Gujarat,Jio,97.89
+2024-08-01,Haryana,Airtel,99.36
+2024-08-01,Haryana,BSNL,32.96
+2024-08-01,Haryana,Vi,90.87
+2024-08-01,Haryana,Jio,97.38
+2024-08-01,Himachal Pradesh,Airtel,98.77
+2024-08-01,Himachal Pradesh,BSNL,53.94
+2024-08-01,Himachal Pradesh,Vi,105.17
+2024-08-01,Himachal Pradesh,Jio,100.35
+2024-08-01,Jammu & Kashmir,Airtel,92.81
+2024-08-01,Jammu & Kashmir,BSNL,64.59
+2024-08-01,Jammu & Kashmir,Vi,82.93
+2024-08-01,Jammu & Kashmir,Jio,84.94
+2024-08-01,Karnataka,Airtel,99.85
+2024-08-01,Karnataka,BSNL,64.25
+2024-08-01,Karnataka,Vi,80.12
+2024-08-01,Karnataka,Jio,95.18
+2024-08-01,Kerala,Airtel,101.1
+2024-08-01,Kerala,BSNL,98.47
+2024-08-01,Kerala,Vi,93.9
+2024-08-01,Kerala,Jio,92.92
+2024-08-01,Kolkata,Airtel,97.17
+2024-08-01,Kolkata,BSNL,75.43
+2024-08-01,Kolkata,Vi,88.36
+2024-08-01,Kolkata,Jio,95.66
+2024-08-01,Madhya Pradesh,Airtel,99.37
+2024-08-01,Madhya Pradesh,BSNL,45.1
+2024-08-01,Madhya Pradesh,Vi,82.24
+2024-08-01,Madhya Pradesh,Jio,93.51
+2024-08-01,Maharashtra,Airtel,106.94
+2024-08-01,Maharashtra,BSNL,80.29
+2024-08-01,Maharashtra,Vi,89.91
+2024-08-01,Maharashtra,Jio,102.68
+2024-08-01,Mumbai,Airtel,88.43
+2024-08-01,Mumbai,Vi,72.19
+2024-08-01,Mumbai,MTNL,79.07
+2024-08-01,Mumbai,Jio,88.2
+2024-08-01,North East,Airtel,105.73
+2024-08-01,North East,BSNL,54.83
+2024-08-01,North East,Vi,94.77
+2024-08-01,North East,Jio,105.22
+2024-08-01,Odisha,Airtel,103.64
+2024-08-01,Odisha,BSNL,48.0
+2024-08-01,Odisha,Vi,92.09
+2024-08-01,Odisha,Jio,95.49
+2024-08-01,Punjab,Airtel,102.29
+2024-08-01,Punjab,BSNL,53.22
+2024-08-01,Punjab,Vi,91.54
+2024-08-01,Punjab,Jio,92.99
+2024-08-01,Rajasthan,Airtel,101.53
+2024-08-01,Rajasthan,BSNL,46.37
+2024-08-01,Rajasthan,Vi,89.27
+2024-08-01,Rajasthan,Jio,94.13
+2024-08-01,Tamil Nadu,Airtel,100.45
+2024-08-01,Tamil Nadu,BSNL,75.14
+2024-08-01,Tamil Nadu,Vi,90.08
+2024-08-01,Tamil Nadu,Jio,87.48
+2024-08-01,U.P. (East),Airtel,96.75
+2024-08-01,U.P. (East),BSNL,41.13
+2024-08-01,U.P. (East),Vi,85.81
+2024-08-01,U.P. (East),Jio,91.5
+2024-08-01,U.P. (West),Airtel,103.32
+2024-08-01,U.P. (West),BSNL,47.2
+2024-08-01,U.P. (West),Vi,89.22
+2024-08-01,U.P. (West),Jio,90.7
+2024-08-01,West Bengal,Airtel,99.86
+2024-08-01,West Bengal,BSNL,71.86
+2024-08-01,West Bengal,Vi,87.38
+2024-08-01,West Bengal,Jio,92.5
+2025-07-01,Andhra Pradesh,Airtel,98.01
+2025-07-01,Andhra Pradesh,BSNL,66.09
+2025-07-01,Andhra Pradesh,Vi,92.54
+2025-07-01,Andhra Pradesh,Jio,95.33
+2025-07-01,Assam,Airtel,99.12
+2025-07-01,Assam,BSNL,24.99
+2025-07-01,Assam,Vi,89.62
+2025-07-01,Assam,Jio,97.88
+2025-07-01,Bihar,Airtel,90.18
+2025-07-01,Bihar,BSNL,36.63
+2025-07-01,Bihar,Vi,82.4
+2025-07-01,Bihar,Jio,95.65
+2025-07-01,Delhi,Airtel,95.5
+2025-07-01,Delhi,Vi,52.71
+2025-07-01,Delhi,MTNL,163.23
+2025-07-01,Delhi,RCom,100.0
+2025-07-01,Delhi,Jio,100.01
+2025-07-01,Gujarat,Airtel,113.85
+2025-07-01,Gujarat,BSNL,50.72
+2025-07-01,Gujarat,Vi,89.23
+2025-07-01,Gujarat,RCom,0.0
+2025-07-01,Gujarat,Jio,101.0
+2025-07-01,Haryana,Airtel,101.96
+2025-07-01,Haryana,BSNL,33.86
+2025-07-01,Haryana,Vi,91.6
+2025-07-01,Haryana,Jio,101.2
+2025-07-01,Himachal Pradesh,Airtel,95.41
+2025-07-01,Himachal Pradesh,BSNL,52.61
+2025-07-01,Himachal Pradesh,Vi,98.8
+2025-07-01,Himachal Pradesh,Jio,101.0
+2025-07-01,Jammu & Kashmir,Airtel,91.58
+2025-07-01,Jammu & Kashmir,BSNL,61.78
+2025-07-01,Jammu & Kashmir,Vi,81.43
+2025-07-01,Jammu & Kashmir,Jio,80.18
+2025-07-01,Karnataka,Airtel,98.48
+2025-07-01,Karnataka,BSNL,70.37
+2025-07-01,Karnataka,Vi,73.31
+2025-07-01,Karnataka,RCom,100.0
+2025-07-01,Karnataka,Jio,96.65
+2025-07-01,Kerala,Airtel,99.95
+2025-07-01,Kerala,BSNL,114.22
+2025-07-01,Kerala,Vi,93.45
+2025-07-01,Kerala,Jio,92.7
+2025-07-01,Kolkata,Airtel,100.84
+2025-07-01,Kolkata,BSNL,98.04
+2025-07-01,Kolkata,Vi,87.02
+2025-07-01,Kolkata,Jio,99.06
+2025-07-01,Madhya Pradesh,Airtel,98.13
+2025-07-01,Madhya Pradesh,BSNL,45.53
+2025-07-01,Madhya Pradesh,Vi,85.66
+2025-07-01,Madhya Pradesh,Jio,97.01
+2025-07-01,Maharashtra,Airtel,108.88
+2025-07-01,Maharashtra,BSNL,98.81
+2025-07-01,Maharashtra,Vi,92.76
+2025-07-01,Maharashtra,Jio,106.92
+2025-07-01,Mumbai,Airtel,94.03
+2025-07-01,Mumbai,Vi,70.99
+2025-07-01,Mumbai,MTNL,73.25
+2025-07-01,Mumbai,RCom,100.0
+2025-07-01,Mumbai,Jio,89.65
+2025-07-01,North East,Airtel,102.04
+2025-07-01,North East,BSNL,53.59
+2025-07-01,North East,Vi,95.72
+2025-07-01,North East,Jio,106.4
+2025-07-01,Odisha,Airtel,101.71
+2025-07-01,Odisha,BSNL,45.15
+2025-07-01,Odisha,Vi,88.05
+2025-07-01,Odisha,Jio,95.97
+2025-07-01,Punjab,Airtel,111.98
+2025-07-01,Punjab,BSNL,51.23
+2025-07-01,Punjab,Vi,90.83
+2025-07-01,Punjab,RCom,100.0
+2025-07-01,Punjab,Jio,103.3
+2025-07-01,Rajasthan,Airtel,99.12
+2025-07-01,Rajasthan,BSNL,42.57
+2025-07-01,Rajasthan,Vi,88.6
+2025-07-01,Rajasthan,RCom,100.0
+2025-07-01,Rajasthan,Jio,99.87
+2025-07-01,Tamil Nadu,Airtel,97.59
+2025-07-01,Tamil Nadu,BSNL,91.81
+2025-07-01,Tamil Nadu,Vi,79.99
+2025-07-01,Tamil Nadu,Jio,98.42
+2025-07-01,U.P. (East),Airtel,98.83
+2025-07-01,U.P. (East),BSNL,35.07
+2025-07-01,U.P. (East),Vi,88.09
+2025-07-01,U.P. (East),Jio,95.5
+2025-07-01,U.P. (West),Airtel,107.71
+2025-07-01,U.P. (West),BSNL,45.49
+2025-07-01,U.P. (West),Vi,88.31
+2025-07-01,U.P. (West),Jio,94.8
+2025-07-01,West Bengal,Airtel,95.75
+2025-07-01,West Bengal,BSNL,80.85
+2025-07-01,West Bengal,Vi,87.57
+2025-07-01,West Bengal,RCom,100.0
+2025-07-01,West Bengal,Jio,93.04
+2024-09-01,Andhra Pradesh,Airtel,99.72
+2024-09-01,Andhra Pradesh,BSNL,70.9
+2024-09-01,Andhra Pradesh,Vi,91.02
+2024-09-01,Andhra Pradesh,Jio,94.68
+2024-09-01,Assam,Airtel,99.16
+2024-09-01,Assam,BSNL,25.77
+2024-09-01,Assam,Vi,92.07
+2024-09-01,Assam,Jio,97.19
+2024-09-01,Bihar,Airtel,89.51
+2024-09-01,Bihar,BSNL,38.37
+2024-09-01,Bihar,Vi,80.75
+2024-09-01,Bihar,Jio,91.87
+2024-09-01,Delhi,Airtel,96.87
+2024-09-01,Delhi,Vi,56.08
+2024-09-01,Delhi,MTNL,20.28
+2024-09-01,Delhi,Jio,96.82
+2024-09-01,Gujarat,Airtel,110.12
+2024-09-01,Gujarat,BSNL,60.2
+2024-09-01,Gujarat,Vi,90.37
+2024-09-01,Gujarat,Jio,102.51
+2024-09-01,Haryana,Airtel,100.73
+2024-09-01,Haryana,BSNL,35.9
+2024-09-01,Haryana,Vi,91.74
+2024-09-01,Haryana,Jio,99.48
+2024-09-01,Himachal Pradesh,Airtel,97.21
+2024-09-01,Himachal Pradesh,BSNL,54.84
+2024-09-01,Himachal Pradesh,Vi,100.54
+2024-09-01,Himachal Pradesh,Jio,101.32
+2024-09-01,Jammu & Kashmir,Airtel,92.44
+2024-09-01,Jammu & Kashmir,BSNL,64.01
+2024-09-01,Jammu & Kashmir,Vi,83.6
+2024-09-01,Jammu & Kashmir,Jio,89.69
+2024-09-01,Karnataka,Airtel,99.94
+2024-09-01,Karnataka,BSNL,67.41
+2024-09-01,Karnataka,Vi,77.88
+2024-09-01,Karnataka,Jio,97.67
+2024-09-01,Kerala,Airtel,102.39
+2024-09-01,Kerala,BSNL,99.81
+2024-09-01,Kerala,Vi,94.01
+2024-09-01,Kerala,Jio,95.91
+2024-09-01,Kolkata,Airtel,99.16
+2024-09-01,Kolkata,BSNL,83.28
+2024-09-01,Kolkata,Vi,87.49
+2024-09-01,Kolkata,Jio,98.17
+2024-09-01,Madhya Pradesh,Airtel,99.84
+2024-09-01,Madhya Pradesh,BSNL,45.71
+2024-09-01,Madhya Pradesh,Vi,81.55
+2024-09-01,Madhya Pradesh,Jio,93.13
+2024-09-01,Maharashtra,Airtel,107.3
+2024-09-01,Maharashtra,BSNL,80.64
+2024-09-01,Maharashtra,Vi,91.22
+2024-09-01,Maharashtra,Jio,105.43
+2024-09-01,Mumbai,Airtel,100.12
+2024-09-01,Mumbai,Vi,72.17
+2024-09-01,Mumbai,MTNL,78.52
+2024-09-01,Mumbai,Jio,90.24
+2024-09-01,North East,Airtel,106.28
+2024-09-01,North East,BSNL,55.16
+2024-09-01,North East,Vi,94.73
+2024-09-01,North East,Jio,107.62
+2024-09-01,Odisha,Airtel,102.91
+2024-09-01,Odisha,BSNL,48.98
+2024-09-01,Odisha,Vi,90.8
+2024-09-01,Odisha,Jio,98.98
+2024-09-01,Punjab,Airtel,102.25
+2024-09-01,Punjab,BSNL,54.83
+2024-09-01,Punjab,Vi,91.85
+2024-09-01,Punjab,Jio,99.56
+2024-09-01,Rajasthan,Airtel,99.84
+2024-09-01,Rajasthan,BSNL,46.64
+2024-09-01,Rajasthan,Vi,87.42
+2024-09-01,Rajasthan,Jio,96.91
+2024-09-01,Tamil Nadu,Airtel,99.59
+2024-09-01,Tamil Nadu,BSNL,76.08
+2024-09-01,Tamil Nadu,Vi,89.47
+2024-09-01,Tamil Nadu,Jio,85.46
+2024-09-01,U.P. (East),Airtel,95.78
+2024-09-01,U.P. (East),BSNL,40.8
+2024-09-01,U.P. (East),Vi,83.97
+2024-09-01,U.P. (East),Jio,91.14
+2024-09-01,U.P. (West),Airtel,102.6
+2024-09-01,U.P. (West),BSNL,43.34
+2024-09-01,U.P. (West),Vi,85.07
+2024-09-01,U.P. (West),Jio,93.3
+2024-09-01,West Bengal,Airtel,99.56
+2024-09-01,West Bengal,BSNL,72.12
+2024-09-01,West Bengal,Vi,86.14
+2024-09-01,West Bengal,Jio,96.02
+2024-10-01,Andhra Pradesh,Airtel,99.23
+2024-10-01,Andhra Pradesh,BSNL,72.39
+2024-10-01,Andhra Pradesh,Vi,89.65
+2024-10-01,Andhra Pradesh,Jio,92.84
+2024-10-01,Assam,Airtel,98.88
+2024-10-01,Assam,BSNL,27.28
+2024-10-01,Assam,Vi,91.16
+2024-10-01,Assam,Jio,97.8
+2024-10-01,Bihar,Airtel,91.11
+2024-10-01,Bihar,BSNL,39.03
+2024-10-01,Bihar,Vi,81.79
+2024-10-01,Bihar,Jio,95.61
+2024-10-01,Delhi,Airtel,96.23
+2024-10-01,Delhi,Vi,55.69
+2024-10-01,Delhi,MTNL,20.44
+2024-10-01,Delhi,Jio,96.99
+2024-10-01,Gujarat,Airtel,109.01
+2024-10-01,Gujarat,BSNL,59.7
+2024-10-01,Gujarat,Vi,90.96
+2024-10-01,Gujarat,Jio,97.74
+2024-10-01,Haryana,Airtel,101.47
+2024-10-01,Haryana,BSNL,35.14
+2024-10-01,Haryana,Vi,91.26
+2024-10-01,Haryana,Jio,102.44
+2024-10-01,Himachal Pradesh,Airtel,98.13
+2024-10-01,Himachal Pradesh,BSNL,55.67
+2024-10-01,Himachal Pradesh,Vi,102.77
+2024-10-01,Himachal Pradesh,Jio,103.28
+2024-10-01,Jammu & Kashmir,Airtel,90.74
+2024-10-01,Jammu & Kashmir,BSNL,63.39
+2024-10-01,Jammu & Kashmir,Vi,83.92
+2024-10-01,Jammu & Kashmir,Jio,92.58
+2024-10-01,Karnataka,Airtel,98.67
+2024-10-01,Karnataka,BSNL,69.8
+2024-10-01,Karnataka,Vi,76.99
+2024-10-01,Karnataka,Jio,97.94
+2024-10-01,Kerala,Airtel,99.01
+2024-10-01,Kerala,BSNL,102.11
+2024-10-01,Kerala,Vi,93.65
+2024-10-01,Kerala,Jio,96.71
+2024-10-01,Kolkata,Airtel,99.54
+2024-10-01,Kolkata,BSNL,87.78
+2024-10-01,Kolkata,Vi,88.32
+2024-10-01,Kolkata,Jio,102.89
+2024-10-01,Madhya Pradesh,Airtel,99.42
+2024-10-01,Madhya Pradesh,BSNL,47.14
+2024-10-01,Madhya Pradesh,Vi,82.44
+2024-10-01,Madhya Pradesh,Jio,96.14
+2024-10-01,Maharashtra,Airtel,105.67
+2024-10-01,Maharashtra,BSNL,80.84
+2024-10-01,Maharashtra,Vi,90.48
+2024-10-01,Maharashtra,Jio,105.42
+2024-10-01,Mumbai,Airtel,90.25
+2024-10-01,Mumbai,Vi,72.09
+2024-10-01,Mumbai,MTNL,75.8
+2024-10-01,Mumbai,Jio,89.35
+2024-10-01,North East,Airtel,103.97
+2024-10-01,North East,BSNL,53.65
+2024-10-01,North East,Vi,94.54
+2024-10-01,North East,Jio,106.9
+2024-10-01,Odisha,Airtel,104.04
+2024-10-01,Odisha,BSNL,48.81
+2024-10-01,Odisha,Vi,90.21
+2024-10-01,Odisha,Jio,100.33
+2024-10-01,Punjab,Airtel,105.38
+2024-10-01,Punjab,BSNL,56.52
+2024-10-01,Punjab,Vi,91.48
+2024-10-01,Punjab,Jio,101.53
+2024-10-01,Rajasthan,Airtel,102.06
+2024-10-01,Rajasthan,BSNL,46.67
+2024-10-01,Rajasthan,Vi,88.31
+2024-10-01,Rajasthan,Jio,98.47
+2024-10-01,Tamil Nadu,Airtel,98.86
+2024-10-01,Tamil Nadu,BSNL,77.31
+2024-10-01,Tamil Nadu,Vi,91.43
+2024-10-01,Tamil Nadu,Jio,86.61
+2024-10-01,U.P. (East),Airtel,99.49
+2024-10-01,U.P. (East),BSNL,40.14
+2024-10-01,U.P. (East),Vi,86.65
+2024-10-01,U.P. (East),Jio,96.56
+2024-10-01,U.P. (West),Airtel,106.51
+2024-10-01,U.P. (West),BSNL,42.58
+2024-10-01,U.P. (West),Vi,87.19
+2024-10-01,U.P. (West),Jio,96.85
+2024-10-01,West Bengal,Airtel,99.42
+2024-10-01,West Bengal,BSNL,73.34
+2024-10-01,West Bengal,Vi,86.69
+2024-10-01,West Bengal,Jio,102.08
+2026-08-01,Andhra Pradesh,Airtel,96.24
+2026-08-01,Andhra Pradesh,BSNL,58.68
+2026-08-01,Andhra Pradesh,Vi,95.87
+2026-08-01,Andhra Pradesh,Jio,96.95
+2026-08-01,Assam,Airtel,99.82
+2026-08-01,Assam,BSNL,21.86
+2026-08-01,Assam,Vi,85.87
+2026-08-01,Assam,Jio,101.12
+2026-08-01,Bihar,Airtel,91.63
+2026-08-01,Bihar,BSNL,29.1
+2026-08-01,Bihar,Vi,84.08
+2026-08-01,Bihar,Jio,96.88
+2026-08-01,Delhi,Airtel,95.03
+2026-08-01,Delhi,Vi,49.97
+2026-08-01,Delhi,MTNL,180.69
+2026-08-01,Delhi,Jio,100.34
+2026-08-01,Gujarat,Airtel,105.35
+2026-08-01,Gujarat,BSNL,44.34
+2026-08-01,Gujarat,Vi,87.49
+2026-08-01,Gujarat,Jio,101.35
+2026-08-01,Haryana,Airtel,103.13
+2026-08-01,Haryana,BSNL,20.0
+2026-08-01,Haryana,Vi,91.47
+2026-08-01,Haryana,Jio,104.66
+2026-08-01,Himachal Pradesh,Airtel,96.79
+2026-08-01,Himachal Pradesh,BSNL,45.48
+2026-08-01,Himachal Pradesh,Vi,99.43
+2026-08-01,Himachal Pradesh,Jio,102.74
+2026-08-01,Jammu & Kashmir,Airtel,105.56
+2026-08-01,Jammu & Kashmir,BSNL,55.38
+2026-08-01,Jammu & Kashmir,Vi,78.99
+2026-08-01,Jammu & Kashmir,Jio,83.5
+2026-08-01,Karnataka,Airtel,97.16
+2026-08-01,Karnataka,BSNL,70.75
+2026-08-01,Karnataka,Vi,68.16
+2026-08-01,Karnataka,Jio,92.42
+2026-08-01,Kerala,Airtel,100.35
+2026-08-01,Kerala,BSNL,115.61
+2026-08-01,Kerala,Vi,94.97
+2026-08-01,Kerala,Jio,95.61
+2026-08-01,Kolkata,Airtel,94.76
+2026-08-01,Kolkata,BSNL,70.46
+2026-08-01,Kolkata,Vi,85.23
+2026-08-01,Kolkata,Jio,98.08
+2026-08-01,Madhya Pradesh,Airtel,96.82
+2026-08-01,Madhya Pradesh,BSNL,40.26
+2026-08-01,Madhya Pradesh,Vi,86.6
+2026-08-01,Madhya Pradesh,Jio,96.74
+2026-08-01,Maharashtra,Airtel,107.13
+2026-08-01,Maharashtra,BSNL,88.12
+2026-08-01,Maharashtra,Vi,92.94
+2026-08-01,Maharashtra,Jio,108.64
+2026-08-01,Mumbai,Airtel,95.26
+2026-08-01,Mumbai,Vi,71.4
+2026-08-01,Mumbai,MTNL,106.04
+2026-08-01,Mumbai,RCom,100.0
+2026-08-01,Mumbai,Jio,88.17
+2026-08-01,North East,Airtel,99.99
+2026-08-01,North East,BSNL,44.26
+2026-08-01,North East,Vi,95.87
+2026-08-01,North East,Jio,107.2
+2026-08-01,Odisha,Airtel,100.23
+2026-08-01,Odisha,BSNL,39.68
+2026-08-01,Odisha,Vi,84.47
+2026-08-01,Odisha,Jio,102.62
+2026-08-01,Punjab,Airtel,113.4
+2026-08-01,Punjab,BSNL,32.11
+2026-08-01,Punjab,Vi,90.33
+2026-08-01,Punjab,RCom,100.0
+2026-08-01,Punjab,Jio,103.32
+2026-08-01,Rajasthan,Airtel,99.68
+2026-08-01,Rajasthan,BSNL,34.07
+2026-08-01,Rajasthan,Vi,89.9
+2026-08-01,Rajasthan,RCom,100.0
+2026-08-01,Rajasthan,Jio,98.99
+2026-08-01,Tamil Nadu,Airtel,95.94
+2026-08-01,Tamil Nadu,BSNL,85.97
+2026-08-01,Tamil Nadu,Vi,79.93
+2026-08-01,Tamil Nadu,Jio,98.61
+2026-08-01,U.P. (East),Airtel,101.33
+2026-08-01,U.P. (East),BSNL,28.55
+2026-08-01,U.P. (East),Vi,82.69
+2026-08-01,U.P. (East),Jio,96.34
+2026-08-01,U.P. (West),Airtel,109.47
+2026-08-01,U.P. (West),BSNL,30.62
+2026-08-01,U.P. (West),Vi,93.81
+2026-08-01,U.P. (West),Jio,98.96
+2026-08-01,West Bengal,Airtel,93.62
+2026-08-01,West Bengal,BSNL,74.14
+2026-08-01,West Bengal,Vi,91.29
+2026-08-01,West Bengal,RCom,100.0
+2026-08-01,West Bengal,Jio,98.97
+2025-02-01,Andhra Pradesh,Airtel,99.56
+2025-02-01,Andhra Pradesh,BSNL,69.78
+2025-02-01,Andhra Pradesh,Vi,91.24
+2025-02-01,Andhra Pradesh,Jio,94.31
+2025-02-01,Assam,Airtel,98.46
+2025-02-01,Assam,BSNL,27.17
+2025-02-01,Assam,Vi,92.64
+2025-02-01,Assam,Jio,96.12
+2025-02-01,Bihar,Airtel,88.13
+2025-02-01,Bihar,BSNL,39.55
+2025-02-01,Bihar,Vi,83.63
+2025-02-01,Bihar,Jio,91.95
+2025-02-01,Delhi,Airtel,95.69
+2025-02-01,Delhi,Vi,55.21
+2025-02-01,Delhi,MTNL,41.47
+2025-02-01,Delhi,RCom,100.0
+2025-02-01,Delhi,Jio,95.53
+2025-02-01,Gujarat,Airtel,112.15
+2025-02-01,Gujarat,BSNL,54.53
+2025-02-01,Gujarat,Vi,91.65
+2025-02-01,Gujarat,RCom,0.0
+2025-02-01,Gujarat,Jio,101.07
+2025-02-01,Haryana,Airtel,101.25
+2025-02-01,Haryana,BSNL,38.27
+2025-02-01,Haryana,Vi,92.26
+2025-02-01,Haryana,Jio,101.67
+2025-02-01,Himachal Pradesh,Airtel,92.11
+2025-02-01,Himachal Pradesh,BSNL,52.38
+2025-02-01,Himachal Pradesh,Vi,98.3
+2025-02-01,Himachal Pradesh,Jio,96.49
+2025-02-01,Jammu & Kashmir,Airtel,87.86
+2025-02-01,Jammu & Kashmir,BSNL,62.78
+2025-02-01,Jammu & Kashmir,Vi,87.07
+2025-02-01,Jammu & Kashmir,Jio,77.73
+2025-02-01,Karnataka,Airtel,99.63
+2025-02-01,Karnataka,BSNL,74.59
+2025-02-01,Karnataka,Vi,74.39
+2025-02-01,Karnataka,RCom,100.0
+2025-02-01,Karnataka,Jio,96.27
+2025-02-01,Kerala,Airtel,100.16
+2025-02-01,Kerala,BSNL,119.58
+2025-02-01,Kerala,Vi,93.91
+2025-02-01,Kerala,Jio,92.84
+2025-02-01,Kolkata,Airtel,99.72
+2025-02-01,Kolkata,BSNL,102.26
+2025-02-01,Kolkata,Vi,88.11
+2025-02-01,Kolkata,Jio,95.26
+2025-02-01,Madhya Pradesh,Airtel,100.1
+2025-02-01,Madhya Pradesh,BSNL,42.36
+2025-02-01,Madhya Pradesh,Vi,85.35
+2025-02-01,Madhya Pradesh,Jio,92.21
+2025-02-01,Maharashtra,Airtel,107.46
+2025-02-01,Maharashtra,BSNL,100.8
+2025-02-01,Maharashtra,Vi,92.84
+2025-02-01,Maharashtra,Jio,105.03
+2025-02-01,Mumbai,Airtel,88.18
+2025-02-01,Mumbai,Vi,71.65
+2025-02-01,Mumbai,MTNL,60.32
+2025-02-01,Mumbai,RCom,100.0
+2025-02-01,Mumbai,Jio,87.35
+2025-02-01,North East,Airtel,104.85
+2025-02-01,North East,BSNL,54.67
+2025-02-01,North East,Vi,95.68
+2025-02-01,North East,Jio,102.73
+2025-02-01,Odisha,Airtel,105.39
+2025-02-01,Odisha,BSNL,47.51
+2025-02-01,Odisha,Vi,90.63
+2025-02-01,Odisha,Jio,97.18
+2025-02-01,Punjab,Airtel,109.97
+2025-02-01,Punjab,BSNL,65.96
+2025-02-01,Punjab,Vi,91.04
+2025-02-01,Punjab,RCom,100.0
+2025-02-01,Punjab,Jio,99.13
+2025-02-01,Rajasthan,Airtel,101.98
+2025-02-01,Rajasthan,BSNL,44.94
+2025-02-01,Rajasthan,Vi,89.23
+2025-02-01,Rajasthan,RCom,100.0
+2025-02-01,Rajasthan,Jio,96.71
+2025-02-01,Tamil Nadu,Airtel,101.49
+2025-02-01,Tamil Nadu,BSNL,78.47
+2025-02-01,Tamil Nadu,Vi,82.56
+2025-02-01,Tamil Nadu,Jio,85.61
+2025-02-01,U.P. (East),Airtel,101.17
+2025-02-01,U.P. (East),BSNL,42.29
+2025-02-01,U.P. (East),Vi,90.08
+2025-02-01,U.P. (East),Jio,98.3
+2025-02-01,U.P. (West),Airtel,107.56
+2025-02-01,U.P. (West),BSNL,49.22
+2025-02-01,U.P. (West),Vi,87.09
+2025-02-01,U.P. (West),Jio,92.41
+2025-02-01,West Bengal,Airtel,98.44
+2025-02-01,West Bengal,BSNL,82.65
+2025-02-01,West Bengal,Vi,88.42
+2025-02-01,West Bengal,RCom,100.0
+2025-02-01,West Bengal,Jio,92.18
+2025-01-01,Andhra Pradesh,Airtel,99.09
+2025-01-01,Andhra Pradesh,BSNL,70.84
+2025-01-01,Andhra Pradesh,Vi,91.31
+2025-01-01,Andhra Pradesh,Jio,93.92
+2025-01-01,Assam,Airtel,98.37
+2025-01-01,Assam,BSNL,27.85
+2025-01-01,Assam,Vi,93.23
+2025-01-01,Assam,Jio,97.57
+2025-01-01,Bihar,Airtel,89.21
+2025-01-01,Bihar,BSNL,38.22
+2025-01-01,Bihar,Vi,83.23
+2025-01-01,Bihar,Jio,91.92
+2025-01-01,Delhi,Airtel,96.73
+2025-01-01,Delhi,Vi,55.22
+2025-01-01,Delhi,MTNL,41.56
+2025-01-01,Delhi,RCom,100.0
+2025-01-01,Delhi,Jio,97.33
+2025-01-01,Gujarat,Airtel,113.98
+2025-01-01,Gujarat,BSNL,55.36
+2025-01-01,Gujarat,Vi,91.87
+2025-01-01,Gujarat,RCom,0.0
+2025-01-01,Gujarat,Jio,101.81
+2025-01-01,Haryana,Airtel,103.52
+2025-01-01,Haryana,BSNL,34.9
+2025-01-01,Haryana,Vi,92.15
+2025-01-01,Haryana,Jio,99.93
+2025-01-01,Himachal Pradesh,Airtel,95.15
+2025-01-01,Himachal Pradesh,BSNL,53.31
+2025-01-01,Himachal Pradesh,Vi,102.2
+2025-01-01,Himachal Pradesh,Jio,98.29
+2025-01-01,Jammu & Kashmir,Airtel,87.15
+2025-01-01,Jammu & Kashmir,BSNL,63.5
+2025-01-01,Jammu & Kashmir,Vi,84.42
+2025-01-01,Jammu & Kashmir,Jio,76.48
+2025-01-01,Karnataka,Airtel,100.3
+2025-01-01,Karnataka,BSNL,70.77
+2025-01-01,Karnataka,Vi,75.38
+2025-01-01,Karnataka,RCom,100.0
+2025-01-01,Karnataka,Jio,96.58
+2025-01-01,Kerala,Airtel,102.05
+2025-01-01,Kerala,BSNL,117.17
+2025-01-01,Kerala,Vi,94.34
+2025-01-01,Kerala,Jio,93.39
+2025-01-01,Kolkata,Airtel,98.47
+2025-01-01,Kolkata,BSNL,105.12
+2025-01-01,Kolkata,Vi,88.33
+2025-01-01,Kolkata,Jio,94.82
+2025-01-01,Madhya Pradesh,Airtel,99.74
+2025-01-01,Madhya Pradesh,BSNL,42.96
+2025-01-01,Madhya Pradesh,Vi,84.6
+2025-01-01,Madhya Pradesh,Jio,92.37
+2025-01-01,Maharashtra,Airtel,107.98
+2025-01-01,Maharashtra,BSNL,81.87
+2025-01-01,Maharashtra,Vi,92.76
+2025-01-01,Maharashtra,Jio,105.64
+2025-01-01,Mumbai,Airtel,91.39
+2025-01-01,Mumbai,Vi,72.37
+2025-01-01,Mumbai,MTNL,73.33
+2025-01-01,Mumbai,RCom,0.0
+2025-01-01,Mumbai,Jio,89.99
+2025-01-01,North East,Airtel,105.29
+2025-01-01,North East,BSNL,53.59
+2025-01-01,North East,Vi,94.85
+2025-01-01,North East,Jio,104.3
+2025-01-01,Odisha,Airtel,105.42
+2025-01-01,Odisha,BSNL,47.54
+2025-01-01,Odisha,Vi,91.38
+2025-01-01,Odisha,Jio,96.3
+2025-01-01,Punjab,Airtel,110.0
+2025-01-01,Punjab,BSNL,57.06
+2025-01-01,Punjab,Vi,90.73
+2025-01-01,Punjab,RCom,100.0
+2025-01-01,Punjab,Jio,99.33
+2025-01-01,Rajasthan,Airtel,101.65
+2025-01-01,Rajasthan,BSNL,44.56
+2025-01-01,Rajasthan,Vi,89.72
+2025-01-01,Rajasthan,RCom,100.0
+2025-01-01,Rajasthan,Jio,97.98
+2025-01-01,Tamil Nadu,Airtel,100.18
+2025-01-01,Tamil Nadu,BSNL,78.13
+2025-01-01,Tamil Nadu,Vi,85.13
+2025-01-01,Tamil Nadu,Jio,85.15
+2025-01-01,U.P. (East),Airtel,99.19
+2025-01-01,U.P. (East),BSNL,41.31
+2025-01-01,U.P. (East),Vi,90.16
+2025-01-01,U.P. (East),Jio,98.39
+2025-01-01,U.P. (West),Airtel,106.24
+2025-01-01,U.P. (West),BSNL,46.02
+2025-01-01,U.P. (West),Vi,86.07
+2025-01-01,U.P. (West),Jio,91.71
+2025-01-01,West Bengal,Airtel,98.15
+2025-01-01,West Bengal,BSNL,73.47
+2025-01-01,West Bengal,Vi,88.39
+2025-01-01,West Bengal,RCom,100.0
+2025-01-01,West Bengal,Jio,92.48

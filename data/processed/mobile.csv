@@ -1,0 +1,2727 @@
+month,lsa,operator,subscribers,source
+2025-01-01,West Bengal,Jio,24130088.0,cur
+2025-05-01,Bihar,BSNL,5724768.0,cur
+2025-05-01,Bihar,Jio,42434492.0,cur
+2024-10-01,North East,Airtel,6267645.0,cur
+2025-05-01,Delhi,Airtel,18955970.0,cur
+2025-05-01,Delhi,Vi,16668960.0,cur
+2024-10-01,Mumbai,Jio,12911173.0,cur
+2025-05-01,Delhi,MTNL,320183.0,cur
+2025-05-01,Delhi,Jio,19955909.0,cur
+2024-10-01,Mumbai,MTNL,220214.0,cur
+2025-05-01,Gujarat,Airtel,12410627.0,cur
+2025-05-01,Gujarat,Vi,19779837.0,cur
+2024-10-01,Mumbai,Vi,10710796.0,cur
+2025-05-01,Gujarat,BSNL,3251401.0,cur
+2025-05-01,Gujarat,Jio,30771740.0,cur
+2024-10-01,Mumbai,Airtel,10067105.0,cur
+2024-10-01,North East,Vi,678360.0,cur
+2025-05-01,Bihar,Vi,7830567.0,cur
+2025-05-01,Bihar,Airtel,40988647.0,cur
+2024-10-01,North East,BSNL,1292344.0,cur
+2025-04-01,West Bengal,Vi,11546912.0,cur
+2024-10-01,Odisha,Jio,15431011.0,cur
+2025-04-01,West Bengal,BSNL,2633080.0,cur
+2025-04-01,West Bengal,Jio,24573830.0,cur
+2024-10-01,Odisha,BSNL,5548276.0,cur
+2025-05-01,Andhra Pradesh,Airtel,34048191.0,cur
+2025-05-01,Andhra Pradesh,Vi,9640343.0,cur
+2025-05-01,Haryana,Airtel,7297408.0,cur
+2024-10-01,Odisha,Vi,1389017.0,cur
+2025-05-01,Andhra Pradesh,Jio,31945214.0,cur
+2024-10-01,Odisha,Airtel,11745462.0,cur
+2025-05-01,Assam,Airtel,12293151.0,cur
+2025-05-01,Assam,Vi,1434019.0,cur
+2024-10-01,North East,Jio,4161863.0,cur
+2025-05-01,Assam,BSNL,2963344.0,cur
+2025-05-01,Assam,Jio,9758191.0,cur
+2025-05-01,Andhra Pradesh,BSNL,6928049.0,cur
+2025-04-01,West Bengal,Airtel,18469884.0,cur
+2025-05-01,Haryana,Vi,6326307.0,cur
+2025-05-01,Haryana,BSNL,4235843.0,cur
+2025-05-01,Kerala,Airtel,9053445.0,cur
+2025-05-01,Kerala,Vi,12858619.0,cur
+2024-10-01,Kolkata,Jio,10612514.0,cur
+2025-05-01,Kerala,BSNL,8768554.0,cur
+2025-05-01,Kerala,Jio,10785088.0,cur
+2024-10-01,Kolkata,BSNL,1545662.0,cur
+2025-05-01,Kolkata,Airtel,5388945.0,cur
+2025-05-01,Kolkata,Vi,4768376.0,cur
+2024-10-01,Kolkata,Vi,5065800.0,cur
+2025-05-01,Kolkata,BSNL,1454009.0,cur
+2025-05-01,Kolkata,Jio,10802359.0,cur
+2024-10-01,Kolkata,Airtel,5469883.0,cur
+2025-05-01,Madhya Pradesh,Airtel,16640450.0,cur
+2025-05-01,Madhya Pradesh,Vi,13333801.0,cur
+2024-10-01,Kerala,Jio,10684182.0,cur
+2024-10-01,Madhya Pradesh,Airtel,16408516.0,cur
+2025-05-01,Karnataka,Jio,25059651.0,cur
+2025-05-01,Karnataka,BSNL,4563424.0,cur
+2024-10-01,Madhya Pradesh,Vi,14479494.0,cur
+2025-05-01,Haryana,Jio,8354396.0,cur
+2024-10-01,Maharashtra,BSNL,5777662.0,cur
+2025-05-01,Himachal Pradesh,Airtel,3573207.0,cur
+2025-05-01,Himachal Pradesh,Vi,381278.0,cur
+2024-10-01,Maharashtra,Vi,21203996.0,cur
+2025-05-01,Himachal Pradesh,BSNL,1673678.0,cur
+2025-05-01,Himachal Pradesh,Jio,3233151.0,cur
+2024-10-01,Maharashtra,Jio,41977346.0,cur
+2024-10-01,Maharashtra,Airtel,22377901.0,cur
+2025-05-01,Jammu & Kashmir,Vi,262255.0,cur
+2024-10-01,Madhya Pradesh,Jio,43289681.0,cur
+2025-05-01,Jammu & Kashmir,BSNL,862849.0,cur
+2025-05-01,Jammu & Kashmir,Jio,4939802.0,cur
+2024-10-01,Madhya Pradesh,BSNL,5136269.0,cur
+2025-05-01,Karnataka,Airtel,32353587.0,cur
+2025-05-01,Karnataka,Vi,6727033.0,cur
+2025-05-01,Jammu & Kashmir,Airtel,6226341.0,cur
+2025-05-01,Madhya Pradesh,BSNL,5092733.0,cur
+2024-10-01,Punjab,Airtel,12413856.0,cur
+2025-04-01,U.P. (West),BSNL,4979572.0,cur
+2025-04-01,Madhya Pradesh,BSNL,5129940.0,cur
+2025-04-01,Madhya Pradesh,Jio,45566747.0,cur
+2024-10-01,U.P. (West),BSNL,5343136.0,cur
+2025-04-01,Maharashtra,Airtel,22616457.0,cur
+2025-04-01,Maharashtra,Vi,20208191.0,cur
+2024-10-01,U.P. (West),Vi,14819932.0,cur
+2025-04-01,Maharashtra,BSNL,5288032.0,cur
+2025-04-01,Maharashtra,Jio,42699088.0,cur
+2024-10-01,U.P. (West),Airtel,18802873.0,cur
+2025-04-01,Mumbai,Airtel,10117466.0,cur
+2025-04-01,Mumbai,Vi,10717031.0,cur
+2024-10-01,U.P. (East),Jio,39975868.0,cur
+2025-04-01,Mumbai,MTNL,141577.0,cur
+2025-04-01,Mumbai,Jio,12943992.0,cur
+2024-10-01,U.P. (East),BSNL,8373386.0,cur
+2024-10-01,U.P. (West),Jio,23541401.0,cur
+2025-04-01,Madhya Pradesh,Vi,13390619.0,cur
+2025-04-01,Madhya Pradesh,Airtel,16632103.0,cur
+2024-10-01,West Bengal,Airtel,18189381.0,cur
+2025-04-01,Karnataka,Vi,6737615.0,cur
+2026-07-01,Andhra Pradesh,Vi,8715411.0,cur
+2025-04-01,Karnataka,BSNL,4570631.0,cur
+2025-04-01,Karnataka,Jio,24907184.0,cur
+2026-07-01,Andhra Pradesh,Airtel,39732416.0,cur
+2025-04-01,Kerala,Airtel,8979470.0,cur
+2025-04-01,Kerala,Vi,12886334.0,cur
+2025-04-01,North East,Airtel,6441774.0,cur
+2024-10-01,West Bengal,Jio,23768148.0,cur
+2025-04-01,Kerala,Jio,10775087.0,cur
+2024-10-01,West Bengal,BSNL,2721928.0,cur
+2025-04-01,Kolkata,Airtel,5414409.0,cur
+2025-04-01,Kolkata,Vi,4797574.0,cur
+2024-10-01,West Bengal,Vi,12298014.0,cur
+2025-04-01,Kolkata,BSNL,1455425.0,cur
+2025-04-01,Kolkata,Jio,10767827.0,cur
+2025-04-01,Kerala,BSNL,8786312.0,cur
+2025-04-01,U.P. (West),Jio,24576722.0,cur
+2025-04-01,North East,Vi,629682.0,cur
+2025-04-01,North East,BSNL,1290594.0,cur
+2025-04-01,Tamil Nadu,Airtel,30287993.0,cur
+2025-04-01,Tamil Nadu,Vi,14592467.0,cur
+2024-10-01,Rajasthan,Vi,9586222.0,cur
+2025-04-01,Tamil Nadu,BSNL,7758526.0,cur
+2025-04-01,Tamil Nadu,Jio,24674009.0,cur
+2024-10-01,Rajasthan,Airtel,23092425.0,cur
+2025-04-01,U.P. (East),Airtel,36295702.0,cur
+2025-04-01,U.P. (East),Vi,16049712.0,cur
+2024-10-01,Punjab,Jio,11285463.0,cur
+2025-04-01,U.P. (East),BSNL,8065974.0,cur
+2025-04-01,U.P. (East),Jio,42010696.0,cur
+2024-10-01,Punjab,BSNL,4192814.0,cur
+2025-04-01,U.P. (West),Airtel,18828814.0,cur
+2025-04-01,U.P. (West),Vi,14284138.0,cur
+2024-10-01,Punjab,Vi,6205616.0,cur
+2024-10-01,Rajasthan,BSNL,5602409.0,cur
+2025-04-01,Rajasthan,Jio,26522578.0,cur
+2025-04-01,Rajasthan,BSNL,5626191.0,cur
+2024-10-01,Rajasthan,Jio,26244976.0,cur
+2025-04-01,North East,Jio,4322201.0,cur
+2024-10-01,U.P. (East),Airtel,36229144.0,cur
+2025-04-01,Odisha,Airtel,12000051.0,cur
+2025-04-01,Odisha,Vi,1404631.0,cur
+2024-10-01,Tamil Nadu,Jio,24611519.0,cur
+2025-04-01,Odisha,BSNL,5565278.0,cur
+2025-04-01,Odisha,Jio,16109743.0,cur
+2024-10-01,U.P. (East),Vi,16318731.0,cur
+2024-10-01,Tamil Nadu,BSNL,8004839.0,cur
+2025-04-01,Punjab,Vi,5987467.0,cur
+2024-10-01,Tamil Nadu,Vi,15084404.0,cur
+2025-04-01,Punjab,BSNL,4082258.0,cur
+2025-04-01,Punjab,Jio,11396751.0,cur
+2024-10-01,Tamil Nadu,Airtel,29862485.0,cur
+2025-04-01,Rajasthan,Airtel,23398032.0,cur
+2025-04-01,Rajasthan,Vi,9122850.0,cur
+2025-04-01,Punjab,Airtel,12536760.0,cur
+2025-05-01,Madhya Pradesh,Jio,45986829.0,cur
+2024-10-01,Kerala,BSNL,8703442.0,cur
+2025-05-01,Maharashtra,Airtel,22643568.0,cur
+2026-03-01,Himachal Pradesh,Jio,3590215.0,cur
+2024-10-01,Assam,Airtel,11890497.0,cur
+2026-03-01,Jammu & Kashmir,Airtel,6704199.0,cur
+2026-03-01,Jammu & Kashmir,Vi,276509.0,cur
+2024-10-01,Andhra Pradesh,Jio,31642502.0,cur
+2026-03-01,Jammu & Kashmir,BSNL,851147.0,cur
+2026-03-01,Jammu & Kashmir,Jio,5616528.0,cur
+2024-10-01,Andhra Pradesh,BSNL,6747075.0,cur
+2026-03-01,Karnataka,Airtel,43989594.0,cur
+2026-03-01,Karnataka,Vi,7617380.0,cur
+2024-10-01,Andhra Pradesh,Vi,10223247.0,cur
+2026-03-01,Karnataka,BSNL,4711589.0,cur
+2026-03-01,Karnataka,Jio,26428918.0,cur
+2024-10-01,Andhra Pradesh,Airtel,33741507.0,cur
+2026-03-01,Kerala,Airtel,9582288.0,cur
+2026-03-01,Himachal Pradesh,BSNL,1777880.0,cur
+2024-10-01,Assam,Vi,1465211.0,cur
+2026-03-01,Himachal Pradesh,Vi,393644.0,cur
+2026-03-01,Himachal Pradesh,Airtel,3630477.0,cur
+2024-10-01,Bihar,Jio,40364110.0,cur
+2026-03-01,Delhi,MTNL,133080.0,cur
+2026-03-01,Delhi,Jio,20434815.0,cur
+2024-10-01,Bihar,BSNL,6049430.0,cur
+2026-03-01,Gujarat,Airtel,15664281.0,cur
+2026-03-01,Gujarat,Vi,19559053.0,cur
+2024-10-01,Bihar,Vi,7493956.0,cur
+2026-03-01,Kerala,Vi,12782282.0,cur
+2026-03-01,Gujarat,BSNL,3290591.0,cur
+2024-10-01,Bihar,Airtel,40526286.0,cur
+2026-03-01,Haryana,Airtel,7854741.0,cur
+2026-03-01,Haryana,Vi,6231180.0,cur
+2024-10-01,Assam,Jio,9710611.0,cur
+2026-03-01,Haryana,BSNL,4509472.0,cur
+2026-03-01,Haryana,Jio,8220268.0,cur
+2024-10-01,Assam,BSNL,2984559.0,cur
+2026-03-01,Gujarat,Jio,32899907.0,cur
+2026-03-01,Delhi,Vi,16095501.0,cur
+2024-09-01,West Bengal,Jio,23895866.0,cur
+2026-03-01,Kerala,Jio,11137247.0,cur
+2026-03-01,Mumbai,Vi,10842893.0,cur
+2024-09-01,U.P. (East),Jio,40173383.0,cur
+2026-03-01,Mumbai,MTNL,81887.0,cur
+2026-03-01,Mumbai,Jio,13337985.0,cur
+2024-09-01,U.P. (East),BSNL,8297577.0,cur
+2026-03-01,North East,Airtel,6724753.0,cur
+2026-03-01,North East,Vi,595310.0,cur
+2024-09-01,U.P. (East),Vi,16517501.0,cur
+2026-03-01,North East,BSNL,1296967.0,cur
+2026-03-01,North East,Jio,4656859.0,cur
+2024-09-01,U.P. (East),Airtel,36304870.0,cur
+2026-03-01,Odisha,Airtel,13309058.0,cur
+2026-03-01,Odisha,Vi,1521363.0,cur
+2024-09-01,Tamil Nadu,Jio,24888813.0,cur
+2026-03-01,Odisha,BSNL,5500943.0,cur
+2026-03-01,Mumbai,Airtel,15942397.0,cur
+2024-09-01,U.P. (West),Airtel,18783592.0,cur
+2026-03-01,Maharashtra,Jio,43941678.0,cur
+2026-03-01,Maharashtra,BSNL,5338848.0,cur
+2024-09-01,West Bengal,BSNL,2681800.0,cur
+2026-03-01,Kolkata,Airtel,5994154.0,cur
+2026-03-01,Kolkata,Vi,4593122.0,cur
+2024-09-01,West Bengal,Vi,12465704.0,cur
+2026-03-01,Kolkata,BSNL,1423628.0,cur
+2026-03-01,Kolkata,Jio,10933395.0,cur
+2024-09-01,West Bengal,Airtel,18025740.0,cur
+2026-03-01,Kerala,BSNL,8961293.0,cur
+2026-03-01,Madhya Pradesh,Airtel,18298313.0,cur
+2024-09-01,U.P. (West),Jio,23803581.0,cur
+2026-03-01,Madhya Pradesh,BSNL,5132531.0,cur
+2026-03-01,Madhya Pradesh,Jio,49606122.0,cur
+2024-09-01,U.P. (West),BSNL,5286252.0,cur
+2026-03-01,Maharashtra,Airtel,32250561.0,cur
+2026-03-01,Maharashtra,Vi,20636495.0,cur
+2024-09-01,U.P. (West),Vi,14998895.0,cur
+2026-03-01,Madhya Pradesh,Vi,12609315.0,cur
+2026-03-01,Delhi,Airtel,38960542.0,cur
+2024-10-01,Delhi,Airtel,18407951.0,cur
+2026-03-01,Bihar,Jio,44998130.0,cur
+2025-05-01,Odisha,BSNL,5556906.0,cur
+2025-05-01,Odisha,Jio,16263873.0,cur
+2024-10-01,Jammu & Kashmir,BSNL,924203.0,cur
+2025-05-01,Punjab,Airtel,12534759.0,cur
+2025-05-01,Punjab,Vi,5940040.0,cur
+2024-10-01,Jammu & Kashmir,Vi,268400.0,cur
+2025-05-01,Punjab,BSNL,4075609.0,cur
+2025-05-01,Punjab,Jio,11400335.0,cur
+2024-10-01,Jammu & Kashmir,Airtel,6101786.0,cur
+2025-05-01,Rajasthan,Airtel,23389579.0,cur
+2025-05-01,Rajasthan,Vi,9091447.0,cur
+2024-10-01,Himachal Pradesh,Jio,3222401.0,cur
+2025-05-01,Rajasthan,BSNL,5619511.0,cur
+2025-05-01,Rajasthan,Jio,26617594.0,cur
+2024-10-01,Himachal Pradesh,BSNL,1649665.0,cur
+2024-10-01,Jammu & Kashmir,Jio,4949994.0,cur
+2025-05-01,Odisha,Vi,1423473.0,cur
+2025-05-01,Odisha,Airtel,12003744.0,cur
+2024-10-01,Karnataka,Airtel,32164155.0,cur
+2025-05-01,Maharashtra,Vi,20236102.0,cur
+2024-10-01,Kerala,Vi,13137419.0,cur
+2025-05-01,Maharashtra,BSNL,5270399.0,cur
+2025-05-01,Maharashtra,Jio,42862044.0,cur
+2024-10-01,Kerala,Airtel,8825708.0,cur
+2025-05-01,Mumbai,Airtel,10098290.0,cur
+2025-05-01,Mumbai,Vi,10718766.0,cur
+2025-05-01,Tamil Nadu,Airtel,30397167.0,cur
+2024-10-01,Karnataka,Jio,24043176.0,cur
+2025-05-01,Mumbai,Jio,12961608.0,cur
+2024-10-01,Karnataka,BSNL,4550894.0,cur
+2025-05-01,North East,Airtel,6453660.0,cur
+2025-05-01,North East,Vi,624589.0,cur
+2024-10-01,Karnataka,Vi,6413163.0,cur
+2025-05-01,North East,BSNL,1287918.0,cur
+2025-05-01,North East,Jio,4359535.0,cur
+2025-05-01,Mumbai,MTNL,139566.0,cur
+2025-05-01,Tamil Nadu,Vi,14580242.0,cur
+2024-10-01,Himachal Pradesh,Vi,381834.0,cur
+2025-05-01,Tamil Nadu,BSNL,7783965.0,cur
+2026-03-01,Andhra Pradesh,Airtel,38642976.0,cur
+2026-03-01,Andhra Pradesh,Vi,8839537.0,cur
+2024-10-01,Gujarat,Vi,19965032.0,cur
+2026-03-01,Andhra Pradesh,BSNL,7489676.0,cur
+2026-03-01,Andhra Pradesh,Jio,32224617.0,cur
+2024-10-01,Gujarat,Airtel,12183652.0,cur
+2026-03-01,Assam,Airtel,14786568.0,cur
+2024-10-01,Gujarat,BSNL,3321146.0,cur
+2026-03-01,Assam,Vi,1480568.0,cur
+2026-03-01,Assam,BSNL,2928181.0,cur
+2026-03-01,Assam,Jio,10015219.0,cur
+2024-10-01,Delhi,MTNL,1684424.0,cur
+2026-03-01,Bihar,Airtel,49486508.0,cur
+2026-03-01,Bihar,Vi,7417265.0,cur
+2024-10-01,Delhi,Vi,16774937.0,cur
+2026-03-01,Bihar,BSNL,5626979.0,cur
+2024-10-01,Delhi,Jio,19608802.0,cur
+2025-04-01,Karnataka,Airtel,32337705.0,cur
+2025-05-01,West Bengal,Jio,24751903.0,cur
+2024-10-01,Gujarat,Jio,29689509.0,cur
+2025-05-01,Tamil Nadu,Jio,24725577.0,cur
+2024-10-01,Himachal Pradesh,Airtel,3542799.0,cur
+2025-05-01,U.P. (East),Airtel,36260483.0,cur
+2025-05-01,U.P. (East),Vi,16039247.0,cur
+2024-10-01,Haryana,Jio,8292980.0,cur
+2025-05-01,U.P. (East),BSNL,8062697.0,cur
+2025-05-01,U.P. (East),Jio,42384979.0,cur
+2025-05-01,West Bengal,BSNL,2619945.0,cur
+2024-10-01,Haryana,BSNL,4134037.0,cur
+2025-05-01,U.P. (West),Vi,14260491.0,cur
+2024-10-01,Haryana,Vi,6513780.0,cur
+2025-05-01,U.P. (West),BSNL,4974408.0,cur
+2025-05-01,U.P. (West),Jio,24754486.0,cur
+2024-10-01,Haryana,Airtel,7099729.0,cur
+2025-05-01,West Bengal,Airtel,18442139.0,cur
+2025-05-01,West Bengal,Vi,11511218.0,cur
+2025-05-01,U.P. (West),Airtel,18796958.0,cur
+2026-03-01,Odisha,Jio,17826738.0,cur
+2026-07-01,Andhra Pradesh,BSNL,7614955.0,cur
+2025-04-01,Jammu & Kashmir,BSNL,865999.0,cur
+2026-01-01,Punjab,Vi,5597660.0,cur
+2026-07-01,Tamil Nadu,BSNL,7850699.0,cur
+2026-01-01,Punjab,BSNL,4112988.0,cur
+2026-01-01,Punjab,Jio,11562724.0,cur
+2026-07-01,Tamil Nadu,Vi,14196843.0,cur
+2026-01-01,Rajasthan,Airtel,25442403.0,cur
+2026-01-01,Rajasthan,Vi,8411534.0,cur
+2026-07-01,Tamil Nadu,Airtel,33848814.0,cur
+2026-01-01,Rajasthan,BSNL,5743571.0,cur
+2026-01-01,Rajasthan,Jio,27336583.0,cur
+2026-07-01,Rajasthan,Jio,28519571.0,cur
+2026-01-01,Tamil Nadu,Airtel,32743838.0,cur
+2026-01-01,Tamil Nadu,Vi,14263749.0,cur
+2026-07-01,Rajasthan,BSNL,5847630.0,cur
+2026-01-01,Tamil Nadu,BSNL,7971060.0,cur
+2026-01-01,Punjab,Airtel,13941637.0,cur
+2026-07-01,Tamil Nadu,Jio,25309000.0,cur
+2026-01-01,Odisha,Jio,17411440.0,cur
+2026-01-01,Odisha,BSNL,5513183.0,cur
+2026-07-01,U.P. (West),Vi,12156122.0,cur
+2026-01-01,Mumbai,Airtel,15559577.0,cur
+2026-01-01,Mumbai,Vi,10806516.0,cur
+2026-07-01,U.P. (West),Airtel,23498533.0,cur
+2026-01-01,Mumbai,MTNL,90957.0,cur
+2026-01-01,Mumbai,Jio,13289563.0,cur
+2026-07-01,U.P. (East),Jio,44972938.0,cur
+2026-01-01,Tamil Nadu,Jio,24857332.0,cur
+2026-01-01,North East,Airtel,6624053.0,cur
+2026-07-01,U.P. (East),BSNL,8451922.0,cur
+2026-01-01,North East,BSNL,1305572.0,cur
+2026-01-01,North East,Jio,4501763.0,cur
+2026-07-01,U.P. (East),Vi,16599835.0,cur
+2026-01-01,Odisha,Airtel,13107129.0,cur
+2026-01-01,Odisha,Vi,1486579.0,cur
+2026-07-01,U.P. (East),Airtel,41789816.0,cur
+2026-01-01,North East,Vi,599975.0,cur
+2026-01-01,Maharashtra,Jio,44114092.0,cur
+2026-07-01,Rajasthan,Vi,8172241.0,cur
+2026-01-01,U.P. (East),Vi,15708507.0,cur
+2024-05-01,Andhra Pradesh,Jio,32994663.0,cur
+2026-07-01,Odisha,Vi,1553801.0,cur
+2024-05-01,Assam,Airtel,11905489.0,cur
+2024-05-01,Assam,Vi,1544938.0,cur
+2026-07-01,Odisha,Airtel,13464578.0,cur
+2024-05-01,Assam,BSNL,2977451.0,cur
+2024-05-01,Assam,Jio,10024600.0,cur
+2026-07-01,North East,Jio,4711654.0,cur
+2024-05-01,Bihar,Airtel,41474249.0,cur
+2024-05-01,Bihar,Vi,7713573.0,cur
+2026-07-01,North East,BSNL,1293699.0,cur
+2024-05-01,Bihar,BSNL,5256069.0,cur
+2024-05-01,Bihar,Jio,41687594.0,cur
+2026-07-01,North East,Vi,591840.0,cur
+2024-05-01,Delhi,Airtel,18281949.0,cur
+2024-05-01,Andhra Pradesh,BSNL,6295338.0,cur
+2026-07-01,Odisha,BSNL,5491419.0,cur
+2024-05-01,Andhra Pradesh,Vi,10727601.0,cur
+2024-05-01,Andhra Pradesh,Airtel,34010404.0,cur
+2026-07-01,Rajasthan,Airtel,26440461.0,cur
+2026-01-01,U.P. (East),BSNL,8482147.0,cur
+2026-01-01,U.P. (East),Jio,44213422.0,cur
+2026-07-01,Punjab,Jio,11825488.0,cur
+2026-01-01,U.P. (West),Airtel,21815161.0,cur
+2026-01-01,U.P. (West),Vi,12584348.0,cur
+2026-07-01,Punjab,BSNL,4104294.0,cur
+2026-01-01,U.P. (East),Airtel,40222140.0,cur
+2026-01-01,U.P. (West),BSNL,5230318.0,cur
+2026-07-01,Punjab,Vi,5572993.0,cur
+2026-01-01,West Bengal,Airtel,18753034.0,cur
+2026-01-01,West Bengal,Vi,10399121.0,cur
+2026-07-01,Punjab,Airtel,14198899.0,cur
+2026-01-01,West Bengal,BSNL,2652592.0,cur
+2026-01-01,West Bengal,Jio,25686703.0,cur
+2026-07-01,Odisha,Jio,18504489.0,cur
+2026-01-01,U.P. (West),Jio,25383294.0,cur
+2024-05-01,Delhi,Vi,16500155.0,cur
+2026-01-01,Maharashtra,BSNL,5321107.0,cur
+2026-01-01,Maharashtra,Vi,20548489.0,cur
+2026-01-01,Delhi,Vi,16511485.0,cur
+2026-08-01,Delhi,Airtel,40712950.0,cur
+2026-01-01,Delhi,MTNL,135776.0,cur
+2026-01-01,Delhi,Jio,20428587.0,cur
+2026-08-01,Bihar,Jio,46124438.0,cur
+2026-01-01,Gujarat,Airtel,15339085.0,cur
+2026-01-01,Gujarat,Vi,19382645.0,cur
+2026-08-01,Bihar,BSNL,5539813.0,cur
+2026-01-01,Gujarat,BSNL,3298684.0,cur
+2026-01-01,Gujarat,Jio,32287641.0,cur
+2026-08-01,Bihar,Vi,7504851.0,cur
+2026-01-01,Haryana,Airtel,7771855.0,cur
+2026-01-01,Haryana,Vi,6195167.0,cur
+2026-08-01,Bihar,Airtel,50105575.0,cur
+2026-01-01,Haryana,BSNL,4426395.0,cur
+2026-01-01,Delhi,Airtel,37956746.0,cur
+2026-08-01,Delhi,Vi,16742242.0,cur
+2026-01-01,Bihar,Jio,44387157.0,cur
+2026-01-01,Bihar,BSNL,5645447.0,cur
+2026-08-01,Gujarat,Jio,34067272.0,cur
+2026-01-01,Andhra Pradesh,Airtel,37999714.0,cur
+2026-01-01,Andhra Pradesh,Vi,8853196.0,cur
+2026-08-01,Gujarat,BSNL,3317956.0,cur
+2026-01-01,Andhra Pradesh,BSNL,7489371.0,cur
+2026-01-01,Andhra Pradesh,Jio,32030471.0,cur
+2026-08-01,Gujarat,Vi,20324998.0,cur
+2026-01-01,Haryana,Jio,8186780.0,cur
+2026-01-01,Assam,Airtel,14078593.0,cur
+2026-08-01,Gujarat,Airtel,16059429.0,cur
+2026-01-01,Assam,BSNL,2950889.0,cur
+2026-01-01,Assam,Jio,9874991.0,cur
+2026-08-01,Delhi,Jio,20789246.0,cur
+2026-01-01,Bihar,Airtel,48205639.0,cur
+2026-01-01,Bihar,Vi,7360582.0,cur
+2026-08-01,Delhi,MTNL,120657.0,cur
+2026-01-01,Assam,Vi,1454471.0,cur
+2026-07-01,U.P. (West),BSNL,5179350.0,cur
+2026-08-01,Assam,Jio,10291012.0,cur
+2026-01-01,Himachal Pradesh,Vi,386636.0,cur
+2026-01-01,Kerala,Jio,11058663.0,cur
+2026-07-01,West Bengal,Jio,26611644.0,cur
+2026-01-01,Kolkata,Airtel,5983137.0,cur
+2026-01-01,Kolkata,Vi,4598511.0,cur
+2026-07-01,West Bengal,BSNL,2619442.0,cur
+2026-01-01,Kolkata,BSNL,1428921.0,cur
+2026-01-01,Kolkata,Jio,10886507.0,cur
+2026-07-01,West Bengal,Vi,10096942.0,cur
+2026-01-01,Madhya Pradesh,Airtel,18082305.0,cur
+2026-01-01,Madhya Pradesh,Vi,12656416.0,cur
+2026-07-01,West Bengal,Airtel,19426718.0,cur
+2026-01-01,Madhya Pradesh,BSNL,5131745.0,cur
+2026-01-01,Madhya Pradesh,Jio,49001026.0,cur
+2026-07-01,U.P. (West),Jio,26360551.0,cur
+2026-01-01,Maharashtra,Airtel,31068546.0,cur
+2026-01-01,Kerala,BSNL,8974130.0,cur
+2026-08-01,Andhra Pradesh,Airtel,39937042.0,cur
+2026-01-01,Kerala,Vi,12743492.0,cur
+2026-01-01,Kerala,Airtel,9543880.0,cur
+2026-08-01,Assam,BSNL,2899920.0,cur
+2026-01-01,Himachal Pradesh,BSNL,1779691.0,cur
+2026-01-01,Himachal Pradesh,Jio,3478257.0,cur
+2026-08-01,Assam,Vi,1514641.0,cur
+2026-01-01,Jammu & Kashmir,Airtel,6590080.0,cur
+2026-01-01,Jammu & Kashmir,Vi,263476.0,cur
+2026-08-01,Assam,Airtel,15270657.0,cur
+2026-01-01,Himachal Pradesh,Airtel,3632072.0,cur
+2026-01-01,Jammu & Kashmir,BSNL,856454.0,cur
+2026-08-01,Andhra Pradesh,Jio,32864786.0,cur
+2026-01-01,Karnataka,Airtel,43330426.0,cur
+2026-01-01,Karnataka,Vi,7547414.0,cur
+2026-08-01,Andhra Pradesh,BSNL,7679474.0,cur
+2026-01-01,Karnataka,BSNL,4713937.0,cur
+2026-01-01,Karnataka,Jio,26108976.0,cur
+2026-08-01,Andhra Pradesh,Vi,8753514.0,cur
+2026-01-01,Jammu & Kashmir,Jio,5401814.0,cur
+2026-07-01,North East,Airtel,6839355.0,cur
+2024-05-01,Delhi,MTNL,1685013.0,cur
+2024-05-01,Delhi,Jio,20388694.0,cur
+2024-05-01,U.P. (West),BSNL,4890092.0,cur
+2026-07-01,Haryana,Vi,6201808.0,cur
+2024-05-01,U.P. (West),Jio,24574153.0,cur
+2024-05-01,West Bengal,Airtel,18275872.0,cur
+2026-07-01,Haryana,Airtel,7964101.0,cur
+2024-05-01,West Bengal,Vi,12977375.0,cur
+2024-05-01,West Bengal,BSNL,2331371.0,cur
+2026-07-01,Gujarat,Jio,33856293.0,cur
+2024-05-01,West Bengal,Jio,24547217.0,cur
+2025-04-01,Andhra Pradesh,Airtel,33965795.0,cur
+2026-07-01,Gujarat,BSNL,3304433.0,cur
+2025-04-01,Andhra Pradesh,Vi,9690229.0,cur
+2025-04-01,Andhra Pradesh,BSNL,6939168.0,cur
+2026-07-01,Gujarat,Vi,20116264.0,cur
+2025-04-01,Andhra Pradesh,Jio,31871384.0,cur
+2024-05-01,U.P. (West),Vi,15510494.0,cur
+2026-07-01,Haryana,BSNL,4717784.0,cur
+2024-05-01,U.P. (West),Airtel,18962036.0,cur
+2024-05-01,U.P. (East),Jio,40563725.0,cur
+2026-07-01,Jammu & Kashmir,Airtel,7070320.0,cur
+2024-05-01,Rajasthan,Vi,10551397.0,cur
+2024-05-01,Rajasthan,BSNL,5521645.0,cur
+2026-07-01,Himachal Pradesh,Jio,3639396.0,cur
+2024-05-01,Rajasthan,Jio,27037993.0,cur
+2024-05-01,Tamil Nadu,Airtel,29681291.0,cur
+2026-07-01,Himachal Pradesh,BSNL,1800820.0,cur
+2025-04-01,Assam,Airtel,12314102.0,cur
+2024-05-01,Tamil Nadu,Vi,15495199.0,cur
+2026-07-01,Himachal Pradesh,Vi,393086.0,cur
+2024-05-01,Tamil Nadu,Jio,25869312.0,cur
+2024-05-01,U.P. (East),Airtel,37426815.0,cur
+2026-07-01,Himachal Pradesh,Airtel,3637211.0,cur
+2024-05-01,U.P. (East),Vi,17245091.0,cur
+2024-05-01,U.P. (East),BSNL,7475025.0,cur
+2026-07-01,Haryana,Jio,8308319.0,cur
+2024-05-01,Tamil Nadu,BSNL,7587074.0,cur
+2024-05-01,Rajasthan,Airtel,23474299.0,cur
+2026-07-01,Gujarat,Airtel,15946351.0,cur
+2025-04-01,Assam,BSNL,2969614.0,cur
+2025-04-01,Haryana,Airtel,7256973.0,cur
+2025-04-01,Haryana,Vi,6337736.0,cur
+2026-07-01,Assam,Jio,10216861.0,cur
+2025-04-01,Haryana,BSNL,4199581.0,cur
+2025-04-01,Haryana,Jio,8333583.0,cur
+2026-07-01,Assam,BSNL,2901384.0,cur
+2025-04-01,Himachal Pradesh,Airtel,3575366.0,cur
+2025-04-01,Himachal Pradesh,Vi,381498.0,cur
+2026-07-01,Assam,Vi,1519974.0,cur
+2025-04-01,Himachal Pradesh,BSNL,1686251.0,cur
+2025-04-01,Himachal Pradesh,Jio,3230655.0,cur
+2026-07-01,Assam,Airtel,15143012.0,cur
+2025-04-01,Jammu & Kashmir,Airtel,6259328.0,cur
+2025-04-01,Jammu & Kashmir,Vi,266116.0,cur
+2026-07-01,Andhra Pradesh,Jio,32652535.0,cur
+2026-07-01,Bihar,Airtel,50040817.0,cur
+2025-04-01,Gujarat,Jio,30453865.0,cur
+2025-04-01,Gujarat,BSNL,3260886.0,cur
+2026-07-01,Bihar,Vi,7480977.0,cur
+2026-07-01,Delhi,Jio,20697557.0,cur
+2025-04-01,Assam,Jio,9752800.0,cur
+2025-04-01,Bihar,Airtel,40967773.0,cur
+2025-04-01,Bihar,Vi,7781220.0,cur
+2026-07-01,Delhi,Vi,16543979.0,cur
+2025-04-01,Bihar,BSNL,5752352.0,cur
+2025-04-01,Bihar,Jio,42106190.0,cur
+2025-04-01,Assam,Vi,1422240.0,cur
+2026-07-01,Delhi,Airtel,40228926.0,cur
+2025-04-01,Delhi,Vi,16796269.0,cur
+2026-07-01,Bihar,Jio,45882993.0,cur
+2025-04-01,Delhi,MTNL,788984.0,cur
+2025-04-01,Delhi,Jio,19892440.0,cur
+2026-07-01,Bihar,BSNL,5518948.0,cur
+2025-04-01,Gujarat,Airtel,12401101.0,cur
+2025-04-01,Gujarat,Vi,19680582.0,cur
+2025-04-01,Delhi,Airtel,18877637.0,cur
+2024-05-01,Punjab,Jio,12216608.0,cur
+2026-07-01,Jammu & Kashmir,Vi,270058.0,cur
+2024-05-01,Punjab,BSNL,3720785.0,cur
+2024-05-01,Jammu & Kashmir,Vi,293024.0,cur
+2024-05-01,Jammu & Kashmir,BSNL,775103.0,cur
+2026-07-01,Madhya Pradesh,Jio,50872131.0,cur
+2024-05-01,Jammu & Kashmir,Jio,5099769.0,cur
+2024-05-01,Karnataka,Airtel,32384375.0,cur
+2026-07-01,Madhya Pradesh,BSNL,5127474.0,cur
+2024-05-01,Karnataka,Vi,6442419.0,cur
+2024-05-01,Karnataka,BSNL,4174103.0,cur
+2026-07-01,Madhya Pradesh,Vi,12391285.0,cur
+2024-05-01,Karnataka,Jio,24484441.0,cur
+2024-05-01,Kerala,Airtel,8746805.0,cur
+2026-07-01,Madhya Pradesh,Airtel,18696294.0,cur
+2024-05-01,Kerala,Vi,13561115.0,cur
+2024-05-01,Kerala,BSNL,8795341.0,cur
+2026-07-01,Kolkata,Jio,11089259.0,cur
+2026-07-01,Maharashtra,Airtel,34081957.0,cur
+2024-05-01,Jammu & Kashmir,Airtel,6096286.0,cur
+2024-05-01,Himachal Pradesh,Jio,3365275.0,cur
+2026-07-01,Maharashtra,Vi,20696362.0,cur
+2026-07-01,Mumbai,Jio,13441467.0,cur
+2024-05-01,Gujarat,Airtel,11924385.0,cur
+2024-05-01,Gujarat,Vi,20479326.0,cur
+2024-05-01,Gujarat,BSNL,2675956.0,cur
+2026-07-01,Mumbai,Vi,10725580.0,cur
+2024-05-01,Gujarat,Jio,30516865.0,cur
+2024-05-01,Haryana,Airtel,7028290.0,cur
+2024-05-01,Kerala,Jio,11083502.0,cur
+2026-07-01,Mumbai,Airtel,16447086.0,cur
+2024-05-01,Haryana,BSNL,4055885.0,cur
+2026-07-01,Maharashtra,Jio,44467148.0,cur
+2024-05-01,Haryana,Jio,8796184.0,cur
+2024-05-01,Himachal Pradesh,Airtel,3581035.0,cur
+2026-07-01,Maharashtra,BSNL,5293675.0,cur
+2024-05-01,Himachal Pradesh,Vi,395676.0,cur
+2024-05-01,Himachal Pradesh,BSNL,1507563.0,cur
+2024-05-01,Haryana,Vi,6728877.0,cur
+2024-05-01,Kolkata,Airtel,5660012.0,cur
+2026-07-01,Kolkata,BSNL,1420158.0,cur
+2024-05-01,Kolkata,Vi,5263082.0,cur
+2024-05-01,Mumbai,Jio,13168049.0,cur
+2024-05-01,North East,Airtel,6348113.0,cur
+2026-07-01,Karnataka,BSNL,4750730.0,cur
+2024-05-01,North East,Vi,744341.0,cur
+2024-05-01,North East,BSNL,1233208.0,cur
+2026-07-01,Karnataka,Vi,7751977.0,cur
+2024-05-01,North East,Jio,4366518.0,cur
+2026-07-01,Karnataka,Jio,26780725.0,cur
+2024-05-01,Odisha,Airtel,11631129.0,cur
+2024-05-01,Odisha,Vi,1416414.0,cur
+2024-05-01,Odisha,BSNL,5334229.0,cur
+2026-07-01,Jammu & Kashmir,Jio,6063404.0,cur
+2024-05-01,Odisha,Jio,15492844.0,cur
+2024-05-01,Punjab,Airtel,12609543.0,cur
+2026-07-01,Jammu & Kashmir,BSNL,863662.0,cur
+2024-05-01,Punjab,Vi,6444950.0,cur
+2026-07-01,Karnataka,Airtel,45088864.0,cur
+2025-04-01,Jammu & Kashmir,Jio,4921318.0,cur
+2024-05-01,Mumbai,MTNL,233680.0,cur
+2026-07-01,Kerala,Airtel,9841122.0,cur
+2024-05-01,Kolkata,BSNL,1573316.0,cur
+2026-07-01,Kolkata,Vi,4508421.0,cur
+2024-05-01,Kolkata,Jio,10986067.0,cur
+2024-05-01,Madhya Pradesh,Airtel,16228824.0,cur
+2026-07-01,Kolkata,Airtel,6062654.0,cur
+2024-05-01,Madhya Pradesh,Vi,15436309.0,cur
+2024-05-01,Madhya Pradesh,BSNL,4659304.0,cur
+2024-05-01,Mumbai,Vi,10705134.0,cur
+2026-07-01,Kerala,Jio,11246920.0,cur
+2024-05-01,Maharashtra,Airtel,21919771.0,cur
+2026-07-01,Kerala,BSNL,9025390.0,cur
+2024-05-01,Maharashtra,Vi,21981186.0,cur
+2024-05-01,Maharashtra,BSNL,5655254.0,cur
+2026-07-01,Kerala,Vi,12807413.0,cur
+2024-05-01,Maharashtra,Jio,43407659.0,cur
+2024-05-01,Mumbai,Airtel,10117220.0,cur
+2024-05-01,Madhya Pradesh,Jio,43944459.0,cur
+2024-09-01,Tamil Nadu,BSNL,8028135.0,cur
+2026-03-01,Punjab,Airtel,14145393.0,cur
+2026-03-01,Punjab,Vi,5633877.0,cur
+2025-06-01,U.P. (East),Airtel,36142330.0,cur
+2025-06-01,U.P. (East),Vi,16002747.0,cur
+2025-07-01,Haryana,Jio,8312701.0,cur
+2025-06-01,U.P. (East),BSNL,8063891.0,cur
+2025-06-01,U.P. (East),Jio,42620661.0,cur
+2025-07-01,Haryana,BSNL,4281565.0,cur
+2025-06-01,U.P. (West),Airtel,18790030.0,cur
+2025-06-01,U.P. (West),Vi,14239513.0,cur
+2025-07-01,Haryana,Vi,6300847.0,cur
+2025-06-01,U.P. (West),BSNL,4975788.0,cur
+2025-06-01,U.P. (West),Jio,24890351.0,cur
+2025-07-01,Haryana,Airtel,7346147.0,cur
+2025-06-01,West Bengal,Airtel,18490543.0,cur
+2025-06-01,West Bengal,Vi,11473984.0,cur
+2025-07-01,Gujarat,Jio,31429998.0,cur
+2025-07-01,Himachal Pradesh,Airtel,3608108.0,cur
+2025-06-01,Tamil Nadu,Jio,24728678.0,cur
+2025-06-01,Tamil Nadu,BSNL,7763268.0,cur
+2025-07-01,Himachal Pradesh,Vi,383681.0,cur
+2025-06-01,Odisha,Jio,16361162.0,cur
+2025-07-01,Jammu & Kashmir,BSNL,863591.0,cur
+2025-06-01,Punjab,Airtel,12553073.0,cur
+2025-06-01,Punjab,Vi,5888323.0,cur
+2025-07-01,Jammu & Kashmir,Vi,254920.0,cur
+2025-06-01,Punjab,BSNL,4072133.0,cur
+2025-06-01,Punjab,Jio,11386214.0,cur
+2025-06-01,West Bengal,BSNL,2601347.0,cur
+2025-07-01,Jammu & Kashmir,Airtel,6373463.0,cur
+2025-06-01,Rajasthan,Vi,8984641.0,cur
+2025-07-01,Himachal Pradesh,Jio,3239834.0,cur
+2025-06-01,Rajasthan,BSNL,5617556.0,cur
+2025-06-01,Rajasthan,Jio,26815995.0,cur
+2025-07-01,Himachal Pradesh,BSNL,1684645.0,cur
+2025-06-01,Tamil Nadu,Airtel,30506366.0,cur
+2025-06-01,Tamil Nadu,Vi,14524173.0,cur
+2025-06-01,Rajasthan,Airtel,23414504.0,cur
+2025-06-01,Odisha,BSNL,5540622.0,cur
+2025-06-01,West Bengal,Jio,24886458.0,cur
+2024-07-01,Andhra Pradesh,Airtel,33989599.0,cur
+2024-07-01,Delhi,MTNL,1684191.0,cur
+2024-07-01,Delhi,Jio,20375069.0,cur
+2025-07-01,Bihar,BSNL,5648429.0,cur
+2024-07-01,Gujarat,Airtel,11916953.0,cur
+2024-07-01,Gujarat,Vi,20319894.0,cur
+2025-07-01,Bihar,Vi,7949346.0,cur
+2024-07-01,Gujarat,BSNL,2899535.0,cur
+2024-07-01,Gujarat,Jio,30576502.0,cur
+2025-07-01,Bihar,Airtel,40807978.0,cur
+2024-07-01,Haryana,Airtel,7092103.0,cur
+2024-07-01,Haryana,Vi,6684372.0,cur
+2025-07-01,Assam,Jio,9749921.0,cur
+2024-07-01,Haryana,BSNL,4081920.0,cur
+2024-07-01,Haryana,Jio,8728381.0,cur
+2025-07-01,Assam,BSNL,2925869.0,cur
+2025-07-01,Bihar,Jio,42460057.0,cur
+2024-07-01,Delhi,Vi,16743602.0,cur
+2024-07-01,Delhi,Airtel,18301168.0,cur
+2025-07-01,Delhi,Airtel,19071921.0,cur
+2024-07-01,Andhra Pradesh,Vi,10590428.0,cur
+2025-07-01,Gujarat,Vi,19702070.0,cur
+2024-07-01,Andhra Pradesh,BSNL,6578913.0,cur
+2024-07-01,Andhra Pradesh,Jio,32978117.0,cur
+2025-07-01,Gujarat,Airtel,12555074.0,cur
+2024-07-01,Assam,Airtel,11970108.0,cur
+2024-07-01,Assam,Vi,1510887.0,cur
+2025-07-01,Gujarat,BSNL,3231672.0,cur
+2025-07-01,Delhi,Jio,20027060.0,cur
+2024-07-01,Assam,Jio,10002075.0,cur
+2025-07-01,Delhi,MTNL,174277.0,cur
+2024-07-01,Bihar,Airtel,41089037.0,cur
+2024-07-01,Bihar,Vi,7591934.0,cur
+2025-07-01,Delhi,Vi,16650505.0,cur
+2024-07-01,Bihar,BSNL,5561593.0,cur
+2024-07-01,Bihar,Jio,41812880.0,cur
+2024-07-01,Assam,BSNL,3033387.0,cur
+2024-07-01,Himachal Pradesh,Airtel,3592169.0,cur
+2025-07-01,Jammu & Kashmir,Jio,5158575.0,cur
+2025-06-01,Odisha,Airtel,11991403.0,cur
+2025-06-01,Himachal Pradesh,Airtel,3599301.0,cur
+2025-06-01,Himachal Pradesh,Vi,381258.0,cur
+2025-07-01,Maharashtra,Vi,20296273.0,cur
+2025-06-01,Himachal Pradesh,BSNL,1679271.0,cur
+2025-06-01,Himachal Pradesh,Jio,3234729.0,cur
+2025-07-01,Maharashtra,Airtel,22837997.0,cur
+2025-06-01,Jammu & Kashmir,Airtel,6315109.0,cur
+2025-06-01,Jammu & Kashmir,Vi,259065.0,cur
+2025-07-01,Madhya Pradesh,Jio,46554116.0,cur
+2025-06-01,Jammu & Kashmir,BSNL,861736.0,cur
+2025-06-01,Jammu & Kashmir,Jio,4999647.0,cur
+2025-07-01,Madhya Pradesh,BSNL,5034420.0,cur
+2025-06-01,Karnataka,Airtel,32449731.0,cur
+2025-06-01,Karnataka,Vi,6851977.0,cur
+2025-07-01,Madhya Pradesh,Vi,13253296.0,cur
+2025-07-01,Maharashtra,BSNL,5221931.0,cur
+2025-06-01,Haryana,Jio,8352577.0,cur
+2025-06-01,Haryana,BSNL,4254279.0,cur
+2025-07-01,Maharashtra,Jio,42754621.0,cur
+2025-06-01,Bihar,Jio,42682509.0,cur
+2025-07-01,North East,Airtel,6459452.0,cur
+2025-06-01,Delhi,Airtel,19006627.0,cur
+2025-06-01,Delhi,Vi,16728046.0,cur
+2025-07-01,Mumbai,Jio,13034340.0,cur
+2025-06-01,Delhi,MTNL,174758.0,cur
+2025-06-01,Delhi,Jio,19893256.0,cur
+2025-06-01,Karnataka,BSNL,4505756.0,cur
+2025-07-01,Mumbai,MTNL,130343.0,cur
+2025-06-01,Gujarat,Vi,19750613.0,cur
+2025-07-01,Mumbai,Vi,10707338.0,cur
+2025-06-01,Gujarat,BSNL,3240893.0,cur
+2025-06-01,Gujarat,Jio,31098753.0,cur
+2025-07-01,Mumbai,Airtel,10087725.0,cur
+2025-06-01,Haryana,Airtel,7337692.0,cur
+2025-06-01,Haryana,Vi,6310748.0,cur
+2025-06-01,Gujarat,Airtel,12420850.0,cur
+2025-06-01,Odisha,Vi,1428049.0,cur
+2025-06-01,Karnataka,Jio,25162401.0,cur
+2025-06-01,Kerala,Airtel,9103787.0,cur
+2025-06-01,Maharashtra,BSNL,5251965.0,cur
+2025-06-01,Maharashtra,Jio,42921671.0,cur
+2025-07-01,Kerala,Airtel,9177773.0,cur
+2025-06-01,Mumbai,Airtel,10080637.0,cur
+2025-06-01,Mumbai,Vi,10725076.0,cur
+2025-07-01,Karnataka,Jio,25208588.0,cur
+2025-06-01,Mumbai,MTNL,132334.0,cur
+2025-06-01,Mumbai,Jio,12938940.0,cur
+2025-07-01,Karnataka,BSNL,4502365.0,cur
+2025-06-01,North East,Airtel,6457193.0,cur
+2025-06-01,North East,Vi,627363.0,cur
+2025-07-01,Karnataka,Vi,6936855.0,cur
+2025-06-01,North East,BSNL,1282201.0,cur
+2025-06-01,North East,Jio,4361273.0,cur
+2025-07-01,Karnataka,Airtel,32466518.0,cur
+2025-07-01,Kerala,Vi,12828062.0,cur
+2025-06-01,Maharashtra,Vi,20282509.0,cur
+2025-06-01,Maharashtra,Airtel,22744325.0,cur
+2025-07-01,Kerala,BSNL,8789243.0,cur
+2025-06-01,Kerala,Vi,12845818.0,cur
+2025-07-01,Kolkata,Jio,10872556.0,cur
+2025-06-01,Kerala,BSNL,8774237.0,cur
+2025-06-01,Kerala,Jio,10803334.0,cur
+2025-07-01,Kolkata,BSNL,1365363.0,cur
+2025-06-01,Kolkata,Airtel,5374126.0,cur
+2025-06-01,Kolkata,Vi,4754217.0,cur
+2025-07-01,Madhya Pradesh,Airtel,16736923.0,cur
+2025-07-01,Kolkata,Vi,4774683.0,cur
+2025-06-01,Kolkata,Jio,10795156.0,cur
+2025-07-01,Kolkata,Airtel,5319701.0,cur
+2025-06-01,Madhya Pradesh,Airtel,16695435.0,cur
+2025-06-01,Madhya Pradesh,Vi,13277301.0,cur
+2025-07-01,Kerala,Jio,10858996.0,cur
+2025-06-01,Madhya Pradesh,BSNL,5056025.0,cur
+2025-06-01,Madhya Pradesh,Jio,46412887.0,cur
+2025-06-01,Kolkata,BSNL,1373028.0,cur
+2024-07-01,Himachal Pradesh,Vi,388302.0,cur
+2025-07-01,Assam,Vi,1442516.0,cur
+2024-07-01,Himachal Pradesh,BSNL,1568692.0,cur
+2024-08-01,Assam,Vi,1485672.0,cur
+2024-08-01,North East,Jio,4381906.0,cur
+2024-08-01,Assam,BSNL,2993033.0,cur
+2024-08-01,Assam,Jio,9872296.0,cur
+2024-08-01,North East,BSNL,1284846.0,cur
+2024-08-01,Bihar,Airtel,40599123.0,cur
+2024-08-01,Bihar,Vi,7564756.0,cur
+2024-08-01,North East,Vi,693923.0,cur
+2024-08-01,Bihar,BSNL,5849336.0,cur
+2024-08-01,Bihar,Jio,41122293.0,cur
+2024-08-01,North East,Airtel,6237710.0,cur
+2024-08-01,Delhi,Airtel,18330214.0,cur
+2024-08-01,Delhi,Vi,16753908.0,cur
+2024-08-01,Mumbai,Jio,12987614.0,cur
+2024-08-01,Delhi,MTNL,1684274.0,cur
+2024-08-01,Assam,Airtel,11863283.0,cur
+2024-08-01,Odisha,Airtel,11482170.0,cur
+2024-08-01,Andhra Pradesh,Jio,32570216.0,cur
+2024-08-01,Andhra Pradesh,BSNL,6855104.0,cur
+2024-08-01,Punjab,BSNL,4088583.0,cur
+2024-07-01,U.P. (West),Airtel,18918504.0,cur
+2024-07-01,U.P. (West),Vi,15321425.0,cur
+2024-08-01,Punjab,Vi,6317007.0,cur
+2024-07-01,U.P. (West),BSNL,4934399.0,cur
+2024-07-01,U.P. (West),Jio,24686267.0,cur
+2024-08-01,Punjab,Airtel,12418200.0,cur
+2024-08-01,Delhi,Jio,20218058.0,cur
+2024-07-01,West Bengal,Airtel,18254778.0,cur
+2024-08-01,Odisha,Jio,15607868.0,cur
+2024-07-01,West Bengal,BSNL,2558072.0,cur
+2024-07-01,West Bengal,Jio,24530334.0,cur
+2024-08-01,Odisha,BSNL,5452811.0,cur
+2024-08-01,Andhra Pradesh,Airtel,33802351.0,cur
+2024-08-01,Andhra Pradesh,Vi,10457668.0,cur
+2024-08-01,Odisha,Vi,1404314.0,cur
+2024-07-01,West Bengal,Vi,12749686.0,cur
+2024-07-01,U.P. (East),Jio,40871703.0,cur
+2024-08-01,Mumbai,MTNL,224744.0,cur
+2024-08-01,Gujarat,Vi,20219824.0,cur
+2024-08-01,Jammu & Kashmir,Jio,5255606.0,cur
+2024-08-01,Madhya Pradesh,BSNL,5028617.0,cur
+2024-08-01,Karnataka,Airtel,32236966.0,cur
+2024-08-01,Karnataka,Vi,6344325.0,cur
+2024-08-01,Madhya Pradesh,Vi,15025854.0,cur
+2024-08-01,Karnataka,BSNL,4511626.0,cur
+2024-08-01,Karnataka,Jio,24298893.0,cur
+2024-08-01,Madhya Pradesh,Airtel,16223521.0,cur
+2024-08-01,Kerala,Airtel,8761014.0,cur
+2024-08-01,Kerala,Vi,13303055.0,cur
+2024-08-01,Kolkata,Jio,10912480.0,cur
+2024-08-01,Kerala,BSNL,8678415.0,cur
+2024-08-01,Kerala,Jio,10974715.0,cur
+2024-08-01,Kolkata,BSNL,1615508.0,cur
+2024-08-01,Kolkata,Airtel,5538557.0,cur
+2024-08-01,Jammu & Kashmir,BSNL,895434.0,cur
+2024-08-01,Madhya Pradesh,Jio,44053945.0,cur
+2024-08-01,Jammu & Kashmir,Vi,277240.0,cur
+2024-08-01,Jammu & Kashmir,Airtel,6112285.0,cur
+2024-08-01,Mumbai,Vi,10700024.0,cur
+2024-08-01,Gujarat,BSNL,3130938.0,cur
+2024-08-01,Gujarat,Jio,30579662.0,cur
+2024-08-01,Mumbai,Airtel,10081363.0,cur
+2024-08-01,Haryana,Airtel,7060416.0,cur
+2024-08-01,Haryana,Vi,6646717.0,cur
+2024-08-01,Maharashtra,Jio,42912627.0,cur
+2024-08-01,Gujarat,Airtel,11966970.0,cur
+2024-08-01,Haryana,BSNL,4115406.0,cur
+2024-08-01,Maharashtra,BSNL,5643171.0,cur
+2024-08-01,Himachal Pradesh,Airtel,3572415.0,cur
+2024-08-01,Himachal Pradesh,Vi,386325.0,cur
+2024-08-01,Maharashtra,Vi,21603100.0,cur
+2024-08-01,Himachal Pradesh,BSNL,1625405.0,cur
+2024-08-01,Himachal Pradesh,Jio,3320829.0,cur
+2024-08-01,Maharashtra,Airtel,22213479.0,cur
+2024-08-01,Haryana,Jio,8693206.0,cur
+2024-07-01,U.P. (East),BSNL,7942489.0,cur
+2024-08-01,Punjab,Jio,12131893.0,cur
+2024-07-01,U.P. (East),Vi,16917330.0,cur
+2024-07-01,Kolkata,Airtel,5604615.0,cur
+2024-07-01,Kolkata,Vi,5214201.0,cur
+2024-08-01,West Bengal,Vi,12580449.0,cur
+2024-07-01,Kolkata,BSNL,1525975.0,cur
+2024-07-01,Kolkata,Jio,10918837.0,cur
+2024-08-01,West Bengal,Airtel,18109835.0,cur
+2024-07-01,Madhya Pradesh,Airtel,16241312.0,cur
+2024-07-01,Madhya Pradesh,Vi,15250808.0,cur
+2024-08-01,U.P. (West),Jio,24431436.0,cur
+2024-07-01,Madhya Pradesh,BSNL,4875012.0,cur
+2024-07-01,Madhya Pradesh,Jio,44298910.0,cur
+2024-08-01,U.P. (West),BSNL,5140253.0,cur
+2024-07-01,Maharashtra,Airtel,22144837.0,cur
+2024-07-01,Maharashtra,Vi,21727203.0,cur
+2024-08-01,U.P. (West),Vi,15186440.0,cur
+2024-08-01,West Bengal,BSNL,2590529.0,cur
+2024-07-01,Kerala,Jio,11103636.0,cur
+2024-07-01,Kerala,BSNL,8605862.0,cur
+2024-08-01,West Bengal,Jio,24501064.0,cur
+2024-07-01,Himachal Pradesh,Jio,3326011.0,cur
+2025-07-01,Assam,Airtel,12351382.0,cur
+2024-07-01,Jammu & Kashmir,Airtel,6171783.0,cur
+2024-07-01,Jammu & Kashmir,Vi,280195.0,cur
+2025-07-01,Andhra Pradesh,Jio,31730391.0,cur
+2024-07-01,Jammu & Kashmir,BSNL,839986.0,cur
+2024-07-01,Jammu & Kashmir,Jio,5252747.0,cur
+2024-07-01,Maharashtra,BSNL,5586235.0,cur
+2025-07-01,Andhra Pradesh,BSNL,6916286.0,cur
+2024-07-01,Karnataka,Vi,6398322.0,cur
+2025-07-01,Andhra Pradesh,Vi,9503297.0,cur
+2024-07-01,Karnataka,BSNL,4300925.0,cur
+2024-07-01,Karnataka,Jio,24544376.0,cur
+2025-07-01,Andhra Pradesh,Airtel,34321932.0,cur
+2024-07-01,Kerala,Airtel,8779707.0,cur
+2024-07-01,Kerala,Vi,13371728.0,cur
+2024-07-01,Karnataka,Airtel,32362339.0,cur
+2024-07-01,Maharashtra,Jio,43319323.0,cur
+2024-08-01,U.P. (West),Airtel,18822073.0,cur
+2024-07-01,Mumbai,Airtel,10121680.0,cur
+2024-07-01,Punjab,BSNL,3908114.0,cur
+2024-07-01,Punjab,Jio,12134660.0,cur
+2024-08-01,Tamil Nadu,Airtel,29795754.0,cur
+2024-07-01,Rajasthan,Airtel,23433054.0,cur
+2024-07-01,Rajasthan,Vi,10311213.0,cur
+2024-08-01,Rajasthan,Jio,27092955.0,cur
+2024-07-01,Rajasthan,BSNL,5567277.0,cur
+2024-08-01,Tamil Nadu,Vi,15229938.0,cur
+2024-07-01,Rajasthan,Jio,27158930.0,cur
+2024-07-01,Tamil Nadu,Airtel,29836739.0,cur
+2024-07-01,Tamil Nadu,Vi,15333918.0,cur
+2024-08-01,Rajasthan,Vi,10025018.0,cur
+2024-07-01,Tamil Nadu,BSNL,7710216.0,cur
+2024-07-01,Tamil Nadu,Jio,25669296.0,cur
+2024-08-01,Rajasthan,Airtel,23140674.0,cur
+2024-07-01,U.P. (East),Airtel,37038900.0,cur
+2024-08-01,Rajasthan,BSNL,5589613.0,cur
+2025-06-01,Bihar,BSNL,5685861.0,cur
+2024-07-01,Punjab,Vi,6360326.0,cur
+2024-08-01,Tamil Nadu,BSNL,7938632.0,cur
+2024-07-01,Mumbai,Vi,10709628.0,cur
+2024-08-01,U.P. (East),Jio,40490160.0,cur
+2024-07-01,Mumbai,MTNL,227566.0,cur
+2024-07-01,Mumbai,Jio,13150628.0,cur
+2024-08-01,U.P. (East),BSNL,8223052.0,cur
+2024-07-01,North East,Airtel,6313850.0,cur
+2024-07-01,North East,Vi,710298.0,cur
+2024-07-01,Punjab,Airtel,12515326.0,cur
+2024-08-01,U.P. (East),Vi,16641443.0,cur
+2024-07-01,North East,Jio,4379819.0,cur
+2024-08-01,U.P. (East),Airtel,36548722.0,cur
+2024-07-01,Odisha,Airtel,11637636.0,cur
+2024-07-01,Odisha,Vi,1397177.0,cur
+2024-08-01,Tamil Nadu,Jio,25340156.0,cur
+2024-07-01,Odisha,BSNL,5392482.0,cur
+2024-07-01,Odisha,Jio,15950256.0,cur
+2024-07-01,North East,BSNL,1245260.0,cur
+2025-07-01,North East,Vi,625765.0,cur
+2025-06-01,Bihar,Vi,7858060.0,cur
+2025-06-01,Bihar,Airtel,40991403.0,cur
+2024-09-01,Kolkata,Airtel,5446548.0,cur
+2024-06-01,Madhya Pradesh,Airtel,16303993.0,cur
+2024-06-01,Madhya Pradesh,Vi,15365624.0,cur
+2024-09-01,Kerala,Jio,10777151.0,cur
+2024-06-01,Madhya Pradesh,BSNL,4696704.0,cur
+2024-06-01,Madhya Pradesh,Jio,44122953.0,cur
+2024-09-01,Kerala,BSNL,8705813.0,cur
+2024-06-01,Maharashtra,Airtel,22077455.0,cur
+2024-06-01,Maharashtra,Vi,21905959.0,cur
+2024-09-01,Kerala,Vi,13240071.0,cur
+2024-06-01,Maharashtra,BSNL,5676824.0,cur
+2024-06-01,Maharashtra,Jio,43684161.0,cur
+2024-09-01,Kerala,Airtel,8765522.0,cur
+2024-06-01,Mumbai,Airtel,10141827.0,cur
+2024-06-01,Mumbai,Vi,10715322.0,cur
+2024-06-01,Kolkata,Jio,10942648.0,cur
+2024-06-01,Kolkata,BSNL,1368962.0,cur
+2024-09-01,Kolkata,Vi,5124382.0,cur
+2024-06-01,Kolkata,Vi,5243235.0,cur
+2024-06-01,Jammu & Kashmir,BSNL,778473.0,cur
+2024-06-01,Jammu & Kashmir,Jio,5170633.0,cur
+2024-09-01,Madhya Pradesh,BSNL,5103966.0,cur
+2024-06-01,Karnataka,Airtel,32470623.0,cur
+2024-06-01,Karnataka,Vi,6468809.0,cur
+2024-09-01,Madhya Pradesh,Vi,14826930.0,cur
+2024-06-01,Karnataka,BSNL,4120157.0,cur
+2024-09-01,Karnataka,Jio,24050978.0,cur
+2024-06-01,Karnataka,Jio,24446440.0,cur
+2024-06-01,Kerala,Airtel,8806722.0,cur
+2024-06-01,Kerala,Vi,13463485.0,cur
+2024-09-01,Kolkata,Jio,10674262.0,cur
+2024-06-01,Kerala,BSNL,8586971.0,cur
+2024-06-01,Kerala,Jio,11148150.0,cur
+2024-09-01,Kolkata,BSNL,1520952.0,cur
+2024-06-01,Kolkata,Airtel,5660644.0,cur
+2024-09-01,Madhya Pradesh,Airtel,16194135.0,cur
+2024-09-01,Madhya Pradesh,Jio,44011162.0,cur
+2024-06-01,Mumbai,MTNL,230443.0,cur
+2024-09-01,Karnataka,BSNL,4505377.0,cur
+2024-09-01,Himachal Pradesh,Jio,3257181.0,cur
+2024-06-01,Rajasthan,BSNL,5523352.0,cur
+2024-06-01,Rajasthan,Jio,27257245.0,cur
+2024-09-01,Himachal Pradesh,BSNL,1648951.0,cur
+2024-06-01,Tamil Nadu,Airtel,29845231.0,cur
+2024-06-01,Tamil Nadu,Vi,15450255.0,cur
+2024-09-01,Himachal Pradesh,Vi,384694.0,cur
+2024-06-01,Tamil Nadu,BSNL,7511615.0,cur
+2024-06-01,Tamil Nadu,Jio,25921142.0,cur
+2024-09-01,Himachal Pradesh,Airtel,3543951.0,cur
+2024-06-01,U.P. (East),Airtel,37400385.0,cur
+2024-06-01,U.P. (East),Vi,17104862.0,cur
+2024-09-01,Haryana,Jio,8417076.0,cur
+2024-06-01,U.P. (East),BSNL,7473038.0,cur
+2024-06-01,U.P. (East),Jio,40853555.0,cur
+2024-06-01,Rajasthan,Vi,10485204.0,cur
+2024-06-01,Rajasthan,Airtel,23591034.0,cur
+2024-09-01,Jammu & Kashmir,Airtel,6101622.0,cur
+2024-06-01,Punjab,Jio,12250641.0,cur
+2024-06-01,North East,Airtel,6363875.0,cur
+2024-06-01,North East,Vi,725562.0,cur
+2024-09-01,Karnataka,Vi,6398356.0,cur
+2024-06-01,North East,BSNL,1228962.0,cur
+2024-06-01,North East,Jio,4417294.0,cur
+2024-09-01,Karnataka,Airtel,32032297.0,cur
+2024-06-01,Odisha,Airtel,11681370.0,cur
+2024-06-01,Mumbai,Jio,13248435.0,cur
+2024-06-01,Odisha,Vi,1398255.0,cur
+2024-06-01,Odisha,BSNL,5326387.0,cur
+2024-06-01,Odisha,Jio,15765603.0,cur
+2024-09-01,Jammu & Kashmir,BSNL,918356.0,cur
+2024-06-01,Punjab,Airtel,12593886.0,cur
+2024-06-01,Punjab,Vi,6411404.0,cur
+2024-09-01,Jammu & Kashmir,Vi,270706.0,cur
+2024-06-01,Punjab,BSNL,3714894.0,cur
+2024-09-01,Jammu & Kashmir,Jio,5064598.0,cur
+2024-06-01,Jammu & Kashmir,Vi,286760.0,cur
+2024-06-01,Jammu & Kashmir,Airtel,6179394.0,cur
+2024-09-01,Maharashtra,Airtel,22167747.0,cur
+2026-03-01,U.P. (East),Jio,44076149.0,cur
+2024-09-01,Punjab,BSNL,4149718.0,cur
+2026-03-01,U.P. (West),Airtel,22650740.0,cur
+2026-03-01,U.P. (West),Vi,12486372.0,cur
+2024-09-01,Punjab,Vi,6266553.0,cur
+2026-03-01,U.P. (West),BSNL,5178467.0,cur
+2026-03-01,U.P. (West),Jio,25926452.0,cur
+2024-09-01,Punjab,Airtel,12343209.0,cur
+2026-03-01,West Bengal,Airtel,18897474.0,cur
+2026-03-01,West Bengal,Vi,10290794.0,cur
+2024-09-01,Odisha,Jio,15446786.0,cur
+2026-03-01,West Bengal,BSNL,2644149.0,cur
+2026-03-01,West Bengal,Jio,26029005.0,cur
+2024-09-01,Odisha,BSNL,5514987.0,cur
+2024-06-01,Andhra Pradesh,Airtel,34108778.0,cur
+2026-03-01,U.P. (East),BSNL,8460976.0,cur
+2024-09-01,Punjab,Jio,11452678.0,cur
+2026-03-01,U.P. (East),Vi,15881819.0,cur
+2026-03-01,U.P. (East),Airtel,41112752.0,cur
+2024-09-01,Tamil Nadu,Vi,15145802.0,cur
+2026-03-01,Punjab,BSNL,4098495.0,cur
+2026-03-01,Punjab,Jio,11681843.0,cur
+2024-09-01,Tamil Nadu,Airtel,29721923.0,cur
+2026-03-01,Rajasthan,Airtel,25919581.0,cur
+2026-03-01,Rajasthan,Vi,8381177.0,cur
+2024-09-01,Rajasthan,Jio,26359937.0,cur
+2024-06-01,Andhra Pradesh,Vi,10689294.0,cur
+2026-03-01,Rajasthan,BSNL,5739342.0,cur
+2024-09-01,Rajasthan,BSNL,5607144.0,cur
+2026-03-01,Tamil Nadu,Airtel,33196496.0,cur
+2026-03-01,Tamil Nadu,Vi,14319339.0,cur
+2024-09-01,Rajasthan,Vi,9785029.0,cur
+2026-03-01,Tamil Nadu,BSNL,7982319.0,cur
+2026-03-01,Tamil Nadu,Jio,25015812.0,cur
+2024-09-01,Rajasthan,Airtel,23013606.0,cur
+2026-03-01,Rajasthan,Jio,27741623.0,cur
+2024-09-01,Odisha,Vi,1405342.0,cur
+2024-06-01,Andhra Pradesh,BSNL,6279421.0,cur
+2024-06-01,Andhra Pradesh,Jio,33070341.0,cur
+2024-06-01,Gujarat,Vi,20379486.0,cur
+2024-09-01,Mumbai,Vi,10719976.0,cur
+2024-06-01,Gujarat,BSNL,2679193.0,cur
+2024-06-01,Gujarat,Jio,30661946.0,cur
+2024-09-01,Mumbai,Airtel,10037605.0,cur
+2024-06-01,Haryana,Airtel,7091863.0,cur
+2024-06-01,Haryana,Vi,6717606.0,cur
+2024-06-01,Gujarat,Airtel,11944421.0,cur
+2024-09-01,Maharashtra,Jio,42505258.0,cur
+2024-06-01,Haryana,Jio,8728108.0,cur
+2024-09-01,Maharashtra,BSNL,5755259.0,cur
+2024-06-01,Himachal Pradesh,Airtel,3595981.0,cur
+2024-06-01,Himachal Pradesh,Vi,392830.0,cur
+2024-09-01,Maharashtra,Vi,21454681.0,cur
+2024-06-01,Himachal Pradesh,BSNL,1513110.0,cur
+2024-06-01,Himachal Pradesh,Jio,3326252.0,cur
+2024-06-01,Haryana,BSNL,4055837.0,cur
+2024-09-01,Haryana,BSNL,4090143.0,cur
+2024-09-01,Mumbai,MTNL,222576.0,cur
+2024-06-01,Delhi,MTNL,1684323.0,cur
+2024-09-01,Odisha,Airtel,11713511.0,cur
+2024-06-01,Assam,Airtel,11966802.0,cur
+2024-06-01,Assam,Vi,1523045.0,cur
+2024-09-01,North East,Jio,4216092.0,cur
+2024-06-01,Assam,BSNL,2976580.0,cur
+2024-06-01,Assam,Jio,10032509.0,cur
+2024-09-01,North East,BSNL,1288485.0,cur
+2024-06-01,Delhi,Jio,20464520.0,cur
+2024-06-01,Bihar,Airtel,41485026.0,cur
+2024-09-01,North East,Vi,686784.0,cur
+2024-06-01,Bihar,BSNL,5201342.0,cur
+2024-06-01,Bihar,Jio,41820105.0,cur
+2024-09-01,North East,Airtel,6220020.0,cur
+2024-06-01,Delhi,Airtel,18306388.0,cur
+2024-06-01,Delhi,Vi,16594301.0,cur
+2024-09-01,Mumbai,Jio,12807250.0,cur
+2024-06-01,Bihar,Vi,7651158.0,cur
+2025-03-01,West Bengal,Jio,24395255.0,cur
+2024-06-01,U.P. (West),Airtel,19004620.0,cur
+2024-09-01,Haryana,Vi,6599715.0,cur
+2026-04-01,Odisha,Airtel,13405275.0,cur
+2026-04-01,Odisha,Vi,1534143.0,cur
+2025-07-01,Tamil Nadu,Jio,24574594.0,cur
+2026-04-01,Odisha,BSNL,5501212.0,cur
+2026-04-01,Odisha,Jio,17970331.0,cur
+2025-07-01,Tamil Nadu,BSNL,7786672.0,cur
+2026-04-01,Punjab,Airtel,14180852.0,cur
+2026-04-01,Punjab,Vi,5641873.0,cur
+2025-07-01,Tamil Nadu,Vi,14502108.0,cur
+2026-04-01,Punjab,BSNL,4103016.0,cur
+2026-04-01,Punjab,Jio,11693275.0,cur
+2025-07-01,Tamil Nadu,Airtel,30671841.0,cur
+2026-04-01,Rajasthan,Airtel,26113715.0,cur
+2026-04-01,Rajasthan,Vi,8314223.0,cur
+2025-07-01,Rajasthan,Jio,26733882.0,cur
+2025-07-01,U.P. (East),Airtel,36081574.0,cur
+2026-04-01,North East,Jio,4682631.0,cur
+2026-04-01,North East,BSNL,1296058.0,cur
+2025-07-01,U.P. (East),Vi,15968617.0,cur
+2026-04-01,Madhya Pradesh,Jio,49953871.0,cur
+2025-07-01,U.P. (West),BSNL,4973433.0,cur
+2026-04-01,Maharashtra,Airtel,32726341.0,cur
+2026-04-01,Maharashtra,Vi,20597024.0,cur
+2025-07-01,U.P. (West),Vi,14162137.0,cur
+2026-04-01,Maharashtra,BSNL,5316718.0,cur
+2026-04-01,Maharashtra,Jio,44226664.0,cur
+2026-04-01,Rajasthan,BSNL,5742178.0,cur
+2025-07-01,U.P. (West),Airtel,18821303.0,cur
+2026-04-01,Mumbai,Vi,10821735.0,cur
+2025-07-01,U.P. (East),Jio,42684115.0,cur
+2026-04-01,Mumbai,MTNL,52357.0,cur
+2026-04-01,Mumbai,Jio,13426809.0,cur
+2025-07-01,U.P. (East),BSNL,8069909.0,cur
+2026-04-01,North East,Airtel,6773477.0,cur
+2026-04-01,North East,Vi,596157.0,cur
+2026-04-01,Mumbai,Airtel,16078527.0,cur
+2026-04-01,Madhya Pradesh,BSNL,5140116.0,cur
+2026-04-01,Rajasthan,Jio,27858385.0,cur
+2026-04-01,Tamil Nadu,Airtel,33322607.0,cur
+2026-04-01,West Bengal,BSNL,2643440.0,cur
+2026-04-01,West Bengal,Jio,26193824.0,cur
+2025-07-01,Odisha,BSNL,5529977.0,cur
+2025-06-01,Andhra Pradesh,Airtel,34242244.0,cur
+2025-06-01,Andhra Pradesh,Vi,9596019.0,cur
+2025-07-01,Odisha,Vi,1454416.0,cur
+2025-06-01,Andhra Pradesh,BSNL,6914850.0,cur
+2025-06-01,Andhra Pradesh,Jio,31919256.0,cur
+2025-07-01,Odisha,Airtel,11982404.0,cur
+2025-06-01,Assam,Airtel,12307089.0,cur
+2025-06-01,Assam,Vi,1429694.0,cur
+2025-07-01,North East,Jio,4397036.0,cur
+2025-06-01,Assam,BSNL,2949537.0,cur
+2025-06-01,Assam,Jio,9755628.0,cur
+2025-07-01,North East,BSNL,1276976.0,cur
+2025-07-01,Odisha,Jio,16420531.0,cur
+2026-04-01,West Bengal,Vi,10237044.0,cur
+2026-04-01,West Bengal,Airtel,18941712.0,cur
+2025-07-01,Punjab,Airtel,12530737.0,cur
+2026-04-01,Tamil Nadu,Vi,14302284.0,cur
+2025-07-01,Rajasthan,Vi,8886044.0,cur
+2026-04-01,Tamil Nadu,BSNL,7947847.0,cur
+2026-04-01,Tamil Nadu,Jio,25047405.0,cur
+2025-07-01,Rajasthan,Airtel,23418747.0,cur
+2026-04-01,U.P. (East),Airtel,41356367.0,cur
+2026-04-01,U.P. (East),Vi,16081714.0,cur
+2025-07-01,Rajasthan,BSNL,5624794.0,cur
+2025-07-01,Punjab,Jio,11371007.0,cur
+2026-04-01,U.P. (East),Jio,44480957.0,cur
+2025-07-01,Punjab,BSNL,4052811.0,cur
+2026-04-01,U.P. (West),Airtel,23008979.0,cur
+2026-04-01,U.P. (West),Vi,12413016.0,cur
+2025-07-01,Punjab,Vi,5860493.0,cur
+2026-04-01,U.P. (West),BSNL,5163335.0,cur
+2026-04-01,U.P. (West),Jio,26070008.0,cur
+2026-04-01,U.P. (East),BSNL,8455120.0,cur
+2025-07-01,U.P. (West),Jio,24897176.0,cur
+2026-04-01,Madhya Pradesh,Vi,12507611.0,cur
+2026-04-01,Madhya Pradesh,Airtel,18400729.0,cur
+2024-09-01,Delhi,MTNL,1684335.0,cur
+2026-04-01,Bihar,Airtel,49517464.0,cur
+2026-04-01,Bihar,Vi,7434457.0,cur
+2024-09-01,Delhi,Vi,16744837.0,cur
+2026-04-01,Bihar,BSNL,5625714.0,cur
+2026-04-01,Bihar,Jio,45149439.0,cur
+2024-09-01,Delhi,Airtel,18343793.0,cur
+2026-04-01,Delhi,Airtel,39262547.0,cur
+2026-04-01,Delhi,Vi,16189801.0,cur
+2024-09-01,Bihar,Jio,40831802.0,cur
+2026-04-01,Delhi,MTNL,129207.0,cur
+2026-04-01,Delhi,Jio,20612684.0,cur
+2024-09-01,Bihar,BSNL,6022905.0,cur
+2026-04-01,Gujarat,Airtel,15723878.0,cur
+2026-04-01,Gujarat,Vi,19729396.0,cur
+2026-04-01,Assam,Jio,10060108.0,cur
+2026-04-01,Assam,BSNL,2922793.0,cur
+2024-09-01,Delhi,Jio,19743455.0,cur
+2026-04-01,Assam,Vi,1485056.0,cur
+2024-06-01,U.P. (West),BSNL,4747091.0,cur
+2024-06-01,U.P. (West),Jio,24691463.0,cur
+2024-09-01,Haryana,Airtel,7041795.0,cur
+2024-06-01,West Bengal,Airtel,18400179.0,cur
+2024-06-01,West Bengal,Vi,12925151.0,cur
+2024-09-01,Gujarat,Jio,29672226.0,cur
+2024-06-01,West Bengal,BSNL,2310124.0,cur
+2024-09-01,Bihar,Vi,7521467.0,cur
+2024-06-01,West Bengal,Jio,24503076.0,cur
+2026-04-01,Andhra Pradesh,Airtel,38970326.0,cur
+2026-04-01,Andhra Pradesh,Vi,8802096.0,cur
+2024-09-01,Gujarat,Vi,20108619.0,cur
+2026-04-01,Andhra Pradesh,BSNL,7557962.0,cur
+2026-04-01,Andhra Pradesh,Jio,32478104.0,cur
+2024-09-01,Gujarat,Airtel,12046106.0,cur
+2026-04-01,Assam,Airtel,14896478.0,cur
+2024-09-01,Gujarat,BSNL,3262611.0,cur
+2026-04-01,Gujarat,BSNL,3295987.0,cur
+2026-04-01,Gujarat,Jio,33131377.0,cur
+2024-09-01,Bihar,Airtel,40272539.0,cur
+2024-09-01,Andhra Pradesh,Vi,10317179.0,cur
+2026-04-01,Karnataka,BSNL,4725412.0,cur
+2026-04-01,Karnataka,Jio,26465455.0,cur
+2024-09-01,Andhra Pradesh,Airtel,33608237.0,cur
+2026-04-01,Kerala,Airtel,9631490.0,cur
+2026-04-01,Kerala,Vi,12764197.0,cur
+2025-07-01,West Bengal,Jio,25034395.0,cur
+2026-04-01,Karnataka,Vi,7615960.0,cur
+2026-04-01,Kerala,BSNL,8961337.0,cur
+2025-07-01,West Bengal,BSNL,2583586.0,cur
+2026-04-01,Kolkata,Airtel,5981811.0,cur
+2026-04-01,Kolkata,Vi,4568463.0,cur
+2025-07-01,West Bengal,Vi,11416726.0,cur
+2026-04-01,Kolkata,BSNL,1426037.0,cur
+2026-04-01,Kolkata,Jio,11087736.0,cur
+2025-07-01,West Bengal,Airtel,18449535.0,cur
+2026-04-01,Kerala,Jio,11115720.0,cur
+2024-06-01,U.P. (West),Vi,15399180.0,cur
+2026-04-01,Karnataka,Airtel,44269515.0,cur
+2026-04-01,Jammu & Kashmir,Jio,5696363.0,cur
+2026-04-01,Haryana,Airtel,7887027.0,cur
+2026-04-01,Haryana,Vi,6224074.0,cur
+2024-09-01,Assam,Jio,9796756.0,cur
+2026-04-01,Haryana,BSNL,4559710.0,cur
+2026-04-01,Haryana,Jio,8303484.0,cur
+2024-09-01,Assam,BSNL,2963211.0,cur
+2026-04-01,Himachal Pradesh,Airtel,3637192.0,cur
+2024-09-01,Andhra Pradesh,BSNL,6748163.0,cur
+2026-04-01,Himachal Pradesh,Vi,396820.0,cur
+2026-04-01,Himachal Pradesh,BSNL,1780772.0,cur
+2026-04-01,Himachal Pradesh,Jio,3577538.0,cur
+2024-09-01,Assam,Airtel,11754115.0,cur
+2026-04-01,Jammu & Kashmir,Airtel,6796765.0,cur
+2026-04-01,Jammu & Kashmir,Vi,280908.0,cur
+2024-09-01,Andhra Pradesh,Jio,31933802.0,cur
+2026-04-01,Jammu & Kashmir,BSNL,854884.0,cur
+2024-09-01,Assam,Vi,1471300.0,cur
+2025-03-01,West Bengal,BSNL,2637783.0,cur
+2024-08-01,Kolkata,Vi,5161501.0,cur
+2025-08-01,Maharashtra,Airtel,22917455.0,cur
+2025-09-01,Assam,Vi,1447675.0,cur
+2025-01-01,Himachal Pradesh,Airtel,3565291.0,cur
+2026-05-01,West Bengal,Airtel,19258903.0,cur
+2024-03-01,Kerala,Vi,13645704.0,cur
+2025-09-01,Andhra Pradesh,Jio,31798288.0,cur
+2026-05-01,West Bengal,Vi,10210727.0,cur
+2025-09-01,Andhra Pradesh,Vi,9379273.0,cur
+2024-03-01,Kerala,BSNL,9049332.0,cur
+2026-05-01,West Bengal,BSNL,2641533.0,cur
+2025-08-01,West Bengal,Jio,25085842.0,cur
+2025-01-01,Haryana,Jio,8313864.0,cur
+2024-03-01,Kerala,Jio,10983541.0,cur
+2025-08-01,West Bengal,BSNL,2618398.0,cur
+2026-05-01,West Bengal,Jio,26336227.0,cur
+2025-08-01,West Bengal,Vi,11323801.0,cur
+2025-08-01,West Bengal,Airtel,18438974.0,cur
+2025-02-01,Andhra Pradesh,Airtel,33860754.0,cur
+2024-03-01,Kolkata,Airtel,5693000.0,cur
+2025-08-01,U.P. (West),Jio,24935214.0,cur
+2025-01-01,Haryana,BSNL,4188584.0,cur
+2025-08-01,U.P. (West),BSNL,5104295.0,cur
+2025-02-01,Andhra Pradesh,Vi,9845623.0,cur
+2025-08-01,U.P. (West),Vi,14074444.0,cur
+2024-03-01,Kolkata,Vi,5279015.0,cur
+2025-08-01,U.P. (West),Airtel,18851882.0,cur
+2025-02-01,Andhra Pradesh,BSNL,6903380.0,cur
+2025-08-01,U.P. (East),Jio,42928104.0,cur
+2025-09-01,Assam,Jio,9794863.0,cur
+2024-03-01,Kerala,Airtel,8578649.0,cur
+2026-05-01,U.P. (West),Jio,26207243.0,cur
+2025-09-01,Bihar,Vi,7834785.0,cur
+2024-03-01,Jammu & Kashmir,Vi,297927.0,cur
+2026-05-01,Tamil Nadu,Jio,25096131.0,cur
+2025-09-01,Himachal Pradesh,Jio,3359847.0,cur
+2024-03-01,Jammu & Kashmir,BSNL,781259.0,cur
+2025-09-01,Himachal Pradesh,Vi,387143.0,cur
+2026-05-01,U.P. (East),Airtel,41649868.0,cur
+2025-01-01,Himachal Pradesh,Jio,3216554.0,cur
+2025-09-01,Haryana,Jio,8416992.0,cur
+2024-03-01,Jammu & Kashmir,Jio,5039894.0,cur
+2026-05-01,U.P. (East),Vi,16403959.0,cur
+2025-09-01,Haryana,Vi,6239824.0,cur
+2026-05-01,U.P. (East),BSNL,8457382.0,cur
+2025-09-01,Gujarat,Jio,31733090.0,cur
+2024-03-01,Kolkata,BSNL,1783000.0,cur
+2024-03-01,Karnataka,Airtel,32180209.0,cur
+2025-09-01,Gujarat,Vi,19430077.0,cur
+2026-05-01,U.P. (East),Jio,44687286.0,cur
+2024-03-01,Karnataka,Vi,6409744.0,cur
+2025-09-01,Delhi,Jio,20304682.0,cur
+2026-05-01,U.P. (West),Airtel,23203685.0,cur
+2025-09-01,Delhi,MTNL,139856.0,cur
+2024-03-01,Karnataka,BSNL,4163875.0,cur
+2025-09-01,Delhi,Vi,17025337.0,cur
+2026-05-01,U.P. (West),Vi,12358584.0,cur
+2025-01-01,Himachal Pradesh,Vi,374422.0,cur
+2025-09-01,Bihar,Jio,43176952.0,cur
+2026-05-01,U.P. (West),BSNL,5169858.0,cur
+2024-03-01,Karnataka,Jio,24153860.0,cur
+2025-01-01,Himachal Pradesh,BSNL,1668449.0,cur
+2025-08-01,U.P. (East),BSNL,8263805.0,cur
+2025-02-01,Andhra Pradesh,Jio,31790196.0,cur
+2025-01-01,Haryana,Vi,6369739.0,cur
+2025-08-01,Odisha,BSNL,5558768.0,cur
+2025-02-01,Bihar,Jio,41361261.0,cur
+2025-08-01,Odisha,Vi,1464721.0,cur
+2024-03-01,Maharashtra,BSNL,5729299.0,cur
+2025-08-01,Odisha,Airtel,12041180.0,cur
+2025-02-01,Delhi,Airtel,18682396.0,cur
+2025-01-01,Gujarat,Vi,19682084.0,cur
+2025-08-01,North East,Jio,4405505.0,cur
+2024-03-01,Maharashtra,Jio,43484846.0,cur
+2025-08-01,North East,BSNL,1265400.0,cur
+2025-02-01,Delhi,Vi,16609337.0,cur
+2025-08-01,North East,Vi,623613.0,cur
+2024-03-01,Mumbai,Airtel,10038459.0,cur
+2024-03-01,Maharashtra,Vi,22274096.0,cur
+2025-08-01,North East,Airtel,6456645.0,cur
+2025-08-01,Mumbai,Jio,13181320.0,cur
+2025-01-01,Gujarat,Airtel,12308365.0,cur
+2025-08-01,Mumbai,MTNL,128673.0,cur
+2025-02-01,Delhi,Jio,19700790.0,cur
+2024-03-01,Mumbai,Vi,10962574.0,cur
+2025-08-01,Mumbai,Vi,10711565.0,cur
+2025-08-01,Mumbai,Airtel,10087793.0,cur
+2024-03-01,Mumbai,MTNL,240007.0,cur
+2025-02-01,Gujarat,Airtel,12352213.0,cur
+2025-08-01,Maharashtra,Jio,42750188.0,cur
+2025-01-01,Delhi,Jio,19699756.0,cur
+2025-08-01,Maharashtra,BSNL,5269712.0,cur
+2025-02-01,Gujarat,Vi,19675139.0,cur
+2025-02-01,Delhi,MTNL,789439.0,cur
+2025-09-01,Jammu & Kashmir,Vi,253008.0,cur
+2025-08-01,Odisha,Jio,16569457.0,cur
+2025-01-01,Gujarat,BSNL,3310773.0,cur
+2025-08-01,U.P. (East),Vi,15931810.0,cur
+2024-03-01,Kolkata,Jio,10912379.0,cur
+2025-08-01,U.P. (East),Airtel,35998468.0,cur
+2025-02-01,Assam,Airtel,12055507.0,cur
+2025-08-01,Tamil Nadu,Jio,24596968.0,cur
+2024-03-01,Madhya Pradesh,Airtel,16164992.0,cur
+2025-08-01,Tamil Nadu,BSNL,7899317.0,cur
+2025-02-01,Assam,Vi,1417678.0,cur
+2025-08-01,Tamil Nadu,Vi,14450929.0,cur
+2025-01-01,Haryana,Airtel,7134781.0,cur
+2024-03-01,Madhya Pradesh,Vi,15548612.0,cur
+2025-08-01,Tamil Nadu,Airtel,30791628.0,cur
+2025-02-01,Assam,BSNL,2967914.0,cur
+2025-02-01,Bihar,BSNL,5782332.0,cur
+2025-08-01,Rajasthan,Jio,26840210.0,cur
+2024-03-01,Madhya Pradesh,BSNL,4706319.0,cur
+2025-02-01,Assam,Jio,9722615.0,cur
+2025-08-01,Rajasthan,Vi,8804377.0,cur
+2025-01-01,Gujarat,Jio,29884152.0,cur
+2025-08-01,Rajasthan,Airtel,23350479.0,cur
+2025-02-01,Bihar,Airtel,40895126.0,cur
+2025-08-01,Punjab,Jio,11344386.0,cur
+2024-03-01,Madhya Pradesh,Jio,43079693.0,cur
+2025-08-01,Punjab,BSNL,4073746.0,cur
+2025-02-01,Bihar,Vi,7656740.0,cur
+2024-03-01,Maharashtra,Airtel,21758839.0,cur
+2025-08-01,Punjab,Vi,5816725.0,cur
+2025-08-01,Punjab,Airtel,12541673.0,cur
+2025-08-01,Rajasthan,BSNL,5706894.0,cur
+2026-05-01,Tamil Nadu,BSNL,7906366.0,cur
+2025-09-01,Jammu & Kashmir,Jio,5255130.0,cur
+2025-01-01,Jammu & Kashmir,Airtel,6110170.0,cur
+2026-05-01,Madhya Pradesh,Vi,12441469.0,cur
+2025-01-01,Kerala,Jio,10710707.0,cur
+2024-03-01,Assam,Jio,9910354.0,cur
+2026-05-01,Madhya Pradesh,BSNL,5132545.0,cur
+2026-05-01,Madhya Pradesh,Jio,50272816.0,cur
+2025-10-01,Bihar,BSNL,5661772.0,cur
+2024-03-01,Bihar,Airtel,41601529.0,cur
+2025-01-01,Kerala,BSNL,8743507.0,cur
+2026-05-01,Maharashtra,Airtel,33220613.0,cur
+2024-03-01,Bihar,Vi,7689305.0,cur
+2025-10-01,Assam,BSNL,3003459.0,cur
+2026-05-01,Maharashtra,Vi,20581895.0,cur
+2026-05-01,Maharashtra,BSNL,5284267.0,cur
+2025-10-01,Gujarat,BSNL,3295586.0,cur
+2024-03-01,Bihar,BSNL,5232153.0,cur
+2026-05-01,Maharashtra,Jio,44467631.0,cur
+2024-03-01,Bihar,Jio,40953756.0,cur
+2025-09-01,West Bengal,Jio,25265384.0,cur
+2026-05-01,Mumbai,Airtel,16206457.0,cur
+2025-09-01,West Bengal,Vi,11205365.0,cur
+2024-03-01,Delhi,Airtel,18185677.0,cur
+2026-05-01,Mumbai,Vi,10712900.0,cur
+2025-09-01,U.P. (West),Jio,25135836.0,cur
+2025-01-01,Kerala,Airtel,8891514.0,cur
+2025-09-01,U.P. (West),Vi,13886112.0,cur
+2024-03-01,Delhi,Vi,16542428.0,cur
+2026-05-01,Mumbai,Jio,13342742.0,cur
+2025-09-01,U.P. (East),Jio,43278138.0,cur
+2025-01-01,Kerala,Vi,12991598.0,cur
+2024-03-01,Delhi,MTNL,1685818.0,cur
+2024-03-01,Assam,BSNL,3076922.0,cur
+2025-10-01,Haryana,BSNL,4423576.0,cur
+2026-05-01,Karnataka,Vi,7620337.0,cur
+2025-01-01,Kolkata,Jio,10667894.0,cur
+2026-05-01,Karnataka,BSNL,4739380.0,cur
+2025-10-01,Madhya Pradesh,BSNL,5128929.0,cur
+2024-04-01,West Bengal,Jio,24419223.0,cur
+2026-05-01,Karnataka,Jio,26665384.0,cur
+2024-03-01,Andhra Pradesh,Airtel,33747893.0,cur
+2025-10-01,Kolkata,BSNL,1415911.0,cur
+2026-05-01,Kerala,Airtel,9748800.0,cur
+2025-01-01,Kolkata,BSNL,1460493.0,cur
+2026-05-01,Kerala,Vi,12750255.0,cur
+2025-10-01,Kerala,BSNL,8931766.0,cur
+2024-03-01,Andhra Pradesh,Vi,10775447.0,cur
+2026-05-01,Madhya Pradesh,Airtel,18558123.0,cur
+2026-05-01,Kerala,BSNL,8970872.0,cur
+2025-10-01,Karnataka,BSNL,4653548.0,cur
+2026-05-01,Kerala,Jio,11143678.0,cur
+2025-01-01,Kolkata,Vi,4905270.0,cur
+2024-03-01,Andhra Pradesh,Jio,32746418.0,cur
+2026-05-01,Kolkata,Airtel,6020324.0,cur
+2025-10-01,Jammu & Kashmir,BSNL,864947.0,cur
+2026-05-01,Kolkata,Vi,4542132.0,cur
+2024-03-01,Assam,Airtel,11816732.0,cur
+2025-10-01,Himachal Pradesh,BSNL,1759107.0,cur
+2025-01-01,Kolkata,Airtel,5450894.0,cur
+2026-05-01,Kolkata,BSNL,1427641.0,cur
+2026-05-01,Kolkata,Jio,11100615.0,cur
+2024-03-01,Assam,Vi,1562512.0,cur
+2024-03-01,Andhra Pradesh,BSNL,6555686.0,cur
+2025-08-01,Maharashtra,Vi,20412459.0,cur
+2025-09-01,U.P. (East),Vi,15838669.0,cur
+2025-01-01,Karnataka,Jio,24561452.0,cur
+2024-03-01,Haryana,BSNL,4105614.0,cur
+2026-05-01,Punjab,BSNL,4104876.0,cur
+2025-01-01,Jammu & Kashmir,Jio,4879387.0,cur
+2025-09-01,Maharashtra,Jio,42907222.0,cur
+2025-09-01,Maharashtra,Vi,20462963.0,cur
+2024-03-01,Haryana,Jio,8730215.0,cur
+2026-05-01,Punjab,Jio,11755036.0,cur
+2025-09-01,Madhya Pradesh,Jio,47153670.0,cur
+2024-03-01,Himachal Pradesh,Airtel,3580729.0,cur
+2026-05-01,Rajasthan,Airtel,26261236.0,cur
+2025-09-01,Madhya Pradesh,Vi,13100708.0,cur
+2025-01-01,Jammu & Kashmir,BSNL,869359.0,cur
+2026-05-01,Rajasthan,Vi,8212020.0,cur
+2025-09-01,Mumbai,Vi,10778948.0,cur
+2025-09-01,Kolkata,Jio,10874931.0,cur
+2025-09-01,Kolkata,Vi,4749947.0,cur
+2026-05-01,Rajasthan,BSNL,5757236.0,cur
+2024-03-01,Himachal Pradesh,BSNL,1471707.0,cur
+2025-09-01,Kerala,Jio,10947296.0,cur
+2026-05-01,Rajasthan,Jio,28074665.0,cur
+2025-09-01,Kerala,Vi,12763783.0,cur
+2025-01-01,Jammu & Kashmir,Vi,258390.0,cur
+2024-03-01,Himachal Pradesh,Jio,3347915.0,cur
+2026-05-01,Tamil Nadu,Airtel,33412949.0,cur
+2025-09-01,Karnataka,Jio,25651387.0,cur
+2025-09-01,Karnataka,Vi,7124815.0,cur
+2026-05-01,Tamil Nadu,Vi,14201784.0,cur
+2024-03-01,Jammu & Kashmir,Airtel,5959033.0,cur
+2024-03-01,Himachal Pradesh,Vi,399925.0,cur
+2026-05-01,North East,Airtel,6789479.0,cur
+2026-05-01,Punjab,Vi,5617168.0,cur
+2024-03-01,Haryana,Vi,6760161.0,cur
+2024-03-01,Delhi,Jio,20284618.0,cur
+2025-09-01,Tamil Nadu,Jio,24730303.0,cur
+2026-05-01,North East,Vi,597071.0,cur
+2025-09-01,Tamil Nadu,Vi,14364237.0,cur
+2026-05-01,North East,BSNL,1296289.0,cur
+2024-03-01,Gujarat,Airtel,11867361.0,cur
+2025-09-01,Rajasthan,Jio,26919616.0,cur
+2025-01-01,Karnataka,BSNL,4564330.0,cur
+2025-09-01,Rajasthan,Vi,8684024.0,cur
+2026-05-01,North East,Jio,4693114.0,cur
+2024-03-01,Gujarat,Vi,20718941.0,cur
+2025-09-01,Punjab,Jio,11488426.0,cur
+2026-05-01,Odisha,Airtel,13370540.0,cur
+2025-09-01,Mumbai,MTNL,105785.0,cur
+2025-09-01,Punjab,Vi,5759358.0,cur
+2026-05-01,Odisha,Vi,1525249.0,cur
+2025-09-01,Odisha,Jio,16765916.0,cur
+2025-01-01,Karnataka,Vi,6572969.0,cur
+2024-03-01,Gujarat,Jio,30151939.0,cur
+2025-09-01,Odisha,Vi,1472701.0,cur
+2026-05-01,Odisha,BSNL,5499804.0,cur
+2025-09-01,North East,Jio,4411717.0,cur
+2026-05-01,Odisha,Jio,18064429.0,cur
+2025-09-01,North East,Vi,618037.0,cur
+2024-03-01,Haryana,Airtel,7025769.0,cur
+2025-01-01,Karnataka,Airtel,32216163.0,cur
+2026-05-01,Punjab,Airtel,14089157.0,cur
+2025-09-01,Mumbai,Jio,13333190.0,cur
+2024-03-01,Gujarat,BSNL,3228496.0,cur
+2024-04-01,West Bengal,BSNL,2313911.0,cur
+2024-03-01,Mumbai,Jio,13117048.0,cur
+2025-02-01,Gujarat,BSNL,3302506.0,cur
+2025-02-01,West Bengal,BSNL,2669657.0,cur
+2025-11-01,Odisha,Vi,1490368.0,cur
+2025-02-01,North East,Airtel,6297679.0,cur
+2025-11-01,Odisha,Airtel,12020240.0,cur
+2025-11-01,Andhra Pradesh,Vi,9031100.0,cur
+2025-11-01,North East,Jio,4424098.0,cur
+2025-02-01,North East,Vi,643723.0,cur
+2025-11-01,North East,BSNL,1294812.0,cur
+2025-11-01,Andhra Pradesh,BSNL,7440211.0,cur
+2025-11-01,North East,Vi,609261.0,cur
+2025-02-01,North East,BSNL,1287306.0,cur
+2025-02-01,West Bengal,Vi,11722068.0,cur
+2025-11-01,North East,Airtel,6477368.0,cur
+2025-11-01,Andhra Pradesh,Jio,31885087.0,cur
+2025-11-01,Mumbai,Jio,13310110.0,cur
+2025-02-01,North East,Jio,4293124.0,cur
+2025-11-01,Mumbai,MTNL,98027.0,cur
+2025-11-01,Assam,Airtel,12474233.0,cur
+2025-11-01,Mumbai,Vi,10768783.0,cur
+2025-02-01,Odisha,Airtel,11810695.0,cur
+2025-11-01,Mumbai,Airtel,10099790.0,cur
+2025-02-01,West Bengal,Airtel,18414246.0,cur
+2025-11-01,Assam,Vi,1453097.0,cur
+2025-11-01,Maharashtra,Jio,43257600.0,cur
+2025-02-01,Odisha,Vi,1394725.0,cur
+2025-11-01,Maharashtra,BSNL,5338162.0,cur
+2025-11-01,Maharashtra,Vi,20565441.0,cur
+2025-11-01,Odisha,BSNL,5532821.0,cur
+2025-11-01,Andhra Pradesh,Airtel,34475970.0,cur
+2025-02-01,Mumbai,Jio,13045333.0,cur
+2025-11-01,Odisha,Jio,17093395.0,cur
+2025-11-01,U.P. (East),Airtel,36115229.0,cur
+2024-03-01,U.P. (West),BSNL,4874908.0,cur
+2025-01-01,Andhra Pradesh,Vi,9878936.0,cur
+2025-11-01,Tamil Nadu,Jio,24712402.0,cur
+2025-02-01,Maharashtra,Vi,20415258.0,cur
+2025-11-01,Tamil Nadu,BSNL,7975145.0,cur
+2024-03-01,U.P. (West),Jio,24279514.0,cur
+2025-11-01,Tamil Nadu,Vi,14293839.0,cur
+2025-02-01,Maharashtra,BSNL,5299872.0,cur
+2025-11-01,Tamil Nadu,Airtel,31136920.0,cur
+2024-03-01,West Bengal,Airtel,18102939.0,cur
+2025-11-01,Rajasthan,Jio,27079384.0,cur
+2025-02-01,Maharashtra,Jio,42370458.0,cur
+2025-11-01,Assam,BSNL,2955717.0,cur
+2025-11-01,Rajasthan,BSNL,5739076.0,cur
+2024-03-01,West Bengal,Vi,13068442.0,cur
+2025-11-01,Rajasthan,Vi,8486300.0,cur
+2025-02-01,Mumbai,Airtel,10129508.0,cur
+2025-11-01,Rajasthan,Airtel,23412034.0,cur
+2025-11-01,Punjab,Jio,11500972.0,cur
+2024-03-01,West Bengal,BSNL,2331648.0,cur
+2025-02-01,Mumbai,Vi,10700586.0,cur
+2025-11-01,Punjab,BSNL,4091509.0,cur
+2025-02-01,West Bengal,Jio,24227775.0,cur
+2024-03-01,West Bengal,Jio,24396882.0,cur
+2025-11-01,Punjab,Vi,5662904.0,cur
+2025-02-01,Mumbai,MTNL,210840.0,cur
+2025-11-01,Punjab,Airtel,12691143.0,cur
+2025-01-01,Andhra Pradesh,Airtel,33735002.0,cur
+2025-02-01,Odisha,BSNL,5573420.0,cur
+2025-11-01,Maharashtra,Airtel,23311773.0,cur
+2025-02-01,U.P. (West),Jio,24260684.0,cur
+2025-11-01,Delhi,Vi,16498393.0,cur
+2025-11-01,Karnataka,Airtel,32617737.0,cur
+2025-11-01,Jammu & Kashmir,Jio,5234264.0,cur
+2025-11-01,Delhi,MTNL,137855.0,cur
+2025-02-01,Rajasthan,Jio,26301466.0,cur
+2025-11-01,Jammu & Kashmir,BSNL,863999.0,cur
+2025-02-01,U.P. (East),Jio,41378733.0,cur
+2025-11-01,Jammu & Kashmir,Vi,250037.0,cur
+2025-02-01,Tamil Nadu,Airtel,30067680.0,cur
+2025-11-01,Jammu & Kashmir,Airtel,6347246.0,cur
+2025-11-01,Delhi,Jio,20362063.0,cur
+2025-11-01,Himachal Pradesh,Jio,3363770.0,cur
+2025-02-01,Tamil Nadu,Vi,14807824.0,cur
+2025-02-01,Rajasthan,BSNL,5622038.0,cur
+2025-11-01,Himachal Pradesh,BSNL,1771470.0,cur
+2025-11-01,Himachal Pradesh,Vi,383831.0,cur
+2025-02-01,U.P. (East),BSNL,8081460.0,cur
+2025-02-01,Tamil Nadu,BSNL,7803561.0,cur
+2025-11-01,Himachal Pradesh,Airtel,3607810.0,cur
+2025-11-01,Gujarat,Vi,19154917.0,cur
+2025-11-01,Haryana,Jio,8150243.0,cur
+2025-02-01,Tamil Nadu,Jio,24623436.0,cur
+2025-11-01,Haryana,BSNL,4453936.0,cur
+2025-11-01,Gujarat,BSNL,3310283.0,cur
+2025-11-01,Haryana,Vi,6188042.0,cur
+2025-02-01,U.P. (East),Airtel,36539391.0,cur
+2025-02-01,U.P. (East),Vi,16061155.0,cur
+2025-11-01,Haryana,Airtel,7491697.0,cur
+2025-11-01,Gujarat,Airtel,12811317.0,cur
+2025-02-01,Maharashtra,Airtel,22587314.0,cur
+2025-11-01,Karnataka,Vi,7383080.0,cur
+2025-11-01,Karnataka,BSNL,4693660.0,cur
+2025-11-01,Madhya Pradesh,Jio,47842472.0,cur
+2025-02-01,Odisha,Jio,15821044.0,cur
+2025-11-01,Madhya Pradesh,BSNL,5141998.0,cur
+2025-11-01,Assam,Jio,9839724.0,cur
+2025-11-01,Madhya Pradesh,Vi,12880011.0,cur
+2025-02-01,Punjab,Airtel,12500330.0,cur
+2025-11-01,Bihar,Airtel,41235059.0,cur
+2025-11-01,Madhya Pradesh,Airtel,16925132.0,cur
+2025-11-01,Kolkata,Jio,10886695.0,cur
+2025-02-01,U.P. (West),BSNL,4995971.0,cur
+2025-02-01,Punjab,Vi,6058132.0,cur
+2025-11-01,Kolkata,BSNL,1425482.0,cur
+2025-11-01,Bihar,Vi,7574000.0,cur
+2025-02-01,U.P. (West),Airtel,18893870.0,cur
+2025-11-01,Kolkata,Vi,4681821.0,cur
+2025-11-01,Kolkata,Airtel,5262990.0,cur
+2025-11-01,Bihar,BSNL,5654203.0,cur
+2025-11-01,Kerala,Jio,10980116.0,cur
+2025-02-01,Punjab,Jio,11328559.0,cur
+2025-02-01,U.P. (West),Vi,14411142.0,cur
+2025-11-01,Kerala,BSNL,8958276.0,cur
+2025-11-01,Bihar,Jio,43721379.0,cur
+2025-11-01,Kerala,Vi,12744559.0,cur
+2025-02-01,Rajasthan,Airtel,23346647.0,cur
+2025-11-01,Kerala,Airtel,9260175.0,cur
+2025-11-01,Delhi,Airtel,19289107.0,cur
+2025-11-01,Karnataka,Jio,26076494.0,cur
+2025-02-01,Rajasthan,Vi,9218487.0,cur
+2025-02-01,Punjab,BSNL,4060849.0,cur
+2025-11-01,U.P. (East),Vi,15729073.0,cur
+2025-11-01,U.P. (East),BSNL,8449052.0,cur
+2025-02-01,Madhya Pradesh,Jio,44977398.0,cur
+2025-01-01,Bihar,Jio,41054184.0,cur
+2025-08-01,Karnataka,Airtel,32517839.0,cur
+2025-02-01,Himachal Pradesh,BSNL,1672546.0,cur
+2025-08-01,Jammu & Kashmir,Jio,5215584.0,cur
+2024-03-01,Odisha,Jio,15194499.0,cur
+2025-08-01,Jammu & Kashmir,BSNL,868064.0,cur
+2025-02-01,Himachal Pradesh,Jio,3212893.0,cur
+2025-08-01,Jammu & Kashmir,Vi,257671.0,cur
+2024-03-01,Punjab,Airtel,12627262.0,cur
+2025-08-01,Jammu & Kashmir,Airtel,6366434.0,cur
+2025-01-01,Bihar,BSNL,5972157.0,cur
+2025-02-01,Jammu & Kashmir,Airtel,6132818.0,cur
+2025-08-01,Himachal Pradesh,Jio,3284943.0,cur
+2024-03-01,Odisha,BSNL,5429594.0,cur
+2024-03-01,Punjab,Vi,6469514.0,cur
+2025-02-01,Jammu & Kashmir,Vi,248300.0,cur
+2025-08-01,Himachal Pradesh,Vi,386776.0,cur
+2024-03-01,Punjab,BSNL,3867585.0,cur
+2025-08-01,Himachal Pradesh,Airtel,3638457.0,cur
+2025-02-01,Jammu & Kashmir,BSNL,862014.0,cur
+2025-08-01,Haryana,Jio,8336557.0,cur
+2025-01-01,Bihar,Vi,7532447.0,cur
+2025-08-01,Haryana,BSNL,4344316.0,cur
+2024-03-01,Punjab,Jio,12172376.0,cur
+2025-02-01,Jammu & Kashmir,Jio,4848972.0,cur
+2025-08-01,Haryana,Vi,6283096.0,cur
+2025-08-01,Haryana,Airtel,7385349.0,cur
+2025-02-01,Karnataka,Airtel,32280135.0,cur
+2025-08-01,Himachal Pradesh,BSNL,1734975.0,cur
+2025-08-01,Gujarat,Jio,31596608.0,cur
+2025-08-01,Karnataka,Vi,7143986.0,cur
+2025-08-01,Karnataka,BSNL,4577062.0,cur
+2025-08-01,Madhya Pradesh,Jio,46904836.0,cur
+2024-03-01,North East,Airtel,6283732.0,cur
+2025-08-01,Madhya Pradesh,BSNL,5097504.0,cur
+2025-01-01,Delhi,MTNL,789583.0,cur
+2025-02-01,Gujarat,Jio,29967554.0,cur
+2025-08-01,Madhya Pradesh,Vi,13205304.0,cur
+2024-03-01,North East,Vi,757938.0,cur
+2025-08-01,Madhya Pradesh,Airtel,16763182.0,cur
+2025-02-01,Haryana,Airtel,7191413.0,cur
+2025-08-01,Kolkata,Jio,10856699.0,cur
+2024-03-01,North East,BSNL,1240979.0,cur
+2025-08-01,Kolkata,BSNL,1412094.0,cur
+2025-02-01,Haryana,Vi,6369641.0,cur
+2025-02-01,Himachal Pradesh,Vi,370541.0,cur
+2025-01-01,Delhi,Vi,16605020.0,cur
+2025-08-01,Kolkata,Airtel,5307971.0,cur
+2024-03-01,North East,Jio,4267960.0,cur
+2025-02-01,Haryana,BSNL,4204949.0,cur
+2025-08-01,Kerala,Jio,10880877.0,cur
+2024-03-01,Odisha,Airtel,11634283.0,cur
+2025-08-01,Kerala,BSNL,8882915.0,cur
+2025-02-01,Haryana,Jio,8314955.0,cur
+2025-08-01,Kerala,Vi,12800992.0,cur
+2025-01-01,Delhi,Airtel,18561878.0,cur
+2025-08-01,Kerala,Airtel,9239679.0,cur
+2025-02-01,Himachal Pradesh,Airtel,3569833.0,cur
+2024-03-01,Odisha,Vi,1447659.0,cur
+2025-08-01,Karnataka,Jio,25355502.0,cur
+2025-08-01,Kolkata,Vi,4773654.0,cur
+2026-08-01,Haryana,Airtel,7982329.0,cur
+2024-03-01,Rajasthan,Airtel,23338405.0,cur
+2025-08-01,Gujarat,BSNL,3270353.0,cur
+2025-08-01,Andhra Pradesh,Jio,31680474.0,cur
+2025-08-01,Andhra Pradesh,BSNL,7145108.0,cur
+2025-02-01,Kolkata,Vi,4889056.0,cur
+2025-08-01,Andhra Pradesh,Vi,9449201.0,cur
+2024-03-01,U.P. (East),Airtel,37315603.0,cur
+2025-01-01,Assam,Airtel,11984141.0,cur
+2025-08-01,Andhra Pradesh,Airtel,34324394.0,cur
+2025-02-01,Kolkata,BSNL,1453411.0,cur
+2024-03-01,U.P. (East),Vi,17407394.0,cur
+2025-11-01,West Bengal,Jio,25474732.0,cur
+2025-02-01,Kolkata,Jio,10685633.0,cur
+2025-11-01,West Bengal,BSNL,2650918.0,cur
+2024-03-01,U.P. (East),BSNL,7390773.0,cur
+2025-02-01,Kolkata,Airtel,5461847.0,cur
+2025-11-01,West Bengal,Vi,10763269.0,cur
+2025-11-01,West Bengal,Airtel,18669411.0,cur
+2025-01-01,Andhra Pradesh,Jio,31814143.0,cur
+2024-03-01,U.P. (East),Jio,40004379.0,cur
+2025-11-01,U.P. (West),Jio,25292780.0,cur
+2025-02-01,Madhya Pradesh,Vi,13723887.0,cur
+2025-11-01,U.P. (West),BSNL,5222783.0,cur
+2025-11-01,U.P. (West),Vi,13119911.0,cur
+2025-02-01,Madhya Pradesh,BSNL,5150121.0,cur
+2024-03-01,U.P. (West),Airtel,18858334.0,cur
+2025-11-01,U.P. (West),Airtel,19147937.0,cur
+2025-01-01,Andhra Pradesh,BSNL,6870976.0,cur
+2025-11-01,U.P. (East),Jio,43662554.0,cur
+2024-03-01,U.P. (West),Vi,15525461.0,cur
+2025-02-01,Madhya Pradesh,Airtel,16591031.0,cur
+2025-01-01,Bihar,Airtel,40672414.0,cur
+2024-03-01,Tamil Nadu,Jio,25746031.0,cur
+2025-01-01,Assam,Vi,1419772.0,cur
+2025-02-01,Karnataka,Vi,6678934.0,cur
+2024-03-01,Rajasthan,Vi,10656750.0,cur
+2025-08-01,Gujarat,Vi,19601026.0,cur
+2025-08-01,Gujarat,Airtel,12577571.0,cur
+2025-02-01,Karnataka,BSNL,4568771.0,cur
+2025-08-01,Delhi,Jio,20188419.0,cur
+2024-03-01,Rajasthan,BSNL,5562912.0,cur
+2025-01-01,Assam,Jio,9716277.0,cur
+2025-08-01,Delhi,MTNL,173896.0,cur
+2025-02-01,Karnataka,Jio,24638183.0,cur
+2025-08-01,Delhi,Vi,16684556.0,cur
+2024-03-01,Rajasthan,Jio,26774730.0,cur
+2025-08-01,Delhi,Airtel,19131497.0,cur
+2025-08-01,Assam,Airtel,12395925.0,cur
+2025-02-01,Kerala,Airtel,8892846.0,cur
+2024-03-01,Tamil Nadu,Airtel,29405361.0,cur
+2025-08-01,Bihar,BSNL,5670590.0,cur
+2025-02-01,Kerala,Vi,12982134.0,cur
+2025-08-01,Bihar,Vi,7895064.0,cur
+2025-01-01,Assam,BSNL,2974004.0,cur
+2024-03-01,Tamil Nadu,Vi,15618312.0,cur
+2025-08-01,Bihar,Airtel,40849847.0,cur
+2025-02-01,Kerala,BSNL,8749409.0,cur
+2025-08-01,Assam,Jio,9756836.0,cur
+2025-08-01,Assam,BSNL,2985454.0,cur
+2025-02-01,Kerala,Jio,10718043.0,cur
+2024-03-01,Tamil Nadu,BSNL,7666921.0,cur
+2025-08-01,Assam,Vi,1455241.0,cur
+2025-08-01,Bihar,Jio,42759124.0,cur
+2025-10-01,Maharashtra,BSNL,5310770.0,cur
+2025-10-01,Andhra Pradesh,BSNL,7335332.0,cur
+2024-04-01,Kolkata,BSNL,1671358.0,cur
+2026-08-01,North East,Vi,590167.0,cur
+2025-03-01,Bihar,Jio,41730845.0,cur
+2025-01-01,Rajasthan,BSNL,5614566.0,cur
+2025-03-01,Bihar,BSNL,5771775.0,cur
+2026-08-01,North East,BSNL,1309150.0,cur
+2025-03-01,Bihar,Vi,7727548.0,cur
+2024-04-01,Karnataka,Vi,6445140.0,cur
+2025-03-01,Bihar,Airtel,41096191.0,cur
+2026-08-01,North East,Jio,4723023.0,cur
+2024-04-01,Karnataka,BSNL,4167414.0,cur
+2025-03-01,Assam,Jio,9726580.0,cur
+2025-03-01,Assam,BSNL,2970848.0,cur
+2025-01-01,Rajasthan,Vi,9219961.0,cur
+2026-08-01,Odisha,Airtel,13477538.0,cur
+2024-04-01,Karnataka,Jio,24376370.0,cur
+2025-03-01,Assam,Vi,1420096.0,cur
+2025-03-01,Assam,Airtel,12241287.0,cur
+2026-08-01,Odisha,Vi,1557705.0,cur
+2025-03-01,Andhra Pradesh,Jio,31776074.0,cur
+2024-04-01,Kerala,Airtel,8652608.0,cur
+2025-01-01,Rajasthan,Airtel,23235660.0,cur
+2025-03-01,Andhra Pradesh,BSNL,6937453.0,cur
+2026-08-01,Odisha,BSNL,5499606.0,cur
+2025-03-01,Andhra Pradesh,Vi,9699287.0,cur
+2024-04-01,Kerala,Vi,13605281.0,cur
+2025-03-01,Andhra Pradesh,Airtel,33923195.0,cur
+2026-08-01,Odisha,Jio,18664429.0,cur
+2024-04-01,Karnataka,Airtel,32235233.0,cur
+2025-03-01,Delhi,Airtel,18771602.0,cur
+2025-03-01,Delhi,Vi,16756217.0,cur
+2026-08-01,North East,Airtel,6850897.0,cur
+2025-03-01,Himachal Pradesh,BSNL,1682282.0,cur
+2026-08-01,Maharashtra,BSNL,5327192.0,cur
+2024-04-01,Himachal Pradesh,BSNL,1499470.0,cur
+2025-03-01,Himachal Pradesh,Vi,379892.0,cur
+2025-01-01,Tamil Nadu,Vi,14854350.0,cur
+2025-03-01,Himachal Pradesh,Airtel,3575615.0,cur
+2026-08-01,Maharashtra,Jio,44608248.0,cur
+2025-03-01,Haryana,Jio,8303012.0,cur
+2024-04-01,Himachal Pradesh,Jio,3358689.0,cur
+2025-03-01,Haryana,BSNL,4212938.0,cur
+2026-08-01,Mumbai,Airtel,16461258.0,cur
+2025-03-01,Haryana,Vi,6365079.0,cur
+2024-04-01,Jammu & Kashmir,Airtel,6034748.0,cur
+2024-12-01,West Bengal,Jio,24133757.0,cur
+2025-03-01,Haryana,Airtel,7245664.0,cur
+2025-01-01,Tamil Nadu,Airtel,29966292.0,cur
+2025-03-01,Gujarat,Jio,30117232.0,cur
+2024-04-01,Jammu & Kashmir,Vi,297655.0,cur
+2025-03-01,Gujarat,BSNL,3266954.0,cur
+2026-08-01,Mumbai,MTNL,34197.0,cur
+2025-03-01,Gujarat,Vi,19629831.0,cur
+2024-04-01,Jammu & Kashmir,BSNL,775479.0,cur
+2025-03-01,Gujarat,Airtel,12359251.0,cur
+2026-08-01,Mumbai,Jio,13526403.0,cur
+2025-03-01,Delhi,Jio,19802703.0,cur
+2025-01-01,Rajasthan,Jio,26245012.0,cur
+2024-04-01,Jammu & Kashmir,Jio,5064589.0,cur
+2025-03-01,Delhi,MTNL,789314.0,cur
+2026-08-01,Mumbai,Vi,10751229.0,cur
+2025-03-01,Himachal Pradesh,Jio,3216541.0,cur
+2024-04-01,Kerala,BSNL,8950516.0,cur
+2025-01-01,Punjab,Jio,11299809.0,cur
+2024-04-01,Madhya Pradesh,Vi,15505081.0,cur
+2024-12-01,Rajasthan,BSNL,5612098.0,cur
+2026-08-01,Tamil Nadu,Airtel,33980568.0,cur
+2024-12-01,Rajasthan,Vi,9306909.0,cur
+2024-04-01,Madhya Pradesh,BSNL,4714048.0,cur
+2024-12-01,Rajasthan,Airtel,23075588.0,cur
+2026-08-01,Tamil Nadu,Vi,14242659.0,cur
+2024-12-01,Punjab,Jio,11351048.0,cur
+2025-01-01,Odisha,Jio,15706581.0,cur
+2024-04-01,Madhya Pradesh,Jio,43450326.0,cur
+2024-12-01,Punjab,BSNL,4097230.0,cur
+2026-08-01,Tamil Nadu,BSNL,7849488.0,cur
+2024-12-01,Punjab,Vi,6103807.0,cur
+2024-12-01,Punjab,Airtel,12356021.0,cur
+2026-08-01,Tamil Nadu,Jio,25487757.0,cur
+2024-04-01,Maharashtra,Airtel,21831018.0,cur
+2024-12-01,Odisha,Jio,15656632.0,cur
+2025-01-01,Odisha,BSNL,5577316.0,cur
+2024-12-01,Odisha,BSNL,5573321.0,cur
+2024-04-01,Maharashtra,Vi,22100999.0,cur
+2026-08-01,U.P. (East),Airtel,41796955.0,cur
+2024-12-01,Odisha,Vi,1378440.0,cur
+2024-12-01,Odisha,Airtel,11737705.0,cur
+2026-08-01,U.P. (East),Vi,16608558.0,cur
+2024-12-01,North East,Jio,4229026.0,cur
+2024-04-01,Maharashtra,BSNL,5633705.0,cur
+2025-01-01,Odisha,Vi,1384864.0,cur
+2024-12-01,Rajasthan,Jio,26319086.0,cur
+2026-08-01,Rajasthan,Jio,28640776.0,cur
+2024-12-01,Tamil Nadu,Airtel,29881079.0,cur
+2025-01-01,Punjab,Airtel,12422911.0,cur
+2026-08-01,Punjab,Airtel,14193818.0,cur
+2024-12-01,West Bengal,Vi,11939342.0,cur
+2024-04-01,Kerala,Jio,11021013.0,cur
+2024-12-01,West Bengal,Airtel,18214477.0,cur
+2026-08-01,Punjab,Vi,5623167.0,cur
+2024-12-01,U.P. (West),Jio,24093676.0,cur
+2024-04-01,Kolkata,Airtel,5667019.0,cur
+2024-12-01,U.P. (West),BSNL,5220879.0,cur
+2026-08-01,Punjab,BSNL,4106818.0,cur
+2024-12-01,U.P. (West),Vi,14547059.0,cur
+2025-01-01,Punjab,BSNL,4092355.0,cur
+2024-12-01,U.P. (West),Airtel,18725821.0,cur
+2024-04-01,Kolkata,Vi,5281561.0,cur
+2024-12-01,West Bengal,BSNL,2689590.0,cur
+2026-08-01,Punjab,Jio,11859083.0,cur
+2024-12-01,U.P. (East),BSNL,8347061.0,cur
+2026-08-01,Rajasthan,Airtel,26450165.0,cur
+2024-12-01,U.P. (East),Vi,16025137.0,cur
+2026-05-01,Karnataka,Airtel,44450844.0,cur
+2025-01-01,Punjab,Vi,6077318.0,cur
+2024-12-01,U.P. (East),Airtel,36232989.0,cur
+2026-08-01,Rajasthan,Vi,8154765.0,cur
+2024-04-01,Kolkata,Jio,10918229.0,cur
+2024-12-01,Tamil Nadu,Jio,24641143.0,cur
+2024-12-01,Tamil Nadu,BSNL,7943055.0,cur
+2026-08-01,Rajasthan,BSNL,5966476.0,cur
+2024-12-01,Tamil Nadu,Vi,14935646.0,cur
+2024-04-01,Madhya Pradesh,Airtel,16188116.0,cur
+2024-12-01,U.P. (East),Jio,40858553.0,cur
+2026-08-01,Maharashtra,Vi,20691316.0,cur
+2025-03-01,Jammu & Kashmir,Airtel,6179009.0,cur
+2024-04-01,Himachal Pradesh,Vi,399085.0,cur
+2025-01-01,U.P. (West),Jio,24143459.0,cur
+2025-03-01,Rajasthan,BSNL,5634425.0,cur
+2026-08-01,Jammu & Kashmir,Airtel,7069179.0,cur
+2025-03-01,Rajasthan,Vi,9173311.0,cur
+2024-04-01,Assam,Jio,9999391.0,cur
+2025-03-01,Rajasthan,Airtel,23434836.0,cur
+2026-08-01,Jammu & Kashmir,Vi,261962.0,cur
+2025-03-01,Punjab,Jio,11347016.0,cur
+2024-04-01,Bihar,Airtel,41479959.0,cur
+2025-03-01,Punjab,BSNL,4092007.0,cur
+2025-01-01,U.P. (West),BSNL,5158043.0,cur
+2026-08-01,Jammu & Kashmir,BSNL,863103.0,cur
+2025-03-01,Punjab,Vi,6037566.0,cur
+2024-04-01,Bihar,Vi,7723950.0,cur
+2025-03-01,Punjab,Airtel,12564173.0,cur
+2026-08-01,Jammu & Kashmir,Jio,6080498.0,cur
+2025-03-01,Odisha,Jio,15956645.0,cur
+2024-04-01,Bihar,BSNL,5243821.0,cur
+2025-03-01,Odisha,BSNL,5573279.0,cur
+2026-08-01,Karnataka,Airtel,45416167.0,cur
+2025-03-01,Odisha,Vi,1397972.0,cur
+2025-01-01,U.P. (West),Vi,14446899.0,cur
+2025-03-01,Odisha,Airtel,11996212.0,cur
+2024-04-01,Bihar,Jio,41499744.0,cur
+2026-08-01,Karnataka,Vi,7753137.0,cur
+2025-03-01,North East,Jio,4305145.0,cur
+2025-03-01,North East,BSNL,1290499.0,cur
+2024-04-01,Assam,BSNL,2997110.0,cur
+2025-03-01,Rajasthan,Jio,26378934.0,cur
+2026-08-01,Himachal Pradesh,Jio,3592194.0,cur
+2025-03-01,Tamil Nadu,Airtel,30155175.0,cur
+2025-03-01,West Bengal,Vi,11620668.0,cur
+2024-04-01,Andhra Pradesh,Airtel,33802990.0,cur
+2025-03-01,West Bengal,Airtel,18464267.0,cur
+2025-01-01,West Bengal,BSNL,2680341.0,cur
+2026-08-01,Haryana,Vi,6205068.0,cur
+2025-03-01,U.P. (West),Jio,24399462.0,cur
+2024-04-01,Andhra Pradesh,Vi,10751901.0,cur
+2025-03-01,U.P. (West),BSNL,4984322.0,cur
+2026-08-01,Haryana,BSNL,4775713.0,cur
+2025-03-01,U.P. (West),Vi,14371653.0,cur
+2024-04-01,Andhra Pradesh,BSNL,6298530.0,cur
+2025-03-01,U.P. (West),Airtel,18885824.0,cur
+2026-08-01,Haryana,Jio,8315218.0,cur
+2026-08-01,Karnataka,BSNL,4787079.0,cur
+2025-01-01,West Bengal,Vi,11742282.0,cur
+2025-03-01,U.P. (East),BSNL,8081876.0,cur
+2024-04-01,Andhra Pradesh,Jio,32902714.0,cur
+2026-08-01,Himachal Pradesh,Airtel,3646564.0,cur
+2025-03-01,U.P. (East),Vi,16128148.0,cur
+2024-04-01,Assam,Airtel,11842815.0,cur
+2025-03-01,U.P. (East),Airtel,36484630.0,cur
+2026-08-01,Himachal Pradesh,Vi,395022.0,cur
+2025-03-01,Tamil Nadu,Jio,24608262.0,cur
+2025-01-01,West Bengal,Airtel,18310281.0,cur
+2025-03-01,Tamil Nadu,BSNL,7783902.0,cur
+2026-08-01,Himachal Pradesh,BSNL,1817071.0,cur
+2024-04-01,Assam,Vi,1556432.0,cur
+2025-03-01,Tamil Nadu,Vi,14731787.0,cur
+2025-03-01,U.P. (East),Jio,41697984.0,cur
+2025-03-01,North East,Vi,637041.0,cur
+2024-04-01,Delhi,Airtel,18236749.0,cur
+2025-01-01,U.P. (West),Airtel,18808741.0,cur
+2026-08-01,Kolkata,BSNL,1424408.0,cur
+2025-03-01,Kolkata,Vi,4851202.0,cur
+2025-03-01,Kolkata,Airtel,5435465.0,cur
+2026-08-01,Kolkata,Jio,11116033.0,cur
+2025-03-01,Kerala,Jio,10699305.0,cur
+2024-04-01,Haryana,Airtel,7055277.0,cur
+2025-01-01,U.P. (East),Airtel,36432568.0,cur
+2025-03-01,Kerala,BSNL,8780341.0,cur
+2026-08-01,Madhya Pradesh,Airtel,18711618.0,cur
+2025-03-01,Kerala,Vi,12920924.0,cur
+2024-04-01,Haryana,Vi,6747231.0,cur
+2025-03-01,Kerala,Airtel,8915860.0,cur
+2026-08-01,Madhya Pradesh,Vi,12392757.0,cur
+2024-04-01,Gujarat,Jio,30368938.0,cur
+2025-03-01,Karnataka,Jio,24786795.0,cur
+2025-03-01,Karnataka,BSNL,4573403.0,cur
+2026-08-01,Madhya Pradesh,BSNL,5152360.0,cur
+2025-03-01,Karnataka,Vi,6628032.0,cur
+2025-01-01,Tamil Nadu,Jio,24639667.0,cur
+2024-04-01,Haryana,Jio,8785964.0,cur
+2025-03-01,Karnataka,Airtel,32306447.0,cur
+2026-08-01,Madhya Pradesh,Jio,51079265.0,cur
+2025-03-01,Jammu & Kashmir,Jio,4873069.0,cur
+2025-03-01,Jammu & Kashmir,BSNL,866466.0,cur
+2024-04-01,Himachal Pradesh,Airtel,3580137.0,cur
+2026-08-01,Maharashtra,Airtel,34367416.0,cur
+2025-03-01,Jammu & Kashmir,Vi,262607.0,cur
+2025-01-01,Tamil Nadu,BSNL,7775426.0,cur
+2024-04-01,Haryana,BSNL,4151046.0,cur
+2024-12-01,North East,BSNL,1288497.0,cur
+2025-03-01,Kolkata,BSNL,1454781.0,cur
+2025-03-01,Kolkata,Jio,10710207.0,cur
+2025-03-01,North East,Airtel,6419608.0,cur
+2026-08-01,Karnataka,Jio,26971321.0,cur
+2024-04-01,Delhi,Vi,16469388.0,cur
+2025-03-01,Mumbai,Jio,13172111.0,cur
+2025-03-01,Mumbai,MTNL,208915.0,cur
+2026-08-01,Kerala,Airtel,9908479.0,cur
+2025-03-01,Mumbai,Vi,10711200.0,cur
+2024-04-01,Delhi,MTNL,1685302.0,cur
+2025-01-01,U.P. (East),Jio,41139830.0,cur
+2025-03-01,Mumbai,Airtel,10124250.0,cur
+2026-08-01,Kerala,Vi,12853355.0,cur
+2025-03-01,Maharashtra,Jio,42565948.0,cur
+2024-04-01,Delhi,Jio,20303751.0,cur
+2025-01-01,U.P. (East),Vi,15975202.0,cur
+2025-03-01,Maharashtra,BSNL,5301279.0,cur
+2025-03-01,Maharashtra,Vi,20309525.0,cur
+2024-04-01,Gujarat,Airtel,11899129.0,cur
+2025-03-01,Maharashtra,Airtel,22583417.0,cur
+2026-08-01,Kerala,Jio,11287542.0,cur
+2025-03-01,Madhya Pradesh,Jio,45194727.0,cur
+2025-01-01,U.P. (East),BSNL,8195114.0,cur
+2024-04-01,Gujarat,Vi,20594935.0,cur
+2025-03-01,Madhya Pradesh,BSNL,5164051.0,cur
+2026-08-01,Kolkata,Airtel,6074476.0,cur
+2025-03-01,Madhya Pradesh,Vi,13599147.0,cur
+2025-03-01,Madhya Pradesh,Airtel,16642059.0,cur
+2026-08-01,Kolkata,Vi,4538165.0,cur
+2024-04-01,Gujarat,BSNL,2663437.0,cur
+2026-08-01,Kerala,BSNL,9056965.0,cur
+2026-08-01,U.P. (East),BSNL,8477041.0,cur
+2025-11-01,Gujarat,Jio,31939314.0,cur
+2024-12-01,Bihar,BSNL,5966507.0,cur
+2025-01-01,North East,Airtel,6273468.0,cur
+2024-04-01,Odisha,Vi,1429455.0,cur
+2025-01-01,Madhya Pradesh,Jio,44530127.0,cur
+2026-05-01,Haryana,BSNL,4577770.0,cur
+2024-12-01,Assam,Vi,1438865.0,cur
+2024-12-01,Karnataka,BSNL,4571164.0,cur
+2024-04-01,U.P. (East),BSNL,7447567.0,cur
+2025-01-01,Mumbai,Airtel,10099114.0,cur
+2026-05-01,Andhra Pradesh,BSNL,7535550.0,cur
+2024-04-01,Tamil Nadu,Airtel,29488741.0,cur
+2024-12-01,Karnataka,Vi,6599552.0,cur
+2025-10-01,U.P. (West),BSNL,5171874.0,cur
+2024-12-01,Gujarat,BSNL,3318309.0,cur
+2024-04-01,Rajasthan,Airtel,23370326.0,cur
+2024-04-01,Odisha,BSNL,5340098.0,cur
+2024-12-01,Karnataka,Airtel,32177739.0,cur
+2026-05-01,Gujarat,Vi,19896431.0,cur
+2024-12-01,Karnataka,Jio,24526175.0,cur
+2026-05-01,Andhra Pradesh,Jio,32401558.0,cur
+2026-05-01,Andhra Pradesh,Vi,8753635.0,cur
+2024-04-01,Tamil Nadu,BSNL,7615333.0,cur
+2024-12-01,Kolkata,Airtel,5445207.0,cur
+2026-08-01,West Bengal,Jio,26751522.0,cur
+2026-05-01,Himachal Pradesh,Airtel,3624363.0,cur
+2024-12-01,Haryana,BSNL,4159824.0,cur
+2024-12-01,Gujarat,Airtel,12206886.0,cur
+2024-12-01,Kerala,Jio,10715701.0,cur
+2024-04-01,North East,Jio,4312212.0,cur
+2024-12-01,Kerala,BSNL,8730042.0,cur
+2024-04-01,Rajasthan,Vi,10648894.0,cur
+2026-05-01,Andhra Pradesh,Airtel,39092047.0,cur
+2026-05-01,Haryana,Jio,8221663.0,cur
+2024-12-01,Kerala,Vi,13026138.0,cur
+2024-12-01,Gujarat,Vi,19683954.0,cur
+2024-04-01,Odisha,Airtel,11643237.0,cur
+2024-12-01,Kerala,Airtel,8816703.0,cur
+2025-10-01,U.P. (East),BSNL,8403483.0,cur
+2024-04-01,U.P. (East),Jio,40237859.0,cur
+2026-05-01,Bihar,BSNL,5553265.0,cur
+2025-10-01,Tamil Nadu,BSNL,7910011.0,cur
+2024-12-01,Gujarat,Jio,29756241.0,cur
+2025-01-01,Mumbai,Jio,12943616.0,cur
+2026-05-01,Gujarat,Jio,33397802.0,cur
+2024-12-01,Himachal Pradesh,BSNL,1666376.0,cur
+2026-05-01,Assam,BSNL,2917852.0,cur
+2024-12-01,Andhra Pradesh,Vi,10031734.0,cur
+2024-12-01,Haryana,Vi,6402674.0,cur
+2024-04-01,Punjab,Vi,6457103.0,cur
+2024-12-01,Himachal Pradesh,Vi,377601.0,cur
+2024-12-01,Andhra Pradesh,Jio,31886092.0,cur
+2024-04-01,U.P. (East),Airtel,37338963.0,cur
+2024-12-01,Himachal Pradesh,Airtel,3548882.0,cur
+2026-05-01,Bihar,Airtel,49720312.0,cur
+2024-12-01,Andhra Pradesh,BSNL,6825411.0,cur
+2026-05-01,Assam,Jio,10119073.0,cur
+2024-04-01,Tamil Nadu,Jio,25808010.0,cur
+2024-12-01,Haryana,Jio,8323953.0,cur
+2024-04-01,Punjab,BSNL,3903491.0,cur
+2026-05-01,Gujarat,BSNL,3299334.0,cur
+2024-04-01,Punjab,Jio,12231491.0,cur
+2026-05-01,Haryana,Vi,6206028.0,cur
+2024-12-01,Andhra Pradesh,Airtel,33765442.0,cur
+2024-12-01,Haryana,Airtel,7061216.0,cur
+2024-12-01,Jammu & Kashmir,Jio,4912848.0,cur
+2025-01-01,Maharashtra,Vi,20513105.0,cur
+2024-04-01,U.P. (East),Vi,17309359.0,cur
+2024-12-01,Jammu & Kashmir,BSNL,872157.0,cur
+2024-04-01,Odisha,Jio,15307685.0,cur
+2026-05-01,Assam,Airtel,14928274.0,cur
+2026-05-01,Haryana,Airtel,7908071.0,cur
+2024-12-01,North East,Vi,659058.0,cur
+2025-10-01,West Bengal,BSNL,2637291.0,cur
+2025-01-01,Maharashtra,Airtel,22510042.0,cur
+2026-05-01,Bihar,Vi,7440735.0,cur
+2024-12-01,Jammu & Kashmir,Vi,262621.0,cur
+2024-12-01,Assam,Airtel,11914048.0,cur
+2024-04-01,Punjab,Airtel,12643439.0,cur
+2024-12-01,Jammu & Kashmir,Airtel,6108668.0,cur
+2026-05-01,Assam,Vi,1497691.0,cur
+2024-12-01,Himachal Pradesh,Jio,3232447.0,cur
+2025-01-01,Mumbai,MTNL,212730.0,cur
+2024-04-01,U.P. (West),Airtel,18918229.0,cur
+2025-01-01,North East,Vi,649714.0,cur
+2024-04-01,North East,BSNL,1237585.0,cur
+2026-08-01,U.P. (West),Vi,12062015.0,cur
+2024-04-01,Rajasthan,Jio,26961003.0,cur
+2026-05-01,Jammu & Kashmir,Vi,284997.0,cur
+2025-10-01,Odisha,BSNL,5530388.0,cur
+2024-12-01,Maharashtra,Jio,42278780.0,cur
+2024-12-01,Delhi,Airtel,18434020.0,cur
+2024-12-01,Maharashtra,BSNL,5470925.0,cur
+2024-04-01,Mumbai,MTNL,236821.0,cur
+2024-04-01,U.P. (West),Jio,24387588.0,cur
+2026-08-01,U.P. (West),BSNL,5195393.0,cur
+2026-05-01,Delhi,Jio,20661804.0,cur
+2024-12-01,Bihar,Airtel,40498909.0,cur
+2025-01-01,Madhya Pradesh,Vi,13784241.0,cur
+2025-01-01,Madhya Pradesh,BSNL,5146819.0,cur
+2024-12-01,Maharashtra,Vi,20708127.0,cur
+2025-01-01,North East,Jio,4254085.0,cur
+2024-04-01,Mumbai,Jio,13182049.0,cur
+2026-05-01,Delhi,Vi,16408115.0,cur
+2025-01-01,Maharashtra,Jio,42273388.0,cur
+2024-12-01,Mumbai,Airtel,10066642.0,cur
+2024-04-01,Mumbai,Vi,10877588.0,cur
+2024-04-01,Maharashtra,Jio,43523793.0,cur
+2024-04-01,West Bengal,Vi,13057527.0,cur
+2024-12-01,North East,Airtel,6265788.0,cur
+2026-05-01,Jammu & Kashmir,Jio,5749073.0,cur
+2026-08-01,U.P. (East),Jio,45238147.0,cur
+2024-12-01,Mumbai,Jio,12813324.0,cur
+2024-04-01,Mumbai,Airtel,10074700.0,cur
+2025-01-01,Madhya Pradesh,Airtel,16521520.0,cur
+2024-04-01,West Bengal,Airtel,18204620.0,cur
+2024-12-01,Bihar,Jio,40913517.0,cur
+2025-10-01,North East,BSNL,1284548.0,cur
+2024-12-01,Bihar,Vi,7485493.0,cur
+2024-12-01,Mumbai,MTNL,215223.0,cur
+2026-08-01,U.P. (West),Airtel,23599795.0,cur
+2024-12-01,Mumbai,Vi,10680874.0,cur
+2025-01-01,Odisha,Airtel,11749063.0,cur
+2026-05-01,Jammu & Kashmir,BSNL,854021.0,cur
+2025-01-01,Maharashtra,BSNL,5428930.0,cur
+2024-12-01,Delhi,Vi,16743346.0,cur
+2026-05-01,Jammu & Kashmir,Airtel,6837398.0,cur
+2026-08-01,U.P. (West),Jio,26353692.0,cur
+2024-04-01,Rajasthan,BSNL,5507916.0,cur
+2024-04-01,U.P. (West),Vi,15552927.0,cur
+2026-08-01,West Bengal,Vi,10048058.0,cur
+2024-12-01,Maharashtra,Airtel,22368784.0,cur
+2025-10-01,Rajasthan,BSNL,5731546.0,cur
+2024-12-01,Assam,Jio,9732446.0,cur
+2026-05-01,Gujarat,Airtel,15747678.0,cur
+2024-04-01,North East,Vi,752436.0,cur
+2024-12-01,Delhi,Jio,19758105.0,cur
+2024-12-01,Kolkata,BSNL,1468367.0,cur
+2026-08-01,West Bengal,BSNL,2625673.0,cur
+2024-12-01,Kolkata,Vi,4955745.0,cur
+2026-05-01,Bihar,Jio,45386595.0,cur
+2024-12-01,Assam,BSNL,2992345.0,cur
+2026-05-01,Himachal Pradesh,Vi,396159.0,cur
+2026-05-01,Himachal Pradesh,BSNL,1789147.0,cur
+2024-12-01,Madhya Pradesh,Airtel,16404356.0,cur
+2024-12-01,Kolkata,Jio,10690464.0,cur
+2024-12-01,Madhya Pradesh,Vi,13967009.0,cur
+2024-12-01,Madhya Pradesh,Jio,44314875.0,cur
+2024-04-01,Tamil Nadu,Vi,15518545.0,cur
+2025-10-01,Punjab,BSNL,4088155.0,cur
+2024-12-01,Madhya Pradesh,BSNL,5134063.0,cur
+2025-01-01,North East,BSNL,1286014.0,cur
+2026-05-01,Delhi,Airtel,39710860.0,cur
+2026-08-01,West Bengal,Airtel,19526242.0,cur
+2024-04-01,U.P. (West),BSNL,4883224.0,cur
+2025-01-01,Mumbai,Vi,10682247.0,cur
+2026-05-01,Himachal Pradesh,Jio,3592071.0,cur
+2024-04-01,North East,Airtel,6329479.0,cur
+2024-12-01,Delhi,MTNL,789707.0,cur
+2026-06-01,Delhi,Vi,16460728.0,prev
+2026-06-01,Delhi,Airtel,40134446.0,prev
+2026-06-01,Bihar,Jio,45608581.0,prev
+2026-06-01,Bihar,BSNL,5532703.0,prev
+2026-06-01,Bihar,Vi,7444371.0,prev
+2026-06-01,Bihar,Airtel,49856273.0,prev
+2026-06-01,Assam,Jio,10164079.0,prev
+2026-06-01,Delhi,MTNL,124727.0,prev
+2026-06-01,Assam,BSNL,2907824.0,prev
+2026-06-01,Assam,Airtel,15052205.0,prev
+2026-06-01,Andhra Pradesh,Jio,32580104.0,prev
+2026-06-01,Andhra Pradesh,BSNL,7577013.0,prev
+2026-06-01,Andhra Pradesh,Vi,8729360.0,prev
+2026-06-01,Andhra Pradesh,Airtel,39412884.0,prev
+2026-06-01,Assam,Vi,1514448.0,prev
+2026-06-01,Delhi,Jio,20740302.0,prev
+2026-06-01,Gujarat,Airtel,15838587.0,prev
+2026-06-01,Karnataka,Airtel,44658497.0,prev
+2026-06-01,Jammu & Kashmir,Jio,5848439.0,prev
+2026-06-01,Jammu & Kashmir,BSNL,857909.0,prev
+2026-06-01,Jammu & Kashmir,Vi,281761.0,prev
+2026-06-01,Jammu & Kashmir,Airtel,7021123.0,prev
+2026-06-01,Himachal Pradesh,Jio,3603233.0,prev
+2026-06-01,Himachal Pradesh,BSNL,1795583.0,prev
+2026-06-01,Himachal Pradesh,Vi,394020.0,prev
+2026-06-01,Himachal Pradesh,Airtel,3625894.0,prev
+2026-06-01,Haryana,Jio,8270811.0,prev
+2026-06-01,Haryana,BSNL,4649224.0,prev
+2026-06-01,Haryana,Vi,6199167.0,prev
+2026-06-01,Haryana,Airtel,7938962.0,prev
+2026-06-01,Gujarat,Jio,33553455.0,prev
+2026-06-01,Gujarat,BSNL,3301492.0,prev
+2026-06-01,Gujarat,Vi,20007766.0,prev
+2026-06-01,Karnataka,Vi,7683472.0,prev
+2026-06-01,Karnataka,BSNL,4746383.0,prev
+2026-06-01,West Bengal,Jio,26486442.0,prev
+2026-06-01,West Bengal,BSNL,2632670.0,prev
+2026-06-01,West Bengal,Vi,10163648.0,prev
+2026-06-01,West Bengal,Airtel,19376456.0,prev
+2026-06-01,U.P. (West),Jio,26183935.0,prev
+2026-06-01,U.P. (West),BSNL,5177442.0,prev
+2026-06-01,U.P. (West),Vi,12230557.0,prev
+2026-06-01,U.P. (West),Airtel,23343743.0,prev
+2026-06-01,U.P. (East),Jio,44822268.0,prev
+2026-06-01,U.P. (East),BSNL,8452682.0,prev
+2026-06-01,U.P. (East),Vi,16581204.0,prev
+2026-06-01,U.P. (East),Airtel,41710382.0,prev
+2026-06-01,Tamil Nadu,Jio,25263846.0,prev
+2026-06-01,Tamil Nadu,BSNL,7875683.0,prev
+2026-06-01,Tamil Nadu,Vi,14165098.0,prev
+2026-07-01,Delhi,MTNL,122756.0,prev
+2026-06-01,Tamil Nadu,Airtel,33648424.0,prev
+2026-06-01,Rajasthan,Jio,28257109.0,prev
+2026-06-01,Maharashtra,Jio,44483815.0,prev
+2026-06-01,Maharashtra,BSNL,5288701.0,prev
+2026-06-01,Maharashtra,Vi,20640388.0,prev
+2026-06-01,Maharashtra,Airtel,33739307.0,prev
+2026-06-01,Madhya Pradesh,Jio,50568363.0,prev
+2026-06-01,Madhya Pradesh,BSNL,5128546.0,prev
+2026-06-01,Madhya Pradesh,Vi,12401509.0,prev
+2026-06-01,Madhya Pradesh,Airtel,18612142.0,prev
+2026-06-01,Kolkata,Jio,11098252.0,prev
+2026-06-01,Kolkata,BSNL,1421235.0,prev
+2026-06-01,Kolkata,Vi,4533842.0,prev
+2026-06-01,Kolkata,Airtel,6044270.0,prev
+2026-06-01,Kerala,Jio,11193819.0,prev
+2026-06-01,Kerala,BSNL,8981297.0,prev
+2026-06-01,Kerala,Vi,12792244.0,prev
+2026-06-01,Kerala,Airtel,9785939.0,prev
+2026-06-01,Karnataka,Jio,26761089.0,prev
+2026-06-01,Mumbai,Airtel,16336019.0,prev
+2026-06-01,Rajasthan,BSNL,5789648.0,prev
+2026-06-01,Rajasthan,Vi,8167562.0,prev
+2026-06-01,Rajasthan,Airtel,26324143.0,prev
+2026-06-01,Punjab,Jio,11769733.0,prev
+2026-06-01,Punjab,BSNL,4105142.0,prev
+2026-06-01,Punjab,Vi,5591155.0,prev
+2026-06-01,Punjab,Airtel,14146751.0,prev
+2026-07-01,Mumbai,MTNL,37977.0,prev
+2026-06-01,Odisha,Jio,18177455.0,prev
+2026-06-01,Odisha,BSNL,5496126.0,prev
+2026-06-01,Odisha,Vi,1544134.0,prev
+2026-06-01,Odisha,Airtel,13384173.0,prev
+2026-06-01,North East,Jio,4702354.0,prev
+2026-06-01,North East,BSNL,1291691.0,prev
+2026-06-01,North East,Vi,596025.0,prev
+2026-06-01,Mumbai,Jio,13446132.0,prev
+2026-06-01,Mumbai,MTNL,41750.0,prev
+2026-06-01,Mumbai,Vi,10700639.0,prev
+2026-06-01,North East,Airtel,6809337.0,prev
+2024-11-01,Assam,Jio,9714678.0,prev
+2024-11-01,Bihar,Airtel,40510920.0,prev
+2024-11-01,Bihar,Vi,7454845.0,prev
+2024-11-01,Bihar,BSNL,5977315.0,prev
+2024-11-01,Bihar,Jio,40594269.0,prev
+2024-11-01,Delhi,Airtel,18362907.0,prev
+2024-11-01,Delhi,Vi,16808326.0,prev
+2024-11-01,Delhi,MTNL,1684377.0,prev
+2024-11-01,Delhi,Jio,19633269.0,prev
+2024-11-01,Gujarat,Airtel,12139442.0,prev
+2024-11-01,Gujarat,Vi,19815105.0,prev
+2024-11-01,Gujarat,BSNL,3326904.0,prev
+2024-11-01,Gujarat,Jio,29576662.0,prev
+2024-11-01,Haryana,Airtel,7036790.0,prev
+2024-11-01,Haryana,Vi,6454877.0,prev
+2024-11-01,Haryana,BSNL,4131662.0,prev
+2024-11-01,Haryana,Jio,8307262.0,prev
+2024-11-01,Himachal Pradesh,Airtel,3545058.0,prev
+2024-11-01,Himachal Pradesh,Vi,380490.0,prev
+2024-11-01,Assam,BSNL,2990873.0,prev
+2024-11-01,Himachal Pradesh,BSNL,1658686.0,prev
+2024-11-01,Assam,Vi,1436362.0,prev
+2024-11-01,Andhra Pradesh,Jio,31722937.0,prev
+2025-09-01,Punjab,BSNL,4081122.0,prev
+2025-09-01,Rajasthan,Airtel,23303298.0,prev
+2025-09-01,Rajasthan,BSNL,5720028.0,prev
+2025-09-01,Tamil Nadu,Airtel,30884289.0,prev
+2025-09-01,Tamil Nadu,BSNL,7897520.0,prev
+2025-09-01,U.P. (East),Airtel,35831594.0,prev
+2025-09-01,U.P. (East),BSNL,8385422.0,prev
+2025-09-01,U.P. (West),Airtel,18838986.0,prev
+2025-09-01,U.P. (West),BSNL,5171470.0,prev
+2025-09-01,West Bengal,Airtel,18515802.0,prev
+2025-09-01,West Bengal,BSNL,2629799.0,prev
+2024-11-01,Andhra Pradesh,Airtel,33686681.0,prev
+2024-11-01,Andhra Pradesh,Vi,10138599.0,prev
+2024-11-01,Andhra Pradesh,BSNL,6799880.0,prev
+2024-11-01,Assam,Airtel,11886126.0,prev
+2024-11-01,Himachal Pradesh,Jio,3220511.0,prev
+2024-11-01,Jammu & Kashmir,Airtel,6100700.0,prev
+2024-11-01,Jammu & Kashmir,Vi,261339.0,prev
+2024-11-01,Mumbai,MTNL,217541.0,prev
+2024-11-01,Mumbai,Jio,12752423.0,prev
+2024-11-01,North East,Airtel,6255114.0,prev
+2024-11-01,North East,Vi,666730.0,prev
+2024-11-01,North East,BSNL,1290175.0,prev
+2024-11-01,North East,Jio,4166376.0,prev
+2024-11-01,Odisha,Airtel,11719282.0,prev
+2024-11-01,Odisha,Vi,1382612.0,prev
+2024-11-01,Odisha,BSNL,5563824.0,prev
+2024-11-01,Odisha,Jio,15522229.0,prev
+2024-11-01,Punjab,Airtel,12322078.0,prev
+2024-11-01,Punjab,Vi,6161777.0,prev
+2024-11-01,Punjab,BSNL,4140544.0,prev
+2024-11-01,Punjab,Jio,11269097.0,prev
+2024-11-01,Rajasthan,Airtel,22981843.0,prev
+2024-11-01,Rajasthan,Vi,9446954.0,prev
+2024-11-01,Rajasthan,BSNL,5603503.0,prev
+2024-11-01,Rajasthan,Jio,26145912.0,prev
+2024-11-01,Tamil Nadu,Airtel,29787706.0,prev
+2024-11-01,Mumbai,Vi,10722373.0,prev
+2024-11-01,Mumbai,Airtel,10017055.0,prev
+2024-11-01,Maharashtra,Jio,41964863.0,prev
+2024-11-01,Maharashtra,BSNL,5597750.0,prev
+2024-11-01,Jammu & Kashmir,BSNL,874481.0,prev
+2024-11-01,Jammu & Kashmir,Jio,4897080.0,prev
+2024-11-01,Karnataka,Airtel,32123159.0,prev
+2024-11-01,Karnataka,Vi,6494622.0,prev
+2024-11-01,Karnataka,BSNL,4575413.0,prev
+2024-11-01,Karnataka,Jio,24227858.0,prev
+2024-11-01,Kerala,Airtel,8792441.0,prev
+2024-11-01,Kerala,Vi,13109867.0,prev
+2024-11-01,Kerala,BSNL,8727432.0,prev
+2024-11-01,Kerala,Jio,10683501.0,prev
+2024-11-01,Kolkata,Vi,5009300.0,prev
+2024-11-01,Kolkata,BSNL,1459804.0,prev
+2024-11-01,Kolkata,Jio,10629555.0,prev
+2024-11-01,Madhya Pradesh,Airtel,16305289.0,prev
+2024-11-01,Madhya Pradesh,Vi,14225490.0,prev
+2024-11-01,Madhya Pradesh,BSNL,5141934.0,prev
+2024-11-01,Madhya Pradesh,Jio,43578330.0,prev
+2024-11-01,Maharashtra,Airtel,22291217.0,prev
+2024-11-01,Maharashtra,Vi,20957137.0,prev
+2024-11-01,Kolkata,Airtel,5448616.0,prev
+2025-09-01,Punjab,Airtel,12549702.0,prev
+2025-09-01,Odisha,BSNL,5550472.0,prev
+2024-11-01,Tamil Nadu,Vi,15040723.0,prev
+2025-09-01,Andhra Pradesh,Airtel,34363642.0,prev
+2025-09-01,Karnataka,BSNL,4621271.0,prev
+2025-09-01,Kerala,Airtel,9236441.0,prev
+2025-09-01,Kerala,BSNL,8912373.0,prev
+2025-09-01,Kolkata,Airtel,5288622.0,prev
+2025-09-01,Kolkata,BSNL,1421518.0,prev
+2025-09-01,Madhya Pradesh,Airtel,16801295.0,prev
+2025-09-01,Madhya Pradesh,BSNL,5105300.0,prev
+2025-09-01,Maharashtra,Airtel,22969710.0,prev
+2025-09-01,Maharashtra,BSNL,5304322.0,prev
+2025-09-01,Mumbai,Airtel,10075231.0,prev
+2025-09-01,North East,Airtel,6458088.0,prev
+2025-09-01,North East,BSNL,1280227.0,prev
+2025-09-01,Odisha,Airtel,12033004.0,prev
+2025-09-01,Karnataka,Airtel,32550788.0,prev
+2025-09-01,Jammu & Kashmir,BSNL,864383.0,prev
+2025-09-01,Andhra Pradesh,BSNL,7225948.0,prev
+2025-09-01,Assam,Airtel,12420302.0,prev
+2025-09-01,Assam,BSNL,3002586.0,prev
+2025-09-01,Bihar,Airtel,41104423.0,prev
+2025-09-01,Bihar,BSNL,5668882.0,prev
+2025-09-01,Delhi,Airtel,19167041.0,prev
+2025-09-01,Gujarat,BSNL,3287659.0,prev
+2025-09-01,Haryana,Airtel,7401581.0,prev
+2025-09-01,Haryana,BSNL,4391910.0,prev
+2025-09-01,Himachal Pradesh,Airtel,3637680.0,prev
+2025-09-01,Himachal Pradesh,BSNL,1750572.0,prev
+2025-09-01,Jammu & Kashmir,Airtel,6329892.0,prev
+2025-09-01,Gujarat,Airtel,12650628.0,prev
+2024-11-01,Tamil Nadu,BSNL,8025652.0,prev
+2024-11-01,U.P. (East),Airtel,36139722.0,prev
+2025-12-01,Gujarat,BSNL,3297834.0,prev
+2025-12-01,Gujarat,Jio,32146030.0,prev
+2025-12-01,Haryana,Airtel,7738016.0,prev
+2025-12-01,Haryana,Vi,6188086.0,prev
+2025-12-01,Haryana,BSNL,4415510.0,prev
+2025-12-01,Haryana,Jio,8171541.0,prev
+2025-12-01,Himachal Pradesh,Airtel,3620122.0,prev
+2025-12-01,Himachal Pradesh,Vi,384325.0,prev
+2025-12-01,Himachal Pradesh,BSNL,1766046.0,prev
+2025-12-01,Himachal Pradesh,Jio,3424016.0,prev
+2025-12-01,Jammu & Kashmir,Airtel,6546994.0,prev
+2025-12-01,Jammu & Kashmir,Vi,256631.0,prev
+2025-12-01,Jammu & Kashmir,BSNL,855338.0,prev
+2025-12-01,Jammu & Kashmir,Jio,5311720.0,prev
+2025-12-01,Karnataka,Airtel,43077802.0,prev
+2025-12-01,Karnataka,Vi,7356797.0,prev
+2025-12-01,Karnataka,BSNL,4691369.0,prev
+2025-12-01,Karnataka,Jio,26138895.0,prev
+2025-12-01,Kerala,Airtel,9490134.0,prev
+2025-12-01,Gujarat,Vi,19330749.0,prev
+2025-12-01,Kerala,Vi,12738397.0,prev
+2025-12-01,Gujarat,Airtel,15157524.0,prev
+2025-12-01,Delhi,MTNL,137054.0,prev
+2025-12-01,Andhra Pradesh,Airtel,37693735.0,prev
+2025-12-01,Andhra Pradesh,Vi,8913709.0,prev
+2025-12-01,Andhra Pradesh,BSNL,7420443.0,prev
+2025-12-01,Andhra Pradesh,Jio,31894993.0,prev
+2025-12-01,Assam,Airtel,13961808.0,prev
+2025-12-01,Assam,Vi,1451538.0,prev
+2025-12-01,Assam,BSNL,2951850.0,prev
+2025-12-01,Assam,Jio,9869520.0,prev
+2025-12-01,Bihar,Airtel,47410246.0,prev
+2025-12-01,Bihar,Vi,7432810.0,prev
+2025-12-01,Bihar,BSNL,5631850.0,prev
+2025-12-01,Bihar,Jio,44028753.0,prev
+2025-12-01,Delhi,Airtel,37727940.0,prev
+2025-12-01,Delhi,Vi,16558799.0,prev
+2025-12-01,Delhi,Jio,20421442.0,prev
+2025-12-01,Kerala,BSNL,8943038.0,prev
+2025-12-01,Kerala,Jio,11027624.0,prev
+2025-12-01,Kolkata,Airtel,6015362.0,prev
+2025-12-01,Punjab,Vi,5632742.0,prev
+2025-12-01,Punjab,BSNL,4091509.0,prev
+2025-12-01,Punjab,Jio,11522666.0,prev
+2025-12-01,Rajasthan,Airtel,25146992.0,prev
+2025-12-01,Rajasthan,Vi,8430864.0,prev
+2025-12-01,Rajasthan,BSNL,5726617.0,prev
+2025-12-01,Rajasthan,Jio,27220012.0,prev
+2025-12-01,Tamil Nadu,Airtel,32537397.0,prev
+2025-12-01,Tamil Nadu,Vi,14252019.0,prev
+2025-12-01,Tamil Nadu,BSNL,8015763.0,prev
+2025-12-01,Tamil Nadu,Jio,24746958.0,prev
+2025-12-01,U.P. (East),Airtel,39706971.0,prev
+2025-12-01,U.P. (East),Vi,15697417.0,prev
+2025-12-01,U.P. (East),BSNL,8434932.0,prev
+2025-12-01,U.P. (East),Jio,44136781.0,prev
+2025-12-01,U.P. (West),Airtel,21435119.0,prev
+2025-12-01,U.P. (West),Vi,12794824.0,prev
+2025-12-01,U.P. (West),BSNL,5210728.0,prev
+2025-12-01,U.P. (West),Jio,25291625.0,prev
+2025-12-01,Punjab,Airtel,13861756.0,prev
+2025-12-01,Odisha,Jio,17254138.0,prev
+2025-12-01,Odisha,BSNL,5518354.0,prev
+2025-12-01,Odisha,Vi,1489987.0,prev
+2025-12-01,Kolkata,Vi,4629637.0,prev
+2025-12-01,Kolkata,BSNL,1421646.0,prev
+2025-12-01,Kolkata,Jio,10907840.0,prev
+2025-12-01,Madhya Pradesh,Airtel,17958418.0,prev
+2025-12-01,Madhya Pradesh,Vi,12743628.0,prev
+2025-12-01,Madhya Pradesh,BSNL,5118695.0,prev
+2025-12-01,Madhya Pradesh,Jio,48377631.0,prev
+2025-12-01,Maharashtra,Airtel,30470911.0,prev
+2025-12-01,Maharashtra,Vi,20561987.0,prev
+2025-12-01,Maharashtra,BSNL,5309578.0,prev
+2025-12-01,Mumbai,Airtel,15515681.0,prev
+2025-12-01,Mumbai,Vi,10772169.0,prev
+2025-12-01,Mumbai,MTNL,96241.0,prev
+2025-12-01,Mumbai,Jio,13306070.0,prev
+2025-12-01,North East,Airtel,6614464.0,prev
+2025-12-01,North East,Vi,604704.0,prev
+2025-12-01,North East,BSNL,1293623.0,prev
+2025-12-01,North East,Jio,4507283.0,prev
+2025-12-01,Odisha,Airtel,12999819.0,prev
+2025-12-01,Maharashtra,Jio,43753436.0,prev
+2024-11-01,U.P. (East),Vi,16161262.0,prev
+2024-11-01,U.P. (East),BSNL,8362471.0,prev
+2024-11-01,U.P. (East),Jio,40347070.0,prev
+2024-11-01,U.P. (West),Airtel,18666890.0,prev
+2024-11-01,U.P. (West),Vi,14694545.0,prev
+2024-11-01,U.P. (West),BSNL,5321946.0,prev
+2024-11-01,U.P. (West),Jio,23784405.0,prev
+2024-11-01,West Bengal,Airtel,18154925.0,prev
+2024-11-01,West Bengal,Vi,12151771.0,prev
+2024-11-01,West Bengal,BSNL,2693571.0,prev
+2024-11-01,West Bengal,Jio,23870730.0,prev
+2024-11-01,Tamil Nadu,Jio,24622749.0,prev
+2025-12-01,West Bengal,Airtel,18697178.0,prev
+2024-02-01,Jammu & Kashmir,BSNL,789339.0,prev
+2024-02-01,Jammu & Kashmir,Jio,5057801.0,prev
+2024-02-01,Karnataka,Airtel,32076289.0,prev
+2024-02-01,Karnataka,Vi,6482963.0,prev
+2024-02-01,Karnataka,BSNL,4177660.0,prev
+2024-02-01,Karnataka,Jio,24062561.0,prev
+2024-02-01,Kerala,Airtel,8543494.0,prev
+2024-02-01,Kerala,Vi,13587397.0,prev
+2024-02-01,Kerala,BSNL,9169799.0,prev
+2024-02-01,Kerala,Jio,10944591.0,prev
+2024-02-01,Kolkata,Airtel,5687695.0,prev
+2024-02-01,Kolkata,Vi,5319227.0,prev
+2024-02-01,Kolkata,BSNL,1879504.0,prev
+2024-02-01,Kolkata,Jio,10857566.0,prev
+2024-02-01,Madhya Pradesh,Airtel,16082645.0,prev
+2024-02-01,Madhya Pradesh,Vi,15627630.0,prev
+2024-02-01,Madhya Pradesh,BSNL,4709237.0,prev
+2024-02-01,Madhya Pradesh,Jio,42789573.0,prev
+2024-02-01,Maharashtra,Airtel,21684659.0,prev
+2024-02-01,Jammu & Kashmir,Vi,296689.0,prev
+2024-02-01,Maharashtra,Vi,22381696.0,prev
+2024-02-01,Jammu & Kashmir,Airtel,5890199.0,prev
+2024-02-01,Himachal Pradesh,BSNL,1527016.0,prev
+2024-02-01,Assam,Jio,9743408.0,prev
+2024-02-01,Bihar,Airtel,41415483.0,prev
+2024-02-01,Bihar,Vi,7613568.0,prev
+2024-02-01,Bihar,BSNL,5202006.0,prev
+2024-02-01,Bihar,Jio,40639042.0,prev
+2024-02-01,Delhi,Airtel,18094479.0,prev
+2024-02-01,Delhi,Vi,16523781.0,prev
+2024-02-01,Delhi,MTNL,1686179.0,prev
+2024-02-01,Delhi,Jio,20212747.0,prev
+2024-02-01,Gujarat,Airtel,11814734.0,prev
+2024-02-01,Gujarat,Vi,20820623.0,prev
+2024-02-01,Gujarat,BSNL,3727863.0,prev
+2024-02-01,Gujarat,Jio,29993690.0,prev
+2024-02-01,Haryana,Airtel,6974944.0,prev
+2024-02-01,Haryana,Vi,6764967.0,prev
+2024-02-01,Haryana,BSNL,4300321.0,prev
+2024-02-01,Haryana,Jio,8677058.0,prev
+2024-02-01,Himachal Pradesh,Airtel,3570642.0,prev
+2024-02-01,Himachal Pradesh,Vi,401167.0,prev
+2024-02-01,Himachal Pradesh,Jio,3340150.0,prev
+2024-02-01,Maharashtra,BSNL,5803243.0,prev
+2024-02-01,Maharashtra,Jio,43588462.0,prev
+2024-02-01,Mumbai,Airtel,10008950.0,prev
+2024-02-01,U.P. (East),Vi,17368030.0,prev
+2024-02-01,U.P. (East),BSNL,7847050.0,prev
+2024-02-01,U.P. (East),Jio,39737349.0,prev
+2024-02-01,U.P. (West),Airtel,18772499.0,prev
+2024-02-01,U.P. (West),Vi,15580489.0,prev
+2024-02-01,U.P. (West),BSNL,4921579.0,prev
+2024-02-01,U.P. (West),Jio,24160031.0,prev
+2024-02-01,West Bengal,Airtel,17983125.0,prev
+2024-02-01,West Bengal,Vi,13174374.0,prev
+2024-02-01,West Bengal,BSNL,2322968.0,prev
+2024-02-01,West Bengal,Jio,24306901.0,prev
+2025-10-01,Andhra Pradesh,Airtel,34443470.0,prev
+2025-10-01,Andhra Pradesh,Vi,9198537.0,prev
+2025-10-01,Andhra Pradesh,Jio,31775033.0,prev
+2025-10-01,Assam,Airtel,12468673.0,prev
+2025-10-01,Assam,Vi,1452957.0,prev
+2025-10-01,Assam,Jio,9896444.0,prev
+2024-02-01,U.P. (East),Airtel,37105908.0,prev
+2024-02-01,Tamil Nadu,Jio,25731054.0,prev
+2024-02-01,Tamil Nadu,BSNL,8119622.0,prev
+2024-02-01,Tamil Nadu,Vi,15708535.0,prev
+2024-02-01,Mumbai,Vi,10971786.0,prev
+2024-02-01,Mumbai,MTNL,244320.0,prev
+2024-02-01,Mumbai,Jio,13054092.0,prev
+2024-02-01,North East,Airtel,6237691.0,prev
+2024-02-01,North East,Vi,771776.0,prev
+2024-02-01,North East,BSNL,1243019.0,prev
+2024-02-01,North East,Jio,4275426.0,prev
+2024-02-01,Odisha,Airtel,11560013.0,prev
+2024-02-01,Odisha,Vi,1453775.0,prev
+2024-02-01,Assam,BSNL,3127976.0,prev
+2024-02-01,Odisha,BSNL,5447101.0,prev
+2024-02-01,Punjab,Airtel,12591205.0,prev
+2024-02-01,Punjab,Vi,6495303.0,prev
+2024-02-01,Punjab,BSNL,4070392.0,prev
+2024-02-01,Punjab,Jio,12080430.0,prev
+2024-02-01,Rajasthan,Airtel,23258253.0,prev
+2024-02-01,Rajasthan,Vi,10740550.0,prev
+2024-02-01,Rajasthan,BSNL,5677538.0,prev
+2024-02-01,Rajasthan,Jio,26628291.0,prev
+2024-02-01,Tamil Nadu,Airtel,29266114.0,prev
+2024-02-01,Odisha,Jio,15069232.0,prev
+2024-02-01,Assam,Vi,1593928.0,prev
+2024-02-01,Assam,Airtel,11744084.0,prev
+2024-02-01,Andhra Pradesh,Jio,32639853.0,prev
+2025-10-01,Bihar,Airtel,41248348.0,prev
+2024-02-01,Andhra Pradesh,Airtel,33650768.0,prev
+2024-02-01,Andhra Pradesh,Vi,10824137.0,prev
+2024-02-01,Andhra Pradesh,BSNL,6540254.0,prev
+2025-10-01,Bihar,Vi,7685423.0,prev
+2025-10-01,Bihar,Jio,43490955.0,prev
+2025-10-01,Kerala,Airtel,9235215.0,prev
+2025-10-01,Kerala,Vi,12741962.0,prev
+2025-10-01,Kerala,Jio,10939431.0,prev
+2025-10-01,Kolkata,Airtel,5267279.0,prev
+2025-10-01,Kolkata,Vi,4700853.0,prev
+2025-10-01,Kolkata,Jio,10868041.0,prev
+2025-10-01,Madhya Pradesh,Airtel,16828095.0,prev
+2025-10-01,Madhya Pradesh,Vi,12988382.0,prev
+2025-10-01,Madhya Pradesh,Jio,47607039.0,prev
+2025-10-01,Maharashtra,Airtel,23144905.0,prev
+2025-10-01,Maharashtra,Vi,20496736.0,prev
+2025-10-01,Maharashtra,Jio,43377448.0,prev
+2025-10-01,Mumbai,Airtel,10068845.0,prev
+2025-10-01,Mumbai,Vi,10756146.0,prev
+2025-10-01,Mumbai,MTNL,104013.0,prev
+2025-10-01,Karnataka,Jio,25797720.0,prev
+2025-10-01,Karnataka,Vi,7281360.0,prev
+2025-10-01,Karnataka,Airtel,32596945.0,prev
+2025-10-01,Delhi,Airtel,19214168.0,prev
+2025-10-01,Delhi,Vi,16598440.0,prev
+2025-10-01,Delhi,MTNL,139399.0,prev
+2025-10-01,Delhi,Jio,20279084.0,prev
+2025-10-01,Gujarat,Airtel,12732415.0,prev
+2025-10-01,Gujarat,Vi,19113909.0,prev
+2025-10-01,Gujarat,Jio,31576652.0,prev
+2025-10-01,Haryana,Airtel,7444847.0,prev
+2025-10-01,Mumbai,Jio,13262021.0,prev
+2025-10-01,Haryana,Vi,6209165.0,prev
+2025-10-01,Haryana,Jio,8354258.0,prev
+2025-10-01,Himachal Pradesh,Airtel,3623693.0,prev
+2025-10-01,Himachal Pradesh,Vi,385878.0,prev
+2025-10-01,Himachal Pradesh,Jio,3361093.0,prev
+2025-10-01,Jammu & Kashmir,Airtel,6339919.0,prev
+2025-10-01,Jammu & Kashmir,Vi,251568.0,prev
+2025-10-01,Jammu & Kashmir,Jio,5249849.0,prev
+2025-10-01,North East,Airtel,6462922.0,prev
+2025-10-01,U.P. (West),Jio,25124205.0,prev
+2025-10-01,West Bengal,Airtel,18588488.0,prev
+2025-10-01,West Bengal,Vi,10955846.0,prev
+2025-10-01,West Bengal,Jio,25339166.0,prev
+2025-10-01,U.P. (West),Vi,13458556.0,prev
+2025-10-01,U.P. (West),Airtel,18981227.0,prev
+2025-10-01,U.P. (East),Jio,43828277.0,prev
+2025-10-01,North East,Jio,4418467.0,prev
+2025-10-01,Odisha,Airtel,12030483.0,prev
+2025-10-01,Odisha,Vi,1487341.0,prev
+2025-10-01,Odisha,Jio,16933690.0,prev
+2025-10-01,Punjab,Airtel,12620777.0,prev
+2025-10-01,Punjab,Vi,5705799.0,prev
+2025-10-01,Punjab,Jio,11452104.0,prev
+2025-10-01,North East,Vi,613933.0,prev
+2025-10-01,Rajasthan,Airtel,23360767.0,prev
+2025-10-01,Rajasthan,Jio,27035669.0,prev
+2025-10-01,Tamil Nadu,Airtel,30983605.0,prev
+2025-10-01,Tamil Nadu,Vi,14324828.0,prev
+2025-10-01,Tamil Nadu,Jio,24734073.0,prev
+2025-10-01,U.P. (East),Airtel,35979827.0,prev
+2025-10-01,U.P. (East),Vi,15744055.0,prev
+2025-10-01,Rajasthan,Vi,8571497.0,prev
+2025-12-01,West Bengal,Vi,10549487.0,prev
+2025-12-01,West Bengal,Jio,25591262.0,prev
+2025-12-01,West Bengal,BSNL,2641993.0,prev
+2026-02-01,Kolkata,Airtel,5983605.0,prev
+2026-02-01,Kolkata,Vi,4588903.0,prev
+2026-02-01,Kolkata,BSNL,1426529.0,prev
+2026-02-01,Kolkata,Jio,10897387.0,prev
+2026-02-01,Madhya Pradesh,Airtel,18200513.0,prev
+2026-02-01,Madhya Pradesh,Vi,12661300.0,prev
+2026-02-01,Madhya Pradesh,BSNL,5136362.0,prev
+2026-02-01,Madhya Pradesh,Jio,49402733.0,prev
+2026-02-01,Maharashtra,Airtel,31586780.0,prev
+2026-02-01,Maharashtra,Vi,20617223.0,prev
+2026-02-01,Maharashtra,BSNL,5315131.0,prev
+2026-02-01,Maharashtra,Jio,43720843.0,prev
+2026-02-01,Mumbai,Airtel,15797686.0,prev
+2026-02-01,Mumbai,Vi,10828191.0,prev
+2026-02-01,Mumbai,MTNL,89426.0,prev
+2026-02-01,Mumbai,Jio,13276305.0,prev
+2026-02-01,North East,Airtel,6636085.0,prev
+2026-02-01,North East,Vi,597462.0,prev
+2026-02-01,North East,BSNL,1305447.0,prev
+2026-02-01,Kerala,Jio,11070831.0,prev
+2026-02-01,North East,Jio,4593508.0,prev
+2026-02-01,Kerala,BSNL,8968497.0,prev
+2026-02-01,Kerala,Airtel,9570297.0,prev
+2026-02-01,Gujarat,Vi,19457305.0,prev
+2026-02-01,Gujarat,BSNL,3293233.0,prev
+2026-02-01,Gujarat,Jio,32585710.0,prev
+2026-02-01,Haryana,Airtel,7813312.0,prev
+2026-02-01,Haryana,Vi,6207455.0,prev
+2026-02-01,Haryana,BSNL,4415488.0,prev
+2026-02-01,Haryana,Jio,8209320.0,prev
+2026-02-01,Himachal Pradesh,Airtel,3632654.0,prev
+2026-02-01,Himachal Pradesh,Vi,389532.0,prev
+2026-02-01,Himachal Pradesh,BSNL,1778243.0,prev
+2026-02-01,Himachal Pradesh,Jio,3577829.0,prev
+2026-02-01,Jammu & Kashmir,Airtel,6620418.0,prev
+2026-02-01,Jammu & Kashmir,Vi,268634.0,prev
+2026-02-01,Jammu & Kashmir,BSNL,855876.0,prev
+2026-02-01,Jammu & Kashmir,Jio,5486632.0,prev
+2026-02-01,Karnataka,Airtel,43661606.0,prev
+2026-02-01,Karnataka,Vi,7516679.0,prev
+2026-02-01,Karnataka,BSNL,4712976.0,prev
+2026-02-01,Karnataka,Jio,26218620.0,prev
+2026-02-01,Kerala,Vi,12755200.0,prev
+2026-02-01,Odisha,Airtel,13153321.0,prev
+2026-02-01,Odisha,Vi,1503646.0,prev
+2026-02-01,Odisha,BSNL,5507651.0,prev
+2026-02-01,West Bengal,Jio,25852760.0,prev
+2026-02-01,West Bengal,BSNL,2647259.0,prev
+2026-02-01,West Bengal,Vi,10336783.0,prev
+2026-02-01,West Bengal,Airtel,18842022.0,prev
+2026-02-01,U.P. (West),Jio,25604734.0,prev
+2026-02-01,Odisha,Jio,17586250.0,prev
+2026-02-01,Punjab,Airtel,14059983.0,prev
+2026-02-01,Punjab,Vi,5616780.0,prev
+2026-02-01,Punjab,BSNL,4103312.0,prev
+2026-02-01,Punjab,Jio,11648351.0,prev
+2026-02-01,Rajasthan,Airtel,25683135.0,prev
+2026-02-01,Rajasthan,Vi,8418253.0,prev
+2026-02-01,Rajasthan,BSNL,5733509.0,prev
+2026-02-01,Rajasthan,Jio,27543925.0,prev
+2026-02-01,Gujarat,Airtel,15503511.0,prev
+2026-02-01,Tamil Nadu,Airtel,32957309.0,prev
+2026-02-01,Tamil Nadu,BSNL,7990412.0,prev
+2026-02-01,Tamil Nadu,Jio,24938684.0,prev
+2026-02-01,U.P. (East),Airtel,40720415.0,prev
+2026-02-01,U.P. (East),Vi,15833950.0,prev
+2026-02-01,U.P. (East),BSNL,8474962.0,prev
+2026-02-01,U.P. (East),Jio,43907858.0,prev
+2026-02-01,U.P. (West),Airtel,22227092.0,prev
+2026-02-01,U.P. (West),Vi,12500495.0,prev
+2026-02-01,U.P. (West),BSNL,5195981.0,prev
+2026-02-01,Tamil Nadu,Vi,14276884.0,prev
+2026-02-01,Delhi,Jio,20466208.0,prev
+2026-02-01,Delhi,MTNL,134606.0,prev
+2026-02-01,Delhi,Vi,16326460.0,prev
+2026-02-01,Andhra Pradesh,Airtel,38327283.0,prev
+2026-02-01,Andhra Pradesh,Vi,8854876.0,prev
+2026-02-01,Andhra Pradesh,BSNL,7489622.0,prev
+2026-02-01,Andhra Pradesh,Jio,32075153.0,prev
+2026-02-01,Assam,Airtel,14212088.0,prev
+2026-02-01,Assam,Vi,1466072.0,prev
+2026-02-01,Assam,BSNL,2939314.0,prev
+2026-02-01,Assam,Jio,9910383.0,prev
+2026-02-01,Bihar,Airtel,49237048.0,prev
+2026-02-01,Bihar,Vi,7359813.0,prev
+2026-02-01,Bihar,BSNL,5636574.0,prev
+2026-02-01,Bihar,Jio,44537959.0,prev
+2026-02-01,Delhi,Airtel,38222715.0,prev
